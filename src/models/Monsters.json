@@ -433,7 +433,7 @@
     },
     {
       "name": "CopyCat",
-      "family": "MaterialFamily",
+      "family": "ZombieFamily",
       "recipes": [],
       "asBase": [
         {
@@ -3623,6 +3623,12 @@
           "result": "KingSlime",
           "base": "SlimeFamily",
           "mate": "BossFamily"
+        },
+        {
+          "result": "KingSlime",
+          "base": "Slime",
+          "mate": "Slime",
+          "req": "PlusFive"
         }
       ],
       "asBase": [
@@ -5737,26 +5743,12 @@
       ]
     },
     {
-      "name": "Kingslime",
-      "family": "SlimeFamily",
-      "recipes": [
-        {
-          "result": "Kingslime",
-          "base": "Slime",
-          "mate": "Slime",
-          "req": "PlusFive"
-        }
-      ],
-      "asBase": [],
-      "asMate": []
-    },
-    {
       "name": "Slime",
       "family": "SlimeFamily",
       "recipes": [],
       "asBase": [
         {
-          "result": "Kingslime",
+          "result": "KingSlime",
           "base": "Slime",
           "mate": "Slime",
           "req": "PlusFive"
@@ -5785,7 +5777,7 @@
       ],
       "asMate": [
         {
-          "result": "Kingslime",
+          "result": "KingSlime",
           "base": "Slime",
           "mate": "Slime",
           "req": "PlusFive"
@@ -7019,17 +7011,129 @@
       ]
     },
     {
-      "name": "GasGon",
+      "name": "Gasgon",
       "family": "DragonFamily",
       "recipes": [
         {
-          "result": "GasGon",
+          "result": "Gasgon",
           "base": "DragonFamily",
           "mate": "PlantFamily"
         }
       ],
-      "asBase": [],
-      "asMate": []
+      "asBase": [
+        {
+          "result": "MadDragon",
+          "base": "Gasgon",
+          "mate": "BeastFamily"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Goategon"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Trumpeter"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "MadCondor"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "FunkyBird"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "ArcDemon"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Lionex"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "GoatHorn"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Ogre"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Akubar"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "DeadNoble"
+        },
+        {
+          "result": "Andreal",
+          "base": "Gasgon",
+          "mate": "Golem"
+        },
+        {
+          "result": "Coatol",
+          "base": "Gasgon",
+          "mate": "DarkHorn"
+        },
+        {
+          "result": "Coatol",
+          "base": "Gasgon",
+          "mate": "MadKnight"
+        },
+        {
+          "result": "Coatol",
+          "base": "Gasgon",
+          "mate": "CopyCat"
+        },
+        {
+          "result": "Coatol",
+          "base": "Gasgon",
+          "mate": "StoneMan"
+        },
+        {
+          "result": "Coatol",
+          "base": "Gasgon",
+          "mate": "WhipBird"
+        }
+      ],
+      "asMate": [
+        {
+          "result": "Yeti",
+          "base": "IronTurt",
+          "mate": "Gasgon"
+        },
+        {
+          "result": "Yeti",
+          "base": "Goategon",
+          "mate": "Gasgon"
+        },
+        {
+          "result": "Yeti",
+          "base": "WildApe",
+          "mate": "Gasgon"
+        },
+        {
+          "result": "Yeti",
+          "base": "MadCat",
+          "mate": "Gasgon"
+        },
+        {
+          "result": "PomPomBom",
+          "base": "CopyCat",
+          "mate": "Gasgon"
+        }
+      ]
     },
     {
       "name": "FairyDrak",
@@ -7535,125 +7639,6 @@
           "result": "Grendal",
           "base": "DevilFamily",
           "mate": "MadDragon"
-        }
-      ]
-    },
-    {
-      "name": "Gasgon",
-      "family": "DragonFamily",
-      "recipes": [],
-      "asBase": [
-        {
-          "result": "MadDragon",
-          "base": "Gasgon",
-          "mate": "BeastFamily"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Goategon"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Trumpeter"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "MadCondor"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "FunkyBird"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "ArcDemon"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Lionex"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "GoatHorn"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Ogre"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Akubar"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "DeadNoble"
-        },
-        {
-          "result": "Andreal",
-          "base": "Gasgon",
-          "mate": "Golem"
-        },
-        {
-          "result": "Coatol",
-          "base": "Gasgon",
-          "mate": "DarkHorn"
-        },
-        {
-          "result": "Coatol",
-          "base": "Gasgon",
-          "mate": "MadKnight"
-        },
-        {
-          "result": "Coatol",
-          "base": "Gasgon",
-          "mate": "CopyCat"
-        },
-        {
-          "result": "Coatol",
-          "base": "Gasgon",
-          "mate": "StoneMan"
-        },
-        {
-          "result": "Coatol",
-          "base": "Gasgon",
-          "mate": "WhipBird"
-        }
-      ],
-      "asMate": [
-        {
-          "result": "Yeti",
-          "base": "IronTurt",
-          "mate": "Gasgon"
-        },
-        {
-          "result": "Yeti",
-          "base": "Goategon",
-          "mate": "Gasgon"
-        },
-        {
-          "result": "Yeti",
-          "base": "WildApe",
-          "mate": "Gasgon"
-        },
-        {
-          "result": "Yeti",
-          "base": "MadCat",
-          "mate": "Gasgon"
-        },
-        {
-          "result": "PomPomBom",
-          "base": "CopyCat",
-          "mate": "Gasgon"
         }
       ]
     },
@@ -8274,7 +8259,7 @@
     },
     {
       "name": "GoHopper",
-      "family": "BugFamily",
+      "family": "",
       "recipes": [],
       "asBase": [],
       "asMate": [
@@ -19331,6 +19316,13 @@
           "mate": "GigaDraco"
         }
       ],
+      "asBase": [],
+      "asMate": []
+    },
+    {
+      "name": "Darck",
+      "family": "BossFamily",
+      "recipes": [],
       "asBase": [],
       "asMate": []
     }

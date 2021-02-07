@@ -1,18 +1,22 @@
 import React from 'react';
 import styled from 'styled-components';
-import { library } from '../models/Library';
+import { IMonster } from '../models/Models';
 import { MonsterCard } from './MonsterCard';
 
 const List = styled.ul`
-  list-style: none;
-  padding: 10px;
+  list-style-type: none;
+  padding: 0px;
   margin: 10px;
+  padding-left: 0;
 `
 
+interface MonsterListProps {
+  monsters: IMonster[];
+}
 
-export const MonsterList = () => {
+export const MonsterList = ({monsters} : MonsterListProps) => {
   const items: any = [];
-  library.monsters.forEach(x => items.push(
+  monsters.forEach(x => items.push(
     <MonsterCard monster={x} />
   ))
 
@@ -22,5 +26,3 @@ export const MonsterList = () => {
     </List>
   );
 }
-
-export default MonsterList;

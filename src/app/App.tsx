@@ -1,10 +1,13 @@
 import React from 'react';
-import MonsterList from '../components/MonsterList';
+import { FamilyList } from '../components/FamilyList';
+import { Family } from '../models/Models';
 
 function App() {
   return (
     <div>
-      <MonsterList />
+      {Object.keys(Family).map(x => (
+        <FamilyList family={x as Family} />
+      ))}
     </div>
   );
 }

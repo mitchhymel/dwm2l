@@ -1,11 +1,9 @@
 import React from 'react';
-import { IMonster, IRecipe } from '../models/Models';
+import { IMonster, RecipeComponentType } from '../models/Models';
 import styled from 'styled-components';
-import { MonsterImage } from './MosnterImage';
-
-interface MonsterCardProps {
-  monster: IMonster,
-}
+import { MonsterImage } from './MonsterImage';
+import { RecipeList } from './RecipeList';
+import { Row, Column } from './ResponsiveComponents';
 
 const ListItem = styled.li`
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -18,35 +16,25 @@ const ListItem = styled.li`
   padding: 2px 16px;
 `
 
-interface RecipeItemProps {
-  recipe: IRecipe;
+interface MonsterCardProps {
+  monster: IMonster,
 }
-const RecipeItem = ({recipe}: RecipeItemProps) => (
-  <div>
-    {recipe.base} + {recipe.mate} = {recipe.result}
-  </div>
-);
 
-interface RecipeListProps {
-  recipes: IRecipe[];
-}
-const RecipeList = ({recipes}: RecipeListProps) => {
-  const items: any = [];
-  recipes.forEach(x => items.push(
-    <RecipeItem recipe={x}/>
-  ))
-
-  return (
-    <ul>
-      {items}
-    </ul>
-  );  
-}
 
 export const MonsterCard = ({monster}: MonsterCardProps) => (
   <ListItem>
-    <div>{monster.name} - {monster.family}</div>
-    <MonsterImage monster={monster} isPsx />
-    <RecipeList recipes={monster.recipes}/>
+    <h1>{monster.name} - {monster.family}</h1>
+    <MonsterImage monster={monster.name} />
+    <Row>
+      <Column span={2}>
+        <RecipeList recipes={monster.recipes} as={RecipeComponentType.Result}/>
+      </Column>
+      <Column span={4}>
+        <RecipeList recipes={monster.asBase} as={RecipeComponentType.Base}/>
+      </Column>
+      <Column span={4}>
+        <RecipeList recipes={monster.asMate} as={RecipeComponentType.Mate}/>
+      </Column>
+    </Row>
   </ListItem>
 );

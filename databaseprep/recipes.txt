@@ -44,7 +44,7 @@ KingSlime,SpotKing,Centasaur
 KingSlime,SpotKing,DeadNoble
 KingSlime,SpotKing,WhiteKing
 KingSlime,SlimeFamily,BossFamily
-Kingslime,Slime,Slime,PlusFive
+KingSlime,Slime,Slime,PlusFive
 Metaly,SlimeFamily,MetalDrak
 Metabble,Metaly,Metaly
 Metabble,Metaly,WonderEgg
@@ -106,7 +106,7 @@ WonderEgg,Slime,BigRoost,Link
 DragonKid,DragonFamily,SlimeFamily
 Tortragon,DragonFamily,BeastFamily
 Pteranod,DragonFamily,BirdFamily
-GasGon,DragonFamily,PlantFamily
+Gasgon,DragonFamily,PlantFamily
 FairyDrak,DragonFamily,BugFamily
 LizardMan,DragonFamily,DevilFamily
 Poisongon,DragonFamily,ZombieFamily

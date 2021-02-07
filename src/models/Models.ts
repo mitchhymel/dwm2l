@@ -12,24 +12,28 @@ export interface IMonster {
 }
 
 export interface IRecipe {
-  base: IMonster | Family;
-  mate: IMonster | Family;
-  result: IMonster;
+  base: Monsters | Family;
+  mate: Monsters | Family;
+  result: Monsters;
   req: Requirement | null;
 }
 
+export function isMonster(object: any): object is IMonster {
+  return (object as Monsters) !== undefined;
+}
+
 export enum Family {
-  SlimeFamily,
-  DragonFamily,
-  BeastFamily,
-  BirdFamily,
-  PlantFamily,
-  BugFamily,
-  DemonFamily,
-  ZombieFamily,
-  MaterialFamily,
-  WaterFamily,
-  BossFamily
+  SlimeFamily='SlimeFamily',
+  DragonFamily='DragonFamily',
+  BeastFamily='BeastFamily',
+  BirdFamily='BirdFamily',
+  PlantFamily='PlantFamily',
+  BugFamily='BugFamily',
+  DemonFamily='DemonFamily',
+  ZombieFamily='ZombieFamily',
+  MaterialFamily='MaterialFamily',
+  WaterFamily='WaterFamily',
+  BossFamily='BossFamily'
 }
 
 export enum RecruitLocation {
@@ -53,7 +57,14 @@ export enum Requirement {
   Link
 }
 
+export enum RecipeComponentType {
+  Result='as Result',
+  Base='as Base',
+  Mate='as Mate'
+}
+
 export enum Monsters {
+  // Slime
   DrakSlime,
   SpotSlime,
   WingSlime,
@@ -63,13 +74,13 @@ export enum Monsters {
   Babble,
   BoxSlime,
   Pearlgel,
+  Slime,
   Healer,
   FangSlime,
   RockSlime,
   SlimeBorg,
   Slabbit,
   KingSlime,
-  Kingslime,
   Metaly,
   Metabble,
   SpotKing,
@@ -80,17 +91,18 @@ export enum Monsters {
   GoldSlime,
   GranSlime,
   WonderEgg,
+
+  // Dragon
   DragonKid,
   Tortragon,
   Pteranod,
-  GasGon,
+  Gasgon,
   FairyDrak,
   LizardMan,
   Poisongon,
   Swordgon,
   Drygon,
   Dragon,
-  Vampirus,
   MiniDrak,
   MadDragon,
   RayBurn,
@@ -98,6 +110,7 @@ export enum Monsters {
   LizardFly,
   Andreal,
   KingCobra,
+  Vampirus,
   SnakeBat,
   Spikerous,
   GreatDrak,
@@ -111,6 +124,8 @@ export enum Monsters {
   Divinegon,
   Orligon,
   GigaDraco,
+
+  // Beast
   Tonguella,
   Almiraj,
   CatFly,
@@ -143,6 +158,8 @@ export enum Monsters {
   Gorago,
   CatMage,
   Dumbira,
+
+  // Bird
   Picky,
   Wyvern,
   BullBird,
@@ -169,6 +186,9 @@ export enum Monsters {
   Azurile,
   Shantak,
   CragDevil,
+
+  // Plant
+  MadPlant,
   FireWeed,
   FloraMan,
   WingTree,
@@ -191,9 +211,12 @@ export enum Monsters {
   GhosTree,
   RoseVine,
   Egdracil,
+  Warubou,
   Watabou,
   Eggplaton,
   FooHero,
+
+  // Bug
   GiantSlug,
   Catapila,
   Gophecada,
@@ -204,6 +227,7 @@ export enum Monsters {
   StagBug,
   Pyuro,
   ArmyAnt,
+  GoHopper,
   TailEater,
   ArmorPede,
   Eyeder,
@@ -219,8 +243,10 @@ export enum Monsters {
   Digster,
   Skularach,
   MultiEyes,
+
+  // Demon
   Pixy,
-  ArcDemon,
+  MedusaEye,
   AgDevil,
   Demonite,
   DarkEye,
@@ -230,7 +256,7 @@ export enum Monsters {
   Bubblemon,
   OneEyeClown,
   Gremlin,
-  MedusaEye,
+  ArcDemon,
   Lionex,
   GoatHorn,
   Orc,
@@ -249,6 +275,9 @@ export enum Monsters {
   Durran,
   Titanis,
   LampGenie,
+
+  // Zombie
+  Spooky,
   Skullgon,
   Putrepup,
   RotRaven,
@@ -260,7 +289,6 @@ export enum Monsters {
   Hork,
   Mudron,
   NiteWhip,
-  MadSpirit,
   WindMerge,
   Reaper,
   Inverzon,
@@ -272,8 +300,12 @@ export enum Monsters {
   Skeletor,
   Servant,
   Lazamanus,
+  Copycat,
+  MadSpirit,
   PomPomBom,
   Niterich,
+
+  // Material
   JewelBag,
   EvilWand,
   MadCandle,
@@ -306,6 +338,9 @@ export enum Monsters {
   DarkMate,
   ProtoMech,
   CloudKing,
+
+  // Water
+  Petiteel,
   Moray,
   WalrusMan,
   RayGigas,
@@ -337,6 +372,8 @@ export enum Monsters {
   Poseidon,
   Pumpoise,
   StarFish,
+
+  // Boss
   DracoLord1,
   DracoLord2,
   LordDraco,
@@ -357,6 +394,7 @@ export enum Monsters {
   DeathMore3,
   DarkDrium,
   Orgodemir,
-  Orgodemir2
+  Orgodemir2,
+  Darck
 }
 
