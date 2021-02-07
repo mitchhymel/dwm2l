@@ -7,6 +7,6 @@ type MonsterImageProps = {
 
 export const MonsterImage = ({monster, isPsx=true}: MonsterImageProps) => (
   <div>
-    <img alt={monster.toString()} src={`./assets/${isPsx ? 'psx' : 'gbc'}/${monster.toString()}.${isPsx ? 'gif' : 'png'}`}/>
+    <img alt={monster.toString()} src={`/assets/${isPsx ? 'psx' : 'gbc'}/${monster.toString()}.${isPsx ? 'gif' : 'png'}`}/>
   </div>
 );

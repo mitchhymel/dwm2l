@@ -1,14 +1,24 @@
 import React from 'react';
-import { FamilyList } from '../components/FamilyList';
-import { Family } from '../models/Models';
+import { MainScreen } from './MainScreen';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
+import { MonsterScreen } from './MonsterScreen';
+import ScrollToTop from './ScrollToTop';
 
 function App() {
   return (
-    <div>
-      {Object.keys(Family).map(x => (
-        <FamilyList family={x as Family} />
-      ))}
-    </div>
+    <Router>
+      <div>
+        <ScrollToTop />
+        <Switch>
+          <Route path='/monster/:monster' component={MonsterScreen} />
+          <Route path="/" component={MainScreen} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
 

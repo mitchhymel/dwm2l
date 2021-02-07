@@ -10,7 +10,7 @@ export const RecipeList = ({recipes, as}: RecipeListProps) => {
   const items: any = [];
   recipes.forEach(x => items.push(
     <RecipeListItem recipe={x} as={as}/>
-  ))
+  ));
 
   return (
     <div>

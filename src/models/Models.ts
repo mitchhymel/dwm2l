@@ -1,6 +1,3 @@
-export interface ILibrary {
-  monsters: Map<Monsters, IMonster>;
-}
 
 export interface IMonster {
   name: Monsters;

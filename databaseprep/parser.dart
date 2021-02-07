@@ -100,6 +100,8 @@ class DWMLibrary {
 
   Map<String, dynamic> toJson() => this.toMap();
   Map<String, dynamic> toMap() {
+    Map<String, dynamic> map = new Map<String, dynamic>();
+    this.monsters.forEach((x) => map.putIfAbsent(x.name, () => x));
     return {
       'monsters': this.monsters.toList(),
     };
