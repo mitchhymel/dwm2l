@@ -1,5 +1,6 @@
 {
   "name": "dwm2l",
+  "homepage": "https://mitchhymel.github.io/dwm2l",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +15,7 @@
     "@types/react-responsive": "^8.0.2",
     "@types/react-router-dom": "^5.1.7",
     "@types/styled-components": "^5.1.7",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-responsive": "^8.2.0",
@@ -27,7 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
