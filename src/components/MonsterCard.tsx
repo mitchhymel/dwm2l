@@ -5,15 +5,9 @@ import { MonsterImage } from './MonsterImage';
 import { RecipeList } from './RecipeList';
 import { Row, Column } from './ResponsiveComponents';
 
-const ListItem = styled.li`
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-
-  :hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  }
-
-  padding: 2px 16px;
+const Container = styled.div`
+  text-align: center;
+  justify-content: center;
 `
 
 interface MonsterCardProps {
@@ -22,7 +16,7 @@ interface MonsterCardProps {
 
 
 export const MonsterCard = ({monster}: MonsterCardProps) => (
-  <ListItem>
+  <Container>
     <h1>{monster.name} - {monster.family}</h1>
     <MonsterImage monster={monster.name} />
     <Row>
@@ -36,5 +30,5 @@ export const MonsterCard = ({monster}: MonsterCardProps) => (
         <RecipeList recipes={monster.asMate} as={RecipeComponentType.Mate}/>
       </Column>
     </Row>
-  </ListItem>
+  </Container>
 );

@@ -9,7 +9,7 @@ export class Library {
   }
 
   get(monster: Monsters | string): IMonster {
-    return this.monsters.find(x => x.name.toString().toLowerCase() == monster.toString().toLowerCase())!;
+    return this.monsters.find(x => x.name.toString().toLowerCase() === monster.toString().toLowerCase())!;
   }
 }
 
