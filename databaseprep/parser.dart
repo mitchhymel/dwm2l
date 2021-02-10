@@ -39,6 +39,20 @@ class Monster {
   final List<Recipe> asBase = [];
   final List<Recipe> asMate = [];
 
+  final Set<String> locations = new Set();
+  final Set<String> cobiLocations = new Set();
+  final Set<String> taraLocations = new Set();
+
+  List<String> skills = [];
+  int maxLevel = 0;
+  int experience = 0;
+  int hp = 0;
+  int mp = 0;
+  int attack = 0;
+  int defence = 0;
+  int agility = 0;
+  int intelligence = 0;
+
   Monster(this.name);
 
   @override
@@ -59,7 +73,19 @@ class Monster {
       'family': this.family,
       'recipes': this.recipes,
       'asBase': this.asBase,
-      'asMate': this.asMate
+      'asMate': this.asMate,
+      'skills': this.skills,
+      'maxLevel': this.maxLevel,
+      'experience': this.experience,
+      'hp': this.hp,
+      'mp': this.mp,
+      'attack': this.attack,
+      'defence': this.defence,
+      'agility': this.agility,
+      'intelligence': this.intelligence,
+      'locations': this.locations.toList(),
+      'cobiLocations': this.cobiLocations.toList(),
+      'taraLocations': this.taraLocations.toList(),
     };
   }
 }
@@ -96,6 +122,12 @@ class DWMLibrary {
     _augmentRecipes();
 
     _augmentFamilies();
+
+    _augmentStatsSkills();
+
+    //_augmentResistances();
+
+    _augmentLocations();
   }
 
   Map<String, dynamic> toJson() => this.toMap();
@@ -153,6 +185,97 @@ class DWMLibrary {
     for (String line in lines) {
       if (_lineIsRecipe(line)) {
         _parseLineAndUpdateMap(line);
+      }
+    }
+  }
+
+  void _augmentStatsSkills() {
+    File file = new File('statsskills.txt');
+    List<String> lines = file.readAsLinesSync();
+
+    for (String line in lines) {
+      if (line.length > 0) {
+        var parts = line.split(',');
+        String name = parts[0];
+        int ml = int.parse(parts[1]);
+        int ep = int.parse(parts[2]);
+        int hp = int.parse(parts[3]);
+        int mp = int.parse(parts[4]);
+        int at = int.parse(parts[5]);
+        int df = int.parse(parts[6]);
+        int ag = int.parse(parts[7]);
+        int inte = int.parse(parts[8]);
+        List<String> skills = [parts[9], parts[10], parts[11]];
+        
+        Monster res;
+        if (hasByName(name)) {
+          res = getByName(name);
+        }
+        else {
+          res = new Monster(name);
+          monsters.add(res);
+        }
+
+        res.maxLevel = ml;
+        res.experience = ep;
+        res.hp = hp;
+        res.mp = mp;
+        res.attack = at;
+        res.defence = df;
+        res.agility = ag;
+        res.intelligence = inte;
+        res.skills = skills;
+      }
+    }
+  }
+
+  void _augmentResistances() {
+
+  }
+
+  void _augmentLocations() {
+    File file = new File('locations.txt');
+    List<String> lines = file.readAsLinesSync();
+
+    for (String line in lines) {
+      var parts = line.split(',');
+      String name = parts[0];
+      String loc = parts[1];
+      if (parts.length == 2) {
+        Monster res;
+        if (hasByName(name)) {
+          res = getByName(name);
+        }
+        else {
+          res = new Monster(name);
+          monsters.add(res);
+        }
+
+        res.locations.add(loc);
+      }
+      else if (parts.length == 3) {
+        Monster res;
+        if (hasByName(name)) {
+          res = getByName(name);
+        }
+        else {
+          res = new Monster(name);
+          monsters.add(res);
+        }
+
+        String version = parts[2];
+        if (version == 'Cobi') {
+          res.cobiLocations.add(loc);
+        }
+        else if (version == 'Tara') {
+          res.taraLocations.add(loc);
+        }
+        else {
+          throw Exception('Error when parsing locations: $line');
+        }
+      }
+      else {
+        throw Exception('error when parsing locations file: $line');
       }
     }
   }

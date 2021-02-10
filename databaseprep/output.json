@@ -53,6 +53,24 @@
           "base": "Goopi",
           "mate": "DrakSlime"
         }
+      ],
+      "skills": [
+        "BeDragon",
+        "FireAir",
+        "SuckAir"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 16,
+      "mp": 10,
+      "attack": 13,
+      "defence": 8,
+      "agility": 20,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -80,7 +98,25 @@
           "mate": "SpotSlime",
           "req": "PlusFive"
         }
-      ]
+      ],
+      "skills": [
+        "CallHelp",
+        "LushLicks",
+        "Imitate"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 17,
+      "mp": 1,
+      "attack": 17,
+      "defence": 4,
+      "agility": 17,
+      "intelligence": 8,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WingSlime",
@@ -99,7 +135,25 @@
           "base": "LizardMan",
           "mate": "WingSlime"
         }
-      ]
+      ],
+      "skills": [
+        "WindBeast",
+        "SquallHit",
+        "TailWind"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 13,
+      "mp": 2,
+      "attack": 11,
+      "defence": 11,
+      "agility": 24,
+      "intelligence": 8,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "TreeSlime",
@@ -129,6 +183,24 @@
           "base": "GulpBeast",
           "mate": "TreeSlime"
         }
+      ],
+      "skills": [
+        "Sap",
+        "Paralyze",
+        "SleepAir"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 13,
+      "mp": 11,
+      "attack": 8,
+      "defence": 14,
+      "agility": 17,
+      "intelligence": 17,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Lonely"
       ]
     },
     {
@@ -158,7 +230,26 @@
           "base": "MaterialFamily",
           "mate": "Snaily"
         }
-      ]
+      ],
+      "skills": [
+        "Icebolt",
+        "NumbOff",
+        "CallHelp"
+      ],
+      "maxLevel": 35,
+      "experience": 8,
+      "hp": 11,
+      "mp": 10,
+      "attack": 17,
+      "defence": 20,
+      "agility": 20,
+      "intelligence": 8,
+      "locations": [
+        "Pirate",
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SlimeNite",
@@ -193,7 +284,25 @@
           "base": "StoneMan",
           "mate": "SlimeNite"
         }
-      ]
+      ],
+      "skills": [
+        "Heal",
+        "Upper",
+        "BeastCut"
+      ],
+      "maxLevel": 40,
+      "experience": 15,
+      "hp": 14,
+      "mp": 1,
+      "attack": 15,
+      "defence": 14,
+      "agility": 20,
+      "intelligence": 14,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Babble",
@@ -222,7 +331,25 @@
           "base": "DragonFamily",
           "mate": "Babble"
         }
-      ]
+      ],
+      "skills": [
+        "Surround",
+        "PoisonHit",
+        "EerieLite"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 17,
+      "mp": 7,
+      "attack": 17,
+      "defence": 8,
+      "agility": 14,
+      "intelligence": 13,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Poisongon",
@@ -241,7 +368,25 @@
           "base": "SlimeFamily",
           "mate": "Poisongon"
         }
-      ]
+      ],
+      "skills": [
+        "PoisonHit",
+        "PoisonGas",
+        "LushLicks"
+      ],
+      "maxLevel": 45,
+      "experience": 19,
+      "hp": 21,
+      "mp": 16,
+      "attack": 15,
+      "defence": 13,
+      "agility": 7,
+      "intelligence": 1,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "GiantMoth",
@@ -285,7 +430,25 @@
           "base": "Gigantes",
           "mate": "GiantMoth"
         }
-      ]
+      ],
+      "skills": [
+        "WindBeast",
+        "Paralyze",
+        "Radiant"
+      ],
+      "maxLevel": 30,
+      "experience": 2,
+      "hp": 14,
+      "mp": 9,
+      "attack": 16,
+      "defence": 12,
+      "agility": 20,
+      "intelligence": 12,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BoxSlime",
@@ -309,7 +472,25 @@
           "base": "MaterialFamily",
           "mate": "BoxSlime"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "Upper",
+        "Ramming"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 11,
+      "mp": 10,
+      "attack": 14,
+      "defence": 19,
+      "agility": 14,
+      "intelligence": 13,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pearlgel",
@@ -322,7 +503,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Healer",
@@ -366,7 +559,27 @@
           "mate": "TreeBoy"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Heal",
+        "HealUs",
+        "Upper"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 11,
+      "mp": 15,
+      "attack": 11,
+      "defence": 11,
+      "agility": 20,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": [
+        "Pirate"
+      ]
     },
     {
       "name": "PillowRat",
@@ -395,7 +608,23 @@
           "base": "PlantFamily",
           "mate": "PillowRat"
         }
-      ]
+      ],
+      "skills": [
+        "Slow",
+        "Ramming",
+        "SideStep"
+      ],
+      "maxLevel": 35,
+      "experience": 11,
+      "hp": 14,
+      "mp": 17,
+      "attack": 8,
+      "defence": 8,
+      "agility": 19,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadPlant",
@@ -429,6 +658,26 @@
           "base": "ZombieFamily",
           "mate": "MadPlant"
         }
+      ],
+      "skills": [
+        "NumbOff",
+        "Sap",
+        "Slow"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 15,
+      "mp": 24,
+      "attack": 11,
+      "defence": 13,
+      "agility": 6,
+      "intelligence": 18,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -523,7 +772,19 @@
           "base": "CaptDead",
           "mate": "CopyCat"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FunkyBird",
@@ -623,7 +884,23 @@
           "base": "StoneMan",
           "mate": "FunkyBird"
         }
-      ]
+      ],
+      "skills": [
+        "PaniDance",
+        "LifeDance",
+        "Hustle"
+      ],
+      "maxLevel": 50,
+      "experience": 5,
+      "hp": 14,
+      "mp": 20,
+      "attack": 8,
+      "defence": 9,
+      "agility": 16,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FangSlime",
@@ -682,7 +959,25 @@
           "base": "ZombieFamily",
           "mate": "FangSlime"
         }
-      ]
+      ],
+      "skills": [
+        "CallHelp",
+        "ChargeUp",
+        "WarCry"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 25,
+      "mp": 1,
+      "attack": 18,
+      "defence": 13,
+      "agility": 20,
+      "intelligence": 13,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Almiraj",
@@ -707,7 +1002,25 @@
           "base": "SlimeFamily",
           "mate": "Almiraj"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "ChargeUp",
+        "Beserker"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 18,
+      "mp": 5,
+      "attack": 14,
+      "defence": 9,
+      "agility": 15,
+      "intelligence": 4,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GulpBeast",
@@ -1347,7 +1660,23 @@
           "base": "Merman",
           "mate": "GulpBeast"
         }
-      ]
+      ],
+      "skills": [
+        "Massacre",
+        "Ramming",
+        "WarCry"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 24,
+      "mp": 1,
+      "attack": 26,
+      "defence": 13,
+      "agility": 7,
+      "intelligence": 1,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Trumpeter",
@@ -1627,7 +1956,23 @@
           "base": "MaterialFamily",
           "mate": "Trumpeter"
         }
-      ]
+      ],
+      "skills": [
+        "Beserker",
+        "SandStorm",
+        "WarCry"
+      ],
+      "maxLevel": 50,
+      "experience": 14,
+      "hp": 17,
+      "mp": 8,
+      "attack": 21,
+      "defence": 17,
+      "agility": 14,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "KingLeo",
@@ -1736,7 +2081,23 @@
           "base": "Pizzaro",
           "mate": "KingLeo"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "FrigidAir",
+        "BiAttack"
+      ],
+      "maxLevel": 60,
+      "experience": 15,
+      "hp": 20,
+      "mp": 14,
+      "attack": 24,
+      "defence": 23,
+      "agility": 17,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DarkHorn",
@@ -1811,7 +2172,23 @@
           "base": "Baramos",
           "mate": "DarkHorn"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "StopSpell",
+        "PsycheUp"
+      ],
+      "maxLevel": 50,
+      "experience": 13,
+      "hp": 17,
+      "mp": 4,
+      "attack": 19,
+      "defence": 18,
+      "agility": 10,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadCat",
@@ -1906,7 +2283,23 @@
           "base": "Merman",
           "mate": "MadCat"
         }
-      ]
+      ],
+      "skills": [
+        "VacuSlash",
+        "SquallHit",
+        "LegSweep"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 15,
+      "mp": 7,
+      "attack": 18,
+      "defence": 14,
+      "agility": 17,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RockSlime",
@@ -2001,7 +2394,25 @@
           "base": "StoneMan",
           "mate": "RockSlime"
         }
-      ]
+      ],
+      "skills": [
+        "HighJump",
+        "Ramming",
+        "StrongD"
+      ],
+      "maxLevel": 45,
+      "experience": 11,
+      "hp": 13,
+      "mp": 10,
+      "attack": 14,
+      "defence": 23,
+      "agility": 16,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "DeadNite",
@@ -2106,6 +2517,26 @@
           "base": "SlimeFamily",
           "mate": "DeadNite"
         }
+      ],
+      "skills": [
+        "Heal",
+        "Dechaos",
+        "CurseOff"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 17,
+      "mp": 7,
+      "attack": 19,
+      "defence": 9,
+      "agility": 12,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -2301,7 +2732,25 @@
           "base": "RushFish",
           "mate": "Golem"
         }
-      ]
+      ],
+      "skills": [
+        "ChargeUp",
+        "PsycheUp",
+        "Meditate"
+      ],
+      "maxLevel": 45,
+      "experience": 18,
+      "hp": 17,
+      "mp": 4,
+      "attack": 12,
+      "defence": 21,
+      "agility": 4,
+      "intelligence": 6,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "StoneMan",
@@ -2521,6 +2970,24 @@
           "base": "CaptDead",
           "mate": "StoneMan"
         }
+      ],
+      "skills": [
+        "StrongD",
+        "Cover",
+        "SealAll"
+      ],
+      "maxLevel": 50,
+      "experience": 15,
+      "hp": 24,
+      "mp": 10,
+      "attack": 23,
+      "defence": 24,
+      "agility": 1,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -2555,7 +3022,23 @@
           "base": "WaterFamily",
           "mate": "BombCrag"
         }
-      ]
+      ],
+      "skills": [
+        "Sacrifice",
+        "Farewell",
+        "RockThrow"
+      ],
+      "maxLevel": 50,
+      "experience": 14,
+      "hp": 15,
+      "mp": 11,
+      "attack": 17,
+      "defence": 20,
+      "agility": 0,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SlimeBorg",
@@ -2649,7 +3132,23 @@
           "base": "SabreMan",
           "mate": "SlimeBorg"
         }
-      ]
+      ],
+      "skills": [
+        "Lightning",
+        "RainSlash",
+        "BladeD"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 18,
+      "mp": 11,
+      "attack": 20,
+      "defence": 15,
+      "agility": 14,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Swordgon",
@@ -2708,7 +3207,25 @@
           "base": "ZombieFamily",
           "mate": "Swordgon"
         }
-      ]
+      ],
+      "skills": [
+        "CleanCut",
+        "RainSlash",
+        "BladeD"
+      ],
+      "maxLevel": 50,
+      "experience": 20,
+      "hp": 9,
+      "mp": 3,
+      "attack": 23,
+      "defence": 6,
+      "agility": 1,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Spikerous",
@@ -2747,7 +3264,25 @@
           "base": "Mirudraas1",
           "mate": "Spikerous"
         }
-      ]
+      ],
+      "skills": [
+        "RockThrow",
+        "Beserker",
+        "Kamikaze"
+      ],
+      "maxLevel": 35,
+      "experience": 19,
+      "hp": 20,
+      "mp": 8,
+      "attack": 19,
+      "defence": 24,
+      "agility": 1,
+      "intelligence": 2,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GreatDrak",
@@ -2929,7 +3464,25 @@
           "base": "Servant",
           "mate": "GreatDrak"
         }
-      ]
+      ],
+      "skills": [
+        "FrigidAir",
+        "IceSlash",
+        "SealAll"
+      ],
+      "maxLevel": 60,
+      "experience": 23,
+      "hp": 21,
+      "mp": 5,
+      "attack": 23,
+      "defence": 14,
+      "agility": 16,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [
+        "Limbo"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Metabble",
@@ -2979,6 +3532,24 @@
           "base": "BirdFamily",
           "mate": "Metabble"
         }
+      ],
+      "skills": [
+        "Firebal",
+        "Bang",
+        "Sacrifice"
+      ],
+      "maxLevel": 35,
+      "experience": 27,
+      "hp": 0,
+      "mp": 30,
+      "attack": 14,
+      "defence": 31,
+      "agility": 31,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -3159,7 +3730,23 @@
           "base": "CancerMan",
           "mate": "BattleRex"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "MetalCut",
+        "EvilSlash"
+      ],
+      "maxLevel": 60,
+      "experience": 22,
+      "hp": 23,
+      "mp": 16,
+      "attack": 26,
+      "defence": 20,
+      "agility": 17,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SkyDragon",
@@ -3304,7 +3891,25 @@
           "base": "Gismo",
           "mate": "SkyDragon"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "MultiCut",
+        "SuckAir"
+      ],
+      "maxLevel": 40,
+      "experience": 18,
+      "hp": 15,
+      "mp": 11,
+      "attack": 20,
+      "defence": 14,
+      "agility": 18,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Roboster",
@@ -3516,7 +4121,25 @@
           "mate": "Roboster",
           "req": "PlusTen"
         }
-      ]
+      ],
+      "skills": [
+        "SquallHit",
+        "BiAttack",
+        "RainSlash"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 12,
+      "mp": 5,
+      "attack": 21,
+      "defence": 22,
+      "agility": 24,
+      "intelligence": 17,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Slabbit",
@@ -3529,7 +4152,27 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "SideStep",
+        "LegSweep",
+        "Whistle"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 15,
+      "mp": 7,
+      "attack": 14,
+      "defence": 8,
+      "agility": 21,
+      "intelligence": 15,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
+      ]
     },
     {
       "name": "Skullroo",
@@ -3548,6 +4191,24 @@
           "base": "SlimeFamily",
           "mate": "Skullroo"
         }
+      ],
+      "skills": [
+        "ChargeUp",
+        "PaniDance",
+        "EagleEye"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 14,
+      "mp": 10,
+      "attack": 11,
+      "defence": 8,
+      "agility": 16,
+      "intelligence": 2,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -3739,6 +4400,24 @@
           "base": "Gismo",
           "mate": "KingSlime"
         }
+      ],
+      "skills": [
+        "Mpass",
+        "Barrier",
+        "Vivify"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 18,
+      "mp": 14,
+      "attack": 15,
+      "defence": 14,
+      "agility": 20,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -3990,7 +4669,23 @@
           "base": "Gismo",
           "mate": "SpotKing"
         }
-      ]
+      ],
+      "skills": [
+        "CleanCut",
+        "NapAttack",
+        "MouthShut"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 18,
+      "mp": 11,
+      "attack": 18,
+      "defence": 11,
+      "agility": 20,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Divinegon",
@@ -4050,7 +4745,23 @@
           "base": "Durran",
           "mate": "Divinegon"
         }
-      ]
+      ],
+      "skills": [
+        "BigBang",
+        "FrigidAir",
+        "Meditate"
+      ],
+      "maxLevel": 70,
+      "experience": 28,
+      "hp": 26,
+      "mp": 25,
+      "attack": 28,
+      "defence": 24,
+      "agility": 20,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Unicorn",
@@ -4200,6 +4911,25 @@
           "base": "SabreMan",
           "mate": "Unicorn"
         }
+      ],
+      "skills": [
+        "Heal",
+        "Vivify",
+        "Errand"
+      ],
+      "maxLevel": 50,
+      "experience": 14,
+      "hp": 19,
+      "mp": 21,
+      "attack": 14,
+      "defence": 13,
+      "agility": 12,
+      "intelligence": 25,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice",
+        "Elf"
       ]
     },
     {
@@ -4380,7 +5110,23 @@
           "base": "CaptDead",
           "mate": "MadCondor"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "HealUs",
+        "MultiCut"
+      ],
+      "maxLevel": 45,
+      "experience": 6,
+      "hp": 14,
+      "mp": 11,
+      "attack": 18,
+      "defence": 12,
+      "agility": 17,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ZapBird",
@@ -4520,7 +5266,23 @@
           "base": "MetalDrak",
           "mate": "ZapBird"
         }
-      ]
+      ],
+      "skills": [
+        "HellBlast",
+        "Lightning",
+        "BoltSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 7,
+      "hp": 20,
+      "mp": 7,
+      "attack": 19,
+      "defence": 17,
+      "agility": 22,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WhipBird",
@@ -4825,7 +5587,23 @@
           "base": "Niterich",
           "mate": "WhipBird"
         }
-      ]
+      ],
+      "skills": [
+        "Ironize",
+        "ThickFog",
+        "TatsuCall"
+      ],
+      "maxLevel": 60,
+      "experience": 15,
+      "hp": 27,
+      "mp": 19,
+      "attack": 12,
+      "defence": 20,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BossTroll",
@@ -4940,7 +5718,25 @@
           "base": "LavaMan",
           "mate": "BossTroll"
         }
-      ]
+      ],
+      "skills": [
+        "Massacre",
+        "Ramming",
+        "Cover"
+      ],
+      "maxLevel": 50,
+      "experience": 24,
+      "hp": 24,
+      "mp": 3,
+      "attack": 25,
+      "defence": 22,
+      "agility": 4,
+      "intelligence": 1,
+      "locations": [
+        "Limbo"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gigantes",
@@ -5175,7 +5971,25 @@
           "base": "RushFish",
           "mate": "Gigantes"
         }
-      ]
+      ],
+      "skills": [
+        "SlimeBlow",
+        "ChargeUp",
+        "EvilSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 22,
+      "hp": 27,
+      "mp": 0,
+      "attack": 27,
+      "defence": 7,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Centasaur",
@@ -5260,7 +6074,23 @@
           "base": "MetalDrak",
           "mate": "Centasaur"
         }
-      ]
+      ],
+      "skills": [
+        "StopSpell",
+        "FireSlash",
+        "RainSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 23,
+      "hp": 20,
+      "mp": 1,
+      "attack": 24,
+      "defence": 21,
+      "agility": 18,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DeadNoble",
@@ -5515,7 +6345,23 @@
           "base": "SabreMan",
           "mate": "DeadNoble"
         }
-      ]
+      ],
+      "skills": [
+        "HealUs",
+        "AquaCut",
+        "TatsuCall"
+      ],
+      "maxLevel": 50,
+      "experience": 16,
+      "hp": 21,
+      "mp": 2,
+      "attack": 26,
+      "defence": 19,
+      "agility": 15,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WhiteKing",
@@ -5740,7 +6586,23 @@
           "base": "Gismo",
           "mate": "WhiteKing"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "Bolt",
+        "Chance"
+      ],
+      "maxLevel": 60,
+      "experience": 25,
+      "hp": 20,
+      "mp": 24,
+      "attack": 14,
+      "defence": 20,
+      "agility": 15,
+      "intelligence": 27,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Slime",
@@ -5782,7 +6644,25 @@
           "mate": "Slime",
           "req": "PlusFive"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "MegaMagic",
+        "Radiant"
+      ],
+      "maxLevel": 40,
+      "experience": 16,
+      "hp": 22,
+      "mp": 11,
+      "attack": 14,
+      "defence": 17,
+      "agility": 11,
+      "intelligence": 13,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Metaly",
@@ -5817,7 +6697,25 @@
           "base": "BirdFamily",
           "mate": "Metaly"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "Icebolt",
+        "Beat"
+      ],
+      "maxLevel": 20,
+      "experience": 25,
+      "hp": 0,
+      "mp": 30,
+      "attack": 11,
+      "defence": 30,
+      "agility": 31,
+      "intelligence": 13,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MetalDrak",
@@ -6017,7 +6915,25 @@
           "base": "CaptDead",
           "mate": "MetalDrak"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "Massacre",
+        "SandStorm"
+      ],
+      "maxLevel": 45,
+      "experience": 15,
+      "hp": 18,
+      "mp": 13,
+      "attack": 20,
+      "defence": 23,
+      "agility": 9,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "WonderEgg",
@@ -6068,7 +6984,23 @@
           "base": "MetalKing",
           "mate": "WonderEgg"
         }
-      ]
+      ],
+      "skills": [
+        "Sacrifice",
+        "Ironize",
+        "Chance"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 8,
+      "mp": 13,
+      "attack": 11,
+      "defence": 19,
+      "agility": 11,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MetalKing",
@@ -6218,7 +7150,23 @@
           "base": "WhiteKing",
           "mate": "MetalKing"
         }
-      ]
+      ],
+      "skills": [
+        "Bolt",
+        "Ironize",
+        "HellBlast"
+      ],
+      "maxLevel": 55,
+      "experience": 29,
+      "hp": 0,
+      "mp": 31,
+      "attack": 15,
+      "defence": 31,
+      "agility": 31,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "TropicGel",
@@ -6252,7 +7200,23 @@
           "base": "BirdFamily",
           "mate": "TropicGel"
         }
-      ]
+      ],
+      "skills": [
+        "Mpass",
+        "SleepAir",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 14,
+      "hp": 15,
+      "mp": 20,
+      "attack": 19,
+      "defence": 9,
+      "agility": 14,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mommonja",
@@ -6276,7 +7240,25 @@
           "base": "WaterFamily",
           "mate": "Mommonja"
         }
-      ]
+      ],
+      "skills": [
+        "CureDance",
+        "MouthShut",
+        "EagleEye"
+      ],
+      "maxLevel": 35,
+      "experience": 9,
+      "hp": 14,
+      "mp": 11,
+      "attack": 16,
+      "defence": 14,
+      "agility": 20,
+      "intelligence": 8,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MimeSlime",
@@ -6331,6 +7313,24 @@
           "base": "Lionex",
           "mate": "MimeSlime"
         }
+      ],
+      "skills": [
+        "PanicAll",
+        "Ahhh",
+        "LoveRain"
+      ],
+      "maxLevel": 40,
+      "experience": 17,
+      "hp": 10,
+      "mp": 12,
+      "attack": 8,
+      "defence": 19,
+      "agility": 20,
+      "intelligence": 17,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -6386,6 +7386,26 @@
           "base": "CancerMan",
           "mate": "EvilWand"
         }
+      ],
+      "skills": [
+        "Dechaos",
+        "FrigidAir",
+        "MapMagic"
+      ],
+      "maxLevel": 50,
+      "experience": 14,
+      "hp": 14,
+      "mp": 15,
+      "attack": 17,
+      "defence": 12,
+      "agility": 9,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -6456,6 +7476,22 @@
           "base": "HoodSquid",
           "mate": "OneEyeClown"
         }
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": [
+        "Limbo"
       ]
     },
     {
@@ -6501,7 +7537,25 @@
           "base": "CatFly",
           "mate": "TreeBoy"
         }
-      ]
+      ],
+      "skills": [
+        "Mpass",
+        "CurseOff",
+        "Hustle"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 15,
+      "mp": 18,
+      "attack": 8,
+      "defence": 3,
+      "agility": 12,
+      "intelligence": 15,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "HaloSlime",
@@ -6534,7 +7588,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Sleep",
+        "SealPray",
+        "LifeSong"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 9,
+      "mp": 20,
+      "attack": 11,
+      "defence": 13,
+      "agility": 12,
+      "intelligence": 22,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pixy",
@@ -6574,6 +7644,24 @@
           "base": "Angleron",
           "mate": "Pixy"
         }
+      ],
+      "skills": [
+        "Antidote",
+        "TwinHits",
+        "SealPray"
+      ],
+      "maxLevel": 40,
+      "experience": 19,
+      "hp": 11,
+      "mp": 7,
+      "attack": 15,
+      "defence": 8,
+      "agility": 15,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -6593,7 +7681,25 @@
           "base": "MimeSlime",
           "mate": "StubBird"
         }
-      ]
+      ],
+      "skills": [
+        "TwinHits",
+        "BugBlow",
+        "RainSlash"
+      ],
+      "maxLevel": 40,
+      "experience": 6,
+      "hp": 16,
+      "mp": 12,
+      "attack": 20,
+      "defence": 20,
+      "agility": 14,
+      "intelligence": 11,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GoldSlime",
@@ -6658,7 +7764,23 @@
           "base": "Esterk",
           "mate": "GoldSlime"
         }
-      ]
+      ],
+      "skills": [
+        "Chance",
+        "BigBang",
+        "Surge"
+      ],
+      "maxLevel": 70,
+      "experience": 31,
+      "hp": 0,
+      "mp": 31,
+      "attack": 19,
+      "defence": 31,
+      "agility": 31,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GoldGolem",
@@ -6733,7 +7855,23 @@
           "base": "Niterich",
           "mate": "GoldGolem"
         }
-      ]
+      ],
+      "skills": [
+        "BigBang",
+        "Surge",
+        "TatsuCall"
+      ],
+      "maxLevel": 75,
+      "experience": 18,
+      "hp": 24,
+      "mp": 21,
+      "attack": 24,
+      "defence": 27,
+      "agility": 17,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GranSlime",
@@ -6767,7 +7905,23 @@
           "base": "DeathMore3",
           "mate": "GranSlime"
         }
-      ]
+      ],
+      "skills": [
+        "Farewell",
+        "Focus",
+        "Informer"
+      ],
+      "maxLevel": 80,
+      "experience": 30,
+      "hp": 25,
+      "mp": 29,
+      "attack": 27,
+      "defence": 31,
+      "agility": 6,
+      "intelligence": 31,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DarkMate",
@@ -6797,7 +7951,23 @@
           "base": "DeathMore2",
           "mate": "DarkMate"
         }
-      ]
+      ],
+      "skills": [
+        "Beat",
+        "HellBlast",
+        "EerieLite"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 24,
+      "mp": 21,
+      "attack": 12,
+      "defence": 25,
+      "agility": 21,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DeathMore1",
@@ -6847,7 +8017,19 @@
           "base": "GoldSlime",
           "mate": "DeathMore1"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BigRoost",
@@ -6877,6 +8059,24 @@
           "base": "KiteHawk",
           "mate": "BigRoost"
         }
+      ],
+      "skills": [
+        "VacuSlash",
+        "SandStorm",
+        "Dodge"
+      ],
+      "maxLevel": 40,
+      "experience": 3,
+      "hp": 8,
+      "mp": 5,
+      "attack": 14,
+      "defence": 12,
+      "agility": 17,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -6914,7 +8114,25 @@
           "mate": "DragonKid",
           "req": "PlusFive"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "SleepAir",
+        "Dodge"
+      ],
+      "maxLevel": 30,
+      "experience": 7,
+      "hp": 10,
+      "mp": 3,
+      "attack": 17,
+      "defence": 2,
+      "agility": 5,
+      "intelligence": 5,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Tortragon",
@@ -6938,7 +8156,25 @@
           "base": "MultiEyes",
           "mate": "Tortragon"
         }
-      ]
+      ],
+      "skills": [
+        "Ironize",
+        "MagicBack",
+        "Lightning"
+      ],
+      "maxLevel": 35,
+      "experience": 17,
+      "hp": 15,
+      "mp": 11,
+      "attack": 18,
+      "defence": 6,
+      "agility": 7,
+      "intelligence": 13,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pteranod",
@@ -7008,7 +8244,25 @@
           "base": "MadCat",
           "mate": "Pteranod"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "WindBeast",
+        "TailWind"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 14,
+      "mp": 11,
+      "attack": 18,
+      "defence": 2,
+      "agility": 20,
+      "intelligence": 4,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gasgon",
@@ -7133,7 +8387,23 @@
           "base": "CopyCat",
           "mate": "Gasgon"
         }
-      ]
+      ],
+      "skills": [
+        "Sacrifice",
+        "Farewell",
+        "Beserker"
+      ],
+      "maxLevel": 50,
+      "experience": 18,
+      "hp": 17,
+      "mp": 15,
+      "attack": 13,
+      "defence": 11,
+      "agility": 7,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FairyDrak",
@@ -7146,7 +8416,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Surround",
+        "SleepAir",
+        "LushLicks"
+      ],
+      "maxLevel": 30,
+      "experience": 15,
+      "hp": 9,
+      "mp": 13,
+      "attack": 17,
+      "defence": 16,
+      "agility": 14,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "LizardMan",
@@ -7241,7 +8527,25 @@
           "base": "DevilFamily",
           "mate": "LizardMan"
         }
-      ]
+      ],
+      "skills": [
+        "AquaCut",
+        "GigaSlash",
+        "EvilSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 20,
+      "hp": 17,
+      "mp": 10,
+      "attack": 19,
+      "defence": 13,
+      "agility": 5,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Drygon",
@@ -7260,7 +8564,25 @@
           "base": "BeastFamily",
           "mate": "Drygon"
         }
-      ]
+      ],
+      "skills": [
+        "Sap",
+        "Ramming",
+        "WarCry"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 11,
+      "mp": 2,
+      "attack": 19,
+      "defence": 13,
+      "agility": 7,
+      "intelligence": 5,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Dragon",
@@ -7292,7 +8614,25 @@
           "base": "BeastFamily",
           "mate": "Dragon"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "FireSlash",
+        "SealAll"
+      ],
+      "maxLevel": 40,
+      "experience": 20,
+      "hp": 17,
+      "mp": 1,
+      "attack": 20,
+      "defence": 16,
+      "agility": 7,
+      "intelligence": 4,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Vampirus",
@@ -7342,7 +8682,25 @@
           "base": "Blizzardy",
           "mate": "Vampirus"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "CallHelp",
+        "BiAttack"
+      ],
+      "maxLevel": 35,
+      "experience": 8,
+      "hp": 14,
+      "mp": 7,
+      "attack": 10,
+      "defence": 8,
+      "agility": 19,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "MadGoose",
@@ -7492,7 +8850,25 @@
           "base": "WaterFamily",
           "mate": "MadGoose"
         }
-      ]
+      ],
+      "skills": [
+        "Heal",
+        "WindBeast",
+        "CureDance"
+      ],
+      "maxLevel": 30,
+      "experience": 3,
+      "hp": 17,
+      "mp": 6,
+      "attack": 17,
+      "defence": 15,
+      "agility": 20,
+      "intelligence": 8,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MiniDrak",
@@ -7505,7 +8881,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "Ramming",
+        "SandStorm"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 14,
+      "mp": 8,
+      "attack": 17,
+      "defence": 14,
+      "agility": 18,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Picky",
@@ -7530,6 +8924,24 @@
           "base": "DragonFamily",
           "mate": "Picky"
         }
+      ],
+      "skills": [
+        "Sap",
+        "Surround",
+        "BugBlow"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 11,
+      "mp": 12,
+      "attack": 14,
+      "defence": 8,
+      "agility": 18,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -7640,7 +9052,25 @@
           "base": "DevilFamily",
           "mate": "MadDragon"
         }
-      ]
+      ],
+      "skills": [
+        "EvilSlash",
+        "Massacre",
+        "CureDance"
+      ],
+      "maxLevel": 35,
+      "experience": 19,
+      "hp": 19,
+      "mp": 0,
+      "attack": 21,
+      "defence": 5,
+      "agility": 8,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "RayBurn",
@@ -7704,7 +9134,19 @@
           "base": "ZombieFamily",
           "mate": "RayBurn"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FaceTree",
@@ -7743,7 +9185,25 @@
           "base": "GulpBeast",
           "mate": "FaceTree"
         }
-      ]
+      ],
+      "skills": [
+        "StopSpell",
+        "Curse",
+        "OddDance"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 12,
+      "mp": 20,
+      "attack": 11,
+      "defence": 8,
+      "agility": 10,
+      "intelligence": 17,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Lionex",
@@ -7848,7 +9308,25 @@
           "base": "Octogon",
           "mate": "Lionex"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "HealUs",
+        "VacuSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 21,
+      "hp": 15,
+      "mp": 11,
+      "attack": 14,
+      "defence": 15,
+      "agility": 12,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "GoatHorn",
@@ -7898,7 +9376,23 @@
           "base": "SkyDragon",
           "mate": "GoatHorn"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "Infernos",
+        "Icebolt"
+      ],
+      "maxLevel": 40,
+      "experience": 22,
+      "hp": 20,
+      "mp": 11,
+      "attack": 17,
+      "defence": 13,
+      "agility": 11,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GateGuard",
@@ -8138,7 +9632,25 @@
           "base": "Octogon",
           "mate": "GateGuard"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "CleanCut",
+        "ThickFog"
+      ],
+      "maxLevel": 50,
+      "experience": 23,
+      "hp": 18,
+      "mp": 12,
+      "attack": 18,
+      "defence": 14,
+      "agility": 10,
+      "intelligence": 14,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Chamelgon",
@@ -8151,7 +9663,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "PanicAll",
+        "Paralyze",
+        "PalsyAir"
+      ],
+      "maxLevel": 40,
+      "experience": 19,
+      "hp": 17,
+      "mp": 18,
+      "attack": 11,
+      "defence": 6,
+      "agility": 8,
+      "intelligence": 13,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Voodoll",
@@ -8236,6 +9766,24 @@
           "base": "DragonFamily",
           "mate": "Voodoll"
         }
+      ],
+      "skills": [
+        "Sap",
+        "Surround",
+        "PanicAll"
+      ],
+      "maxLevel": 35,
+      "experience": 11,
+      "hp": 14,
+      "mp": 17,
+      "attack": 12,
+      "defence": 12,
+      "agility": 8,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -8255,7 +9803,23 @@
           "base": "BeastFamily",
           "mate": "LizardFly"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Sap",
+        "FireAir"
+      ],
+      "maxLevel": 30,
+      "experience": 16,
+      "hp": 11,
+      "mp": 11,
+      "attack": 17,
+      "defence": 17,
+      "agility": 13,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GoHopper",
@@ -8273,6 +9837,26 @@
           "base": "MadHornet",
           "mate": "GoHopper"
         }
+      ],
+      "skills": [
+        "RobMagic",
+        "CallHelp",
+        "ChargeUp"
+      ],
+      "maxLevel": 35,
+      "experience": 0,
+      "hp": 11,
+      "mp": 4,
+      "attack": 8,
+      "defence": 14,
+      "agility": 14,
+      "intelligence": 4,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -8563,7 +10147,25 @@
           "base": "Servant",
           "mate": "Andreal"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "Surround",
+        "PoisonGas"
+      ],
+      "maxLevel": 50,
+      "experience": 22,
+      "hp": 21,
+      "mp": 15,
+      "attack": 19,
+      "defence": 17,
+      "agility": 19,
+      "intelligence": 12,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gulpple",
@@ -8587,7 +10189,25 @@
           "base": "PlantFamily",
           "mate": "Gulpple"
         }
-      ]
+      ],
+      "skills": [
+        "NapAttack",
+        "HighJump",
+        "SleepAir"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 16,
+      "mp": 17,
+      "attack": 9,
+      "defence": 6,
+      "agility": 2,
+      "intelligence": 14,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Goategon",
@@ -8702,7 +10322,25 @@
           "base": "BirdFamily",
           "mate": "Goategon"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Slow",
+        "SleepAir"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 19,
+      "mp": 9,
+      "attack": 17,
+      "defence": 13,
+      "agility": 17,
+      "intelligence": 3,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ArcDemon",
@@ -8992,7 +10630,23 @@
           "base": "CancerMan",
           "mate": "ArcDemon"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "VacuSlash",
+        "BoltSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 20,
+      "hp": 14,
+      "mp": 13,
+      "attack": 17,
+      "defence": 12,
+      "agility": 7,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Ogre",
@@ -9202,7 +10856,25 @@
           "base": "SabreMan",
           "mate": "Ogre"
         }
-      ]
+      ],
+      "skills": [
+        "MetalCut",
+        "PsycheUp",
+        "Massacre"
+      ],
+      "maxLevel": 40,
+      "experience": 19,
+      "hp": 15,
+      "mp": 8,
+      "attack": 20,
+      "defence": 12,
+      "agility": 10,
+      "intelligence": 12,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Akubar",
@@ -9247,7 +10919,23 @@
           "base": "SkyDragon",
           "mate": "Akubar"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "FrigidAir",
+        "Focus"
+      ],
+      "maxLevel": 70,
+      "experience": 30,
+      "hp": 24,
+      "mp": 30,
+      "attack": 23,
+      "defence": 21,
+      "agility": 18,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "KingCobra",
@@ -9266,7 +10954,25 @@
           "mate": "Dracky"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "PoisonHit",
+        "Curse",
+        "K.O."
+      ],
+      "maxLevel": 40,
+      "experience": 20,
+      "hp": 18,
+      "mp": 8,
+      "attack": 16,
+      "defence": 13,
+      "agility": 19,
+      "intelligence": 11,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SnakeBat",
@@ -9290,6 +10996,24 @@
           "base": "BirdFamily",
           "mate": "SnakeBat"
         }
+      ],
+      "skills": [
+        "RockThrow",
+        "LushLicks",
+        "Errand"
+      ],
+      "maxLevel": 35,
+      "experience": 7,
+      "hp": 10,
+      "mp": 9,
+      "attack": 21,
+      "defence": 15,
+      "agility": 9,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -9345,7 +11069,25 @@
           "base": "DragonFamily",
           "mate": "CatFly"
         }
-      ]
+      ],
+      "skills": [
+        "Slow",
+        "StopSpell",
+        "OddDance"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 11,
+      "mp": 10,
+      "attack": 13,
+      "defence": 8,
+      "agility": 18,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Dracky",
@@ -9374,7 +11116,25 @@
           "base": "MaterialFamily",
           "mate": "Dracky"
         }
-      ]
+      ],
+      "skills": [
+        "Antidote",
+        "Sleep",
+        "RobMagic"
+      ],
+      "maxLevel": 50,
+      "experience": 2,
+      "hp": 11,
+      "mp": 4,
+      "attack": 8,
+      "defence": 13,
+      "agility": 17,
+      "intelligence": 11,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ArmyCrab",
@@ -9409,7 +11169,23 @@
           "base": "Gamanian",
           "mate": "ArmyCrab"
         }
-      ]
+      ],
+      "skills": [
+        "Upper",
+        "CallHelp",
+        "MetalCut"
+      ],
+      "maxLevel": 40,
+      "experience": 6,
+      "hp": 16,
+      "mp": 8,
+      "attack": 14,
+      "defence": 19,
+      "agility": 5,
+      "intelligence": 1,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Digster",
@@ -9513,7 +11289,23 @@
           "base": "MaterialFamily",
           "mate": "Digster"
         }
-      ]
+      ],
+      "skills": [
+        "Farewell",
+        "StrongD",
+        "SealAll"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 24,
+      "mp": 10,
+      "attack": 19,
+      "defence": 26,
+      "agility": 1,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Crestpent",
@@ -9538,7 +11330,25 @@
           "base": "Crestpent",
           "mate": "Crestpent"
         }
-      ]
+      ],
+      "skills": [
+        "StopSpell",
+        "BeDragon",
+        "PoisonHit"
+      ],
+      "maxLevel": 35,
+      "experience": 18,
+      "hp": 14,
+      "mp": 4,
+      "attack": 15,
+      "defence": 5,
+      "agility": 19,
+      "intelligence": 8,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WingSnake",
@@ -9551,7 +11361,27 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "SquallHit",
+        "HighJump",
+        "PoisonGas"
+      ],
+      "maxLevel": 45,
+      "experience": 20,
+      "hp": 15,
+      "mp": 8,
+      "attack": 20,
+      "defence": 17,
+      "agility": 14,
+      "intelligence": 11,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Elf"
+      ]
     },
     {
       "name": "Coatol",
@@ -9730,7 +11560,23 @@
           "base": "Digong",
           "mate": "Coatol"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "BoltSlash",
+        "EvilSlash"
+      ],
+      "maxLevel": 60,
+      "experience": 23,
+      "hp": 25,
+      "mp": 14,
+      "attack": 20,
+      "defence": 22,
+      "agility": 18,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadKnight",
@@ -9779,7 +11625,23 @@
           "base": "DragonFamily",
           "mate": "MadKnight"
         }
-      ]
+      ],
+      "skills": [
+        "BeastCut",
+        "GigaSlash",
+        "Massacre"
+      ],
+      "maxLevel": 55,
+      "experience": 23,
+      "hp": 17,
+      "mp": 9,
+      "attack": 18,
+      "defence": 20,
+      "agility": 10,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Orochi",
@@ -9843,7 +11705,23 @@
           "base": "Hargon",
           "mate": "Orochi"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "FireSlash",
+        "BiAttack"
+      ],
+      "maxLevel": 60,
+      "experience": 22,
+      "hp": 24,
+      "mp": 13,
+      "attack": 24,
+      "defence": 21,
+      "agility": 11,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MedusaEye",
@@ -9933,7 +11811,23 @@
           "base": "Aquarella",
           "mate": "MedusaEye"
         }
-      ]
+      ],
+      "skills": [
+        "Sap",
+        "Surround",
+        "Shears"
+      ],
+      "maxLevel": 30,
+      "experience": 19,
+      "hp": 11,
+      "mp": 13,
+      "attack": 14,
+      "defence": 15,
+      "agility": 8,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "EvilArmor",
@@ -9987,7 +11881,23 @@
           "base": "Octogon",
           "mate": "EvilArmor"
         }
-      ]
+      ],
+      "skills": [
+        "FireSlash",
+        "BoltSlash",
+        "AquaCut"
+      ],
+      "maxLevel": 40,
+      "experience": 22,
+      "hp": 16,
+      "mp": 1,
+      "attack": 17,
+      "defence": 29,
+      "agility": 5,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Phoenix",
@@ -10102,6 +12012,24 @@
           "base": "Goopi",
           "mate": "Phoenix"
         }
+      ],
+      "skills": [
+        "FireAir",
+        "SquallHit",
+        "TailWind"
+      ],
+      "maxLevel": 50,
+      "experience": 7,
+      "hp": 16,
+      "mp": 13,
+      "attack": 19,
+      "defence": 8,
+      "agility": 19,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -10146,7 +12074,23 @@
           "base": "Skeletor",
           "mate": "Serpentia"
         }
-      ]
+      ],
+      "skills": [
+        "SlimeBlow",
+        "DevilCut",
+        "RainSlash"
+      ],
+      "maxLevel": 55,
+      "experience": 24,
+      "hp": 23,
+      "mp": 7,
+      "attack": 24,
+      "defence": 21,
+      "agility": 18,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Skeletor",
@@ -10551,7 +12495,23 @@
           "base": "SabreMan",
           "mate": "Skeletor"
         }
-      ]
+      ],
+      "skills": [
+        "Sap",
+        "BirdBlow",
+        "BiAttack"
+      ],
+      "maxLevel": 55,
+      "experience": 12,
+      "hp": 16,
+      "mp": 11,
+      "attack": 18,
+      "defence": 12,
+      "agility": 16,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Octoraid",
@@ -10600,7 +12560,23 @@
           "base": "Skeletor",
           "mate": "Octoraid"
         }
-      ]
+      ],
+      "skills": [
+        "DrakSlash",
+        "SquallHit",
+        "GigaSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 26,
+      "hp": 18,
+      "mp": 9,
+      "attack": 27,
+      "defence": 21,
+      "agility": 21,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Orligon",
@@ -10634,7 +12610,23 @@
           "base": "Mirudraas1",
           "mate": "Orligon"
         }
-      ]
+      ],
+      "skills": [
+        "TwinHits",
+        "Beserker",
+        "StrongD"
+      ],
+      "maxLevel": 75,
+      "experience": 29,
+      "hp": 25,
+      "mp": 24,
+      "attack": 28,
+      "defence": 25,
+      "agility": 21,
+      "intelligence": 24,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GigaDraco",
@@ -10693,7 +12685,23 @@
           "base": "Orgodemir",
           "mate": "GigaDraco"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "RockThrow",
+        "Massacre"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 30,
+      "mp": 24,
+      "attack": 29,
+      "defence": 12,
+      "agility": 6,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Tonguella",
@@ -10823,6 +12831,24 @@
           "base": "ZombieFamily",
           "mate": "Tonguella"
         }
+      ],
+      "skills": [
+        "NapAttack",
+        "SleepAir",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 14,
+      "mp": 5,
+      "attack": 15,
+      "defence": 12,
+      "agility": 11,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -10848,7 +12874,25 @@
           "base": "BugFamily",
           "mate": "Saccer"
         }
-      ]
+      ],
+      "skills": [
+        "Upper",
+        "PsycheUp",
+        "PalsyAir"
+      ],
+      "maxLevel": 40,
+      "experience": 9,
+      "hp": 16,
+      "mp": 5,
+      "attack": 9,
+      "defence": 17,
+      "agility": 0,
+      "intelligence": 13,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Skullgon",
@@ -10988,7 +13032,25 @@
           "base": "MetalDrak",
           "mate": "Skullgon"
         }
-      ]
+      ],
+      "skills": [
+        "FrigidAir",
+        "IceSlash",
+        "TwinSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 6,
+      "mp": 1,
+      "attack": 23,
+      "defence": 15,
+      "agility": 4,
+      "intelligence": 6,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Grizzly",
@@ -11163,7 +13225,26 @@
           "base": "MaterialFamily",
           "mate": "Grizzly"
         }
-      ]
+      ],
+      "skills": [
+        "SquallHit",
+        "BiAttack",
+        "LegSweep"
+      ],
+      "maxLevel": 45,
+      "experience": 14,
+      "hp": 20,
+      "mp": 0,
+      "attack": 27,
+      "defence": 7,
+      "agility": 9,
+      "intelligence": 1,
+      "locations": [
+        "Ice",
+        "Lonely"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "LavaMan",
@@ -11278,7 +13359,23 @@
           "base": "IceMan",
           "mate": "LavaMan"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "FireAir",
+        "Cover"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 18,
+      "mp": 12,
+      "attack": 17,
+      "defence": 24,
+      "agility": 4,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "IceMan",
@@ -11378,7 +13475,23 @@
           "base": "BossTroll",
           "mate": "IceMan"
         }
-      ]
+      ],
+      "skills": [
+        "Icebolt",
+        "FrigidAir",
+        "StrongD"
+      ],
+      "maxLevel": 45,
+      "experience": 13,
+      "hp": 16,
+      "mp": 6,
+      "attack": 18,
+      "defence": 24,
+      "agility": 4,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Yeti",
@@ -11613,7 +13726,25 @@
           "base": "ZombieFamily",
           "mate": "Yeti"
         }
-      ]
+      ],
+      "skills": [
+        "Icebolt",
+        "IceSlash",
+        "WarCry"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 18,
+      "mp": 11,
+      "attack": 15,
+      "defence": 9,
+      "agility": 10,
+      "intelligence": 8,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WildApe",
@@ -11733,7 +13864,25 @@
           "base": "WildApe",
           "mate": "WildApe"
         }
-      ]
+      ],
+      "skills": [
+        "TwinSlash",
+        "SideStep",
+        "Errand"
+      ],
+      "maxLevel": 35,
+      "experience": 13,
+      "hp": 13,
+      "mp": 1,
+      "attack": 20,
+      "defence": 10,
+      "agility": 8,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Dumbira",
@@ -11858,7 +14007,25 @@
           "base": "MadGopher",
           "mate": "Dumbira"
         }
-      ]
+      ],
+      "skills": [
+        "MetalCut",
+        "RainSlash",
+        "TwinSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 7,
+      "hp": 15,
+      "mp": 10,
+      "attack": 9,
+      "defence": 8,
+      "agility": 14,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "IronTurt",
@@ -11943,7 +14110,25 @@
           "base": "BugFamily",
           "mate": "IronTurt"
         }
-      ]
+      ],
+      "skills": [
+        "MagicWall",
+        "StrongD",
+        "Cover"
+      ],
+      "maxLevel": 45,
+      "experience": 10,
+      "hp": 18,
+      "mp": 5,
+      "attack": 17,
+      "defence": 23,
+      "agility": 2,
+      "intelligence": 11,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BigEye",
@@ -11983,7 +14168,23 @@
           "base": "DevilFamily",
           "mate": "BigEye"
         }
-      ]
+      ],
+      "skills": [
+        "Icebolt",
+        "FrigidAir",
+        "LoveRain"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 14,
+      "mp": 8,
+      "attack": 14,
+      "defence": 11,
+      "agility": 7,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WindBeast",
@@ -12007,7 +14208,23 @@
           "base": "ZombieFamily",
           "mate": "WindBeast"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "Icebolt",
+        "VacuSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 12,
+      "hp": 13,
+      "mp": 20,
+      "attack": 13,
+      "defence": 15,
+      "agility": 15,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Beavern",
@@ -12020,7 +14237,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Icebolt",
+        "ChargeUp",
+        "Geyser"
+      ],
+      "maxLevel": 40,
+      "experience": 14,
+      "hp": 22,
+      "mp": 8,
+      "attack": 8,
+      "defence": 21,
+      "agility": 10,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AntBear",
@@ -12033,7 +14266,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SuperTen",
@@ -12218,7 +14463,23 @@
           "base": "BirdFamily",
           "mate": "SuperTen"
         }
-      ]
+      ],
+      "skills": [
+        "K.O.",
+        "Dance",
+        "Hustle"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 18,
+      "mp": 7,
+      "attack": 13,
+      "defence": 12,
+      "agility": 11,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Lipsy",
@@ -12278,7 +14539,25 @@
           "base": "MaterialFamily",
           "mate": "Lipsy"
         }
-      ]
+      ],
+      "skills": [
+        "LushLicks",
+        "Ahhh",
+        "Pheromone"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 12,
+      "mp": 8,
+      "attack": 9,
+      "defence": 9,
+      "agility": 4,
+      "intelligence": 1,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Demonite",
@@ -12328,7 +14607,25 @@
           "base": "Angleron",
           "mate": "Demonite"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "FireAir",
+        "FrigidAir"
+      ],
+      "maxLevel": 30,
+      "experience": 13,
+      "hp": 13,
+      "mp": 1,
+      "attack": 5,
+      "defence": 4,
+      "agility": 9,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Gremlin",
@@ -12398,6 +14695,24 @@
           "base": "Angleron",
           "mate": "Gremlin"
         }
+      ],
+      "skills": [
+        "Firebal",
+        "Heal",
+        "StopSpell"
+      ],
+      "maxLevel": 25,
+      "experience": 13,
+      "hp": 13,
+      "mp": 7,
+      "attack": 8,
+      "defence": 4,
+      "agility": 2,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -12433,7 +14748,25 @@
           "base": "WaterFamily",
           "mate": "JewelBag"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "StopSpell",
+        "PanicAll"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 13,
+      "mp": 11,
+      "attack": 9,
+      "defence": 18,
+      "agility": 17,
+      "intelligence": 15,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mimic",
@@ -12478,7 +14811,25 @@
           "base": "RogueWave",
           "mate": "Mimic"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "Beat",
+        "EagleEye"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 25,
+      "mp": 10,
+      "attack": 20,
+      "defence": 12,
+      "agility": 1,
+      "intelligence": 20,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mudron",
@@ -12623,6 +14974,24 @@
           "base": "BeastFamily",
           "mate": "Mudron"
         }
+      ],
+      "skills": [
+        "Beat",
+        "Mpass",
+        "Vivify"
+      ],
+      "maxLevel": 30,
+      "experience": 10,
+      "hp": 6,
+      "mp": 10,
+      "attack": 11,
+      "defence": 17,
+      "agility": 7,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -12663,7 +15032,23 @@
           "base": "WaterFamily",
           "mate": "DuckKite"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "PanicAll",
+        "Curse"
+      ],
+      "maxLevel": 30,
+      "experience": 3,
+      "hp": 11,
+      "mp": 11,
+      "attack": 9,
+      "defence": 12,
+      "agility": 18,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "HammerMan",
@@ -12687,7 +15072,25 @@
           "base": "DevilFamily",
           "mate": "HammerMan"
         }
-      ]
+      ],
+      "skills": [
+        "ChargeUp",
+        "EvilSlash",
+        "Kamikaze"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 17,
+      "mp": 19,
+      "attack": 17,
+      "defence": 11,
+      "agility": 17,
+      "intelligence": 10,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Stubsuck",
@@ -12722,7 +15125,27 @@
           "base": "BeastFamily",
           "mate": "Stubsuck"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "ZombieCut",
+        "StepGuard"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 17,
+      "mp": 11,
+      "attack": 4,
+      "defence": 2,
+      "agility": 9,
+      "intelligence": 14,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Orc",
@@ -12746,7 +15169,25 @@
           "base": "SuperTen",
           "mate": "Orc"
         }
-      ]
+      ],
+      "skills": [
+        "Vivify",
+        "Sap",
+        "BirdBlow"
+      ],
+      "maxLevel": 50,
+      "experience": 17,
+      "hp": 19,
+      "mp": 7,
+      "attack": 19,
+      "defence": 13,
+      "agility": 13,
+      "intelligence": 18,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Blizzardy",
@@ -12881,7 +15322,23 @@
           "base": "Niterich",
           "mate": "Blizzardy"
         }
-      ]
+      ],
+      "skills": [
+        "Beat",
+        "FrigidAir",
+        "IceSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 7,
+      "hp": 20,
+      "mp": 7,
+      "attack": 11,
+      "defence": 17,
+      "agility": 19,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ArrowDog",
@@ -12905,7 +15362,25 @@
           "mate": "Shadow"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "CallHelp",
+        "MouthShut"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 9,
+      "mp": 7,
+      "attack": 21,
+      "defence": 19,
+      "agility": 13,
+      "intelligence": 14,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Putrepup",
@@ -12930,7 +15405,19 @@
           "base": "BeastFamily",
           "mate": "Putrepup"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "NoctoKing",
@@ -12954,7 +15441,25 @@
           "mate": "Gigantes"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Surround",
+        "SleepAir",
+        "ThickFog"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 22,
+      "mp": 13,
+      "attack": 18,
+      "defence": 15,
+      "agility": 20,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
+      ]
     },
     {
       "name": "Shadow",
@@ -12973,7 +15478,27 @@
           "base": "ArrowDog",
           "mate": "Shadow"
         }
-      ]
+      ],
+      "skills": [
+        "FrigidAir",
+        "K.O.",
+        "Dance"
+      ],
+      "maxLevel": 50,
+      "experience": 12,
+      "hp": 9,
+      "mp": 6,
+      "attack": 6,
+      "defence": 20,
+      "agility": 8,
+      "intelligence": 12,
+      "locations": [
+        "Lonely"
+      ],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "BeastNite",
@@ -13012,7 +15537,25 @@
           "base": "DevilFamily",
           "mate": "BeastNite"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "RainSlash",
+        "GigaSlash"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 21,
+      "mp": 4,
+      "attack": 22,
+      "defence": 14,
+      "agility": 8,
+      "intelligence": 6,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "CatMage",
@@ -13066,7 +15609,27 @@
           "mate": "Unicorn"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "Surround",
+        "Transform"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 7,
+      "mp": 6,
+      "attack": 10,
+      "defence": 4,
+      "agility": 6,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [
+        "Lonely"
+      ],
+      "taraLocations": [
+        "Pirate"
+      ]
     },
     {
       "name": "MadGopher",
@@ -13085,7 +15648,25 @@
           "mate": "Dumbira"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "BirdBlow",
+        "ZombieCut",
+        "Informer"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 14,
+      "mp": 13,
+      "attack": 17,
+      "defence": 9,
+      "agility": 8,
+      "intelligence": 11,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SabreMan",
@@ -13230,7 +15811,25 @@
           "base": "SuperTen",
           "mate": "SabreMan"
         }
-      ]
+      ],
+      "skills": [
+        "RobMagic",
+        "DevilCut",
+        "Paralyze"
+      ],
+      "maxLevel": 30,
+      "experience": 11,
+      "hp": 8,
+      "mp": 3,
+      "attack": 9,
+      "defence": 11,
+      "agility": 12,
+      "intelligence": 6,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FairyRat",
@@ -13249,7 +15848,26 @@
           "base": "BugFamily",
           "mate": "FairyRat"
         }
-      ]
+      ],
+      "skills": [
+        "Slow",
+        "Surround",
+        "SlimeBlow"
+      ],
+      "maxLevel": 45,
+      "experience": 11,
+      "hp": 12,
+      "mp": 5,
+      "attack": 13,
+      "defence": 14,
+      "agility": 17,
+      "intelligence": 7,
+      "locations": [
+        "Sky",
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadPecker",
@@ -13289,7 +15907,23 @@
           "base": "WaterFamily",
           "mate": "MadPecker"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "Sap",
+        "VacuSlash"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 9,
+      "mp": 7,
+      "attack": 20,
+      "defence": 14,
+      "agility": 23,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "LandOwl",
@@ -13414,7 +16048,25 @@
           "base": "StoneMan",
           "mate": "LandOwl"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "BoltSlash",
+        "SideStep"
+      ],
+      "maxLevel": 35,
+      "experience": 5,
+      "hp": 15,
+      "mp": 10,
+      "attack": 21,
+      "defence": 13,
+      "agility": 11,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Balzak",
@@ -13458,7 +16110,23 @@
           "base": "Centasaur",
           "mate": "Balzak"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "Bolt",
+        "MultiCut"
+      ],
+      "maxLevel": 35,
+      "experience": 13,
+      "hp": 21,
+      "mp": 11,
+      "attack": 23,
+      "defence": 21,
+      "agility": 18,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "EyeBall",
@@ -13488,7 +16156,25 @@
           "base": "PlantFamily",
           "mate": "EyeBall"
         }
-      ]
+      ],
+      "skills": [
+        "MagicBack",
+        "WarCry",
+        "Outside"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 16,
+      "mp": 17,
+      "attack": 14,
+      "defence": 14,
+      "agility": 13,
+      "intelligence": 8,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gorago",
@@ -13517,7 +16203,23 @@
           "base": "Baramos",
           "mate": "Gorago"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "Massacre",
+        "EerieLite"
+      ],
+      "maxLevel": 65,
+      "experience": 29,
+      "hp": 29,
+      "mp": 28,
+      "attack": 30,
+      "defence": 24,
+      "agility": 24,
+      "intelligence": 6,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Sickler",
@@ -13552,6 +16254,24 @@
           "base": "CatFly",
           "mate": "Sickler"
         }
+      ],
+      "skills": [
+        "Infernos",
+        "DevilCut",
+        "SquallHit"
+      ],
+      "maxLevel": 45,
+      "experience": 7,
+      "hp": 19,
+      "mp": 13,
+      "attack": 9,
+      "defence": 7,
+      "agility": 14,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
       ]
     },
     {
@@ -13591,7 +16311,25 @@
           "base": "HoodSquid",
           "mate": "Reaper"
         }
-      ]
+      ],
+      "skills": [
+        "DevilCut",
+        "Curse",
+        "EerieLite"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 19,
+      "mp": 3,
+      "attack": 21,
+      "defence": 17,
+      "agility": 19,
+      "intelligence": 6,
+      "locations": [
+        "Lonely"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Bubblemon",
@@ -13610,7 +16348,23 @@
           "base": "SuperTen",
           "mate": "Bubblemon"
         }
-      ]
+      ],
+      "skills": [
+        "Watershot",
+        "IceSlash",
+        "BladeD"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 14,
+      "mp": 13,
+      "attack": 15,
+      "defence": 7,
+      "agility": 7,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WalrusMan",
@@ -13654,7 +16408,27 @@
           "base": "Centasaur",
           "mate": "WalrusMan"
         }
-      ]
+      ],
+      "skills": [
+        "BugBlow",
+        "EvilSlash",
+        "Massacre"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 23,
+      "mp": 8,
+      "attack": 23,
+      "defence": 16,
+      "agility": 7,
+      "intelligence": 8,
+      "locations": [
+        "Lonely"
+      ],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "MerTiger",
@@ -13693,7 +16467,23 @@
           "base": "Gigantes",
           "mate": "MerTiger"
         }
-      ]
+      ],
+      "skills": [
+        "Icebolt",
+        "Sleep",
+        "WarCry"
+      ],
+      "maxLevel": 50,
+      "experience": 16,
+      "hp": 23,
+      "mp": 5,
+      "attack": 26,
+      "defence": 24,
+      "agility": 10,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Wyvern",
@@ -13733,7 +16523,25 @@
           "base": "Goopi",
           "mate": "Wyvern"
         }
-      ]
+      ],
+      "skills": [
+        "Heal",
+        "Sleep",
+        "FrigidAir"
+      ],
+      "maxLevel": 45,
+      "experience": 6,
+      "hp": 17,
+      "mp": 13,
+      "attack": 19,
+      "defence": 11,
+      "agility": 16,
+      "intelligence": 20,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BullBird",
@@ -13757,7 +16565,25 @@
           "mate": "Grizzly"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Shears",
+        "ChargeUp",
+        "Ramming"
+      ],
+      "maxLevel": 35,
+      "experience": 5,
+      "hp": 14,
+      "mp": 8,
+      "attack": 17,
+      "defence": 9,
+      "agility": 6,
+      "intelligence": 4,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FloraJay",
@@ -13770,7 +16596,21 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadRaven",
@@ -13814,7 +16654,25 @@
           "base": "CaptDead",
           "mate": "MadRaven"
         }
-      ]
+      ],
+      "skills": [
+        "HighJump",
+        "TailWind",
+        "EagleEye"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 6,
+      "mp": 14,
+      "attack": 17,
+      "defence": 12,
+      "agility": 18,
+      "intelligence": 5,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MistyWing",
@@ -13868,7 +16726,25 @@
           "base": "Goopi",
           "mate": "MistyWing"
         }
-      ]
+      ],
+      "skills": [
+        "Barrier",
+        "EerieLite",
+        "Informer"
+      ],
+      "maxLevel": 50,
+      "experience": 5,
+      "hp": 12,
+      "mp": 17,
+      "attack": 8,
+      "defence": 15,
+      "agility": 22,
+      "intelligence": 13,
+      "locations": [
+        "Limbo"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AquaHawk",
@@ -13881,7 +16757,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CurseOff",
+        "SquallHit",
+        "AquaWall"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 7,
+      "mp": 8,
+      "attack": 6,
+      "defence": 13,
+      "agility": 14,
+      "intelligence": 19,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "KiteHawk",
@@ -13916,7 +16810,25 @@
           "base": "PlantFamily",
           "mate": "KiteHawk"
         }
-      ]
+      ],
+      "skills": [
+        "MagicWall",
+        "Curse",
+        "TailWind"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 13,
+      "mp": 8,
+      "attack": 8,
+      "defence": 7,
+      "agility": 9,
+      "intelligence": 1,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Facer",
@@ -13940,6 +16852,24 @@
           "base": "PlantFamily",
           "mate": "Facer"
         }
+      ],
+      "skills": [
+        "Infernos",
+        "Sacrifice",
+        "LifeSong"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 8,
+      "mp": 23,
+      "attack": 11,
+      "defence": 12,
+      "agility": 3,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -13995,7 +16925,23 @@
           "base": "ArcDemon",
           "mate": "Garudian"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "WindBeast",
+        "AquaCut"
+      ],
+      "maxLevel": 50,
+      "experience": 8,
+      "hp": 10,
+      "mp": 7,
+      "attack": 8,
+      "defence": 14,
+      "agility": 22,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Droll",
@@ -14080,7 +17026,25 @@
           "base": "Angleron",
           "mate": "Droll"
         }
-      ]
+      ],
+      "skills": [
+        "Slow",
+        "Shears",
+        "StepGuard"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 17,
+      "mp": 10,
+      "attack": 15,
+      "defence": 16,
+      "agility": 7,
+      "intelligence": 14,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CragDevil",
@@ -14120,7 +17084,25 @@
           "base": "WaterFamily",
           "mate": "CragDevil"
         }
-      ]
+      ],
+      "skills": [
+        "Infernos",
+        "PanicAll",
+        "EagleEye"
+      ],
+      "maxLevel": 35,
+      "experience": 4,
+      "hp": 7,
+      "mp": 8,
+      "attack": 13,
+      "defence": 5,
+      "agility": 14,
+      "intelligence": 11,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CoilBird",
@@ -14139,7 +17121,25 @@
           "base": "BirdFamily",
           "mate": "CoilBird"
         }
-      ]
+      ],
+      "skills": [
+        "Dechaos",
+        "NumbOff",
+        "SealAll"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 16,
+      "mp": 13,
+      "attack": 5,
+      "defence": 14,
+      "agility": 14,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Emyu",
@@ -14173,7 +17173,25 @@
           "mate": "BeastFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "WindBeast",
+        "Hustle",
+        "Errand"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 9,
+      "mp": 13,
+      "attack": 20,
+      "defence": 19,
+      "agility": 23,
+      "intelligence": 30,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DarkEye",
@@ -14218,7 +17236,25 @@
           "base": "Aquarella",
           "mate": "DarkEye"
         }
-      ]
+      ],
+      "skills": [
+        "CleanCut",
+        "PalsyAir",
+        "Radiant"
+      ],
+      "maxLevel": 40,
+      "experience": 18,
+      "hp": 11,
+      "mp": 18,
+      "attack": 10,
+      "defence": 16,
+      "agility": 9,
+      "intelligence": 12,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Servant",
@@ -14253,7 +17289,23 @@
           "base": "BirdFamily",
           "mate": "Servant"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "Icebolt",
+        "Focus"
+      ],
+      "maxLevel": 70,
+      "experience": 20,
+      "hp": 23,
+      "mp": 21,
+      "attack": 25,
+      "defence": 18,
+      "agility": 15,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gismo",
@@ -14433,7 +17485,25 @@
           "base": "WhipBird",
           "mate": "Gismo"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "FrigidAir",
+        "SuckAir"
+      ],
+      "maxLevel": 40,
+      "experience": 9,
+      "hp": 13,
+      "mp": 15,
+      "attack": 11,
+      "defence": 14,
+      "agility": 20,
+      "intelligence": 18,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Jamirus",
@@ -14468,7 +17538,23 @@
           "base": "WhipBird",
           "mate": "Jamirus"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "BiAttack",
+        "TailWind"
+      ],
+      "maxLevel": 60,
+      "experience": 21,
+      "hp": 24,
+      "mp": 9,
+      "attack": 21,
+      "defence": 24,
+      "agility": 23,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Merman",
@@ -14518,7 +17604,25 @@
           "base": "ZapBird",
           "mate": "Merman"
         }
-      ]
+      ],
+      "skills": [
+        "Vivify",
+        "Sap",
+        "SleepAir"
+      ],
+      "maxLevel": 35,
+      "experience": 9,
+      "hp": 16,
+      "mp": 17,
+      "attack": 14,
+      "defence": 18,
+      "agility": 20,
+      "intelligence": 19,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DanceVegi",
@@ -14553,7 +17657,25 @@
           "base": "ZombieFamily",
           "mate": "DanceVegi"
         }
-      ]
+      ],
+      "skills": [
+        "K.O.",
+        "Dance",
+        "CureDance"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 11,
+      "mp": 21,
+      "attack": 7,
+      "defence": 6,
+      "agility": 20,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Brushead",
@@ -14582,7 +17704,23 @@
           "base": "BirdFamily",
           "mate": "Brushead"
         }
-      ]
+      ],
+      "skills": [
+        "OddDance",
+        "SandStorm",
+        "LoveRain"
+      ],
+      "maxLevel": 30,
+      "experience": 8,
+      "hp": 7,
+      "mp": 6,
+      "attack": 14,
+      "defence": 4,
+      "agility": 4,
+      "intelligence": 3,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pyuro",
@@ -14617,7 +17755,25 @@
           "base": "MultiEyes",
           "mate": "Pyuro"
         }
-      ]
+      ],
+      "skills": [
+        "Speed",
+        "WindBeast",
+        "MouthShut"
+      ],
+      "maxLevel": 40,
+      "experience": 7,
+      "hp": 8,
+      "mp": 8,
+      "attack": 7,
+      "defence": 13,
+      "agility": 11,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "RainHawk",
@@ -14652,7 +17808,23 @@
           "base": "Akubar",
           "mate": "RainHawk"
         }
-      ]
+      ],
+      "skills": [
+        "MegaMagic",
+        "Surge",
+        "StrongD"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 25,
+      "mp": 27,
+      "attack": 15,
+      "defence": 24,
+      "agility": 18,
+      "intelligence": 24,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Azurile",
@@ -14691,7 +17863,23 @@
           "base": "Zoma",
           "mate": "Azurile"
         }
-      ]
+      ],
+      "skills": [
+        "HellBlast",
+        "Meditate",
+        "LifeSong"
+      ],
+      "maxLevel": 75,
+      "experience": 28,
+      "hp": 27,
+      "mp": 24,
+      "attack": 24,
+      "defence": 12,
+      "agility": 24,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Shantak",
@@ -14720,7 +17908,23 @@
           "mate": "GoldGolem"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "HealUs",
+        "FireAir",
+        "SealAll"
+      ],
+      "maxLevel": 60,
+      "experience": 22,
+      "hp": 24,
+      "mp": 22,
+      "attack": 18,
+      "defence": 20,
+      "agility": 24,
+      "intelligence": 22,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FireWeed",
@@ -14749,7 +17953,26 @@
           "base": "Goopi",
           "mate": "FireWeed"
         }
-      ]
+      ],
+      "skills": [
+        "Blaze",
+        "Dechaos",
+        "PalsyAir"
+      ],
+      "maxLevel": 45,
+      "experience": 15,
+      "hp": 14,
+      "mp": 26,
+      "attack": 10,
+      "defence": 12,
+      "agility": 5,
+      "intelligence": 17,
+      "locations": [
+        "Sky",
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FloraMan",
@@ -14778,7 +18001,25 @@
           "base": "DeadNite",
           "mate": "FloraMan"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Antidote",
+        "CurseOff"
+      ],
+      "maxLevel": 40,
+      "experience": 7,
+      "hp": 17,
+      "mp": 20,
+      "attack": 6,
+      "defence": 9,
+      "agility": 2,
+      "intelligence": 19,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WingTree",
@@ -14797,7 +18038,25 @@
           "base": "MaterialFamily",
           "mate": "WingTree"
         }
-      ]
+      ],
+      "skills": [
+        "Farewell",
+        "ZombieCut",
+        "StepGuard"
+      ],
+      "maxLevel": 35,
+      "experience": 7,
+      "hp": 12,
+      "mp": 20,
+      "attack": 6,
+      "defence": 11,
+      "agility": 14,
+      "intelligence": 7,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Cactiball",
@@ -14810,7 +18069,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ToadStool",
@@ -14823,7 +18094,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AmberWeed",
@@ -14848,6 +18131,24 @@
           "base": "BugFamily",
           "mate": "AmberWeed"
         }
+      ],
+      "skills": [
+        "TwinHits",
+        "Barrier",
+        "MagicWall"
+      ],
+      "maxLevel": 50,
+      "experience": 12,
+      "hp": 12,
+      "mp": 24,
+      "attack": 8,
+      "defence": 17,
+      "agility": 12,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -14867,7 +18168,25 @@
           "base": "EvilSeed",
           "mate": "Slurperon"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "OddDance",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 3,
+      "hp": 8,
+      "mp": 5,
+      "attack": 7,
+      "defence": 2,
+      "agility": 7,
+      "intelligence": 2,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GhosTree",
@@ -14902,7 +18221,25 @@
           "base": "GhosTree",
           "mate": "GhosTree"
         }
-      ]
+      ],
+      "skills": [
+        "RobMagic",
+        "CureDance",
+        "EerieLite"
+      ],
+      "maxLevel": 50,
+      "experience": 9,
+      "hp": 8,
+      "mp": 13,
+      "attack": 9,
+      "defence": 6,
+      "agility": 7,
+      "intelligence": 15,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Oniono",
@@ -14920,7 +18257,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "RobMagic",
+        "ChargeUp",
+        "SleepAir"
+      ],
+      "maxLevel": 35,
+      "experience": 9,
+      "hp": 13,
+      "mp": 20,
+      "attack": 14,
+      "defence": 11,
+      "agility": 3,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Anemon",
@@ -14959,7 +18312,25 @@
           "base": "Goopi",
           "mate": "Anemon"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Paralyze",
+        "PoisonGas"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 9,
+      "mp": 14,
+      "attack": 10,
+      "defence": 13,
+      "agility": 5,
+      "intelligence": 7,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gophecada",
@@ -14978,7 +18349,23 @@
           "base": "PlantFamily",
           "mate": "Gophecada"
         }
-      ]
+      ],
+      "skills": [
+        "Beat",
+        "MagicBack",
+        "CallHelp"
+      ],
+      "maxLevel": 30,
+      "experience": 1,
+      "hp": 6,
+      "mp": 11,
+      "attack": 14,
+      "defence": 18,
+      "agility": 8,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FooHero",
@@ -15007,7 +18394,27 @@
           "mate": "EvilWand"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Bolt",
+        "Heal",
+        "GigaSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 16,
+      "hp": 8,
+      "mp": 4,
+      "attack": 7,
+      "defence": 4,
+      "agility": 9,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": [
+        "Ice"
+      ]
     },
     {
       "name": "Devipine",
@@ -15020,7 +18427,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Beat",
+        "SleepAir",
+        "PoisonGas"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 14,
+      "mp": 7,
+      "attack": 8,
+      "defence": 4,
+      "agility": 5,
+      "intelligence": 3,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "HerbMan",
@@ -15044,7 +18467,25 @@
           "mate": "DragonFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Curse",
+        "Focus",
+        "DanceShut"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 19,
+      "mp": 17,
+      "attack": 7,
+      "defence": 10,
+      "agility": 15,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
+      ]
     },
     {
       "name": "NiteWhip",
@@ -15084,6 +18525,24 @@
           "base": "PlantFamily",
           "mate": "NiteWhip"
         }
+      ],
+      "skills": [
+        "WindBeast",
+        "Lightning",
+        "Informer"
+      ],
+      "maxLevel": 35,
+      "experience": 12,
+      "hp": 17,
+      "mp": 4,
+      "attack": 10,
+      "defence": 3,
+      "agility": 15,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -15103,7 +18562,25 @@
           "base": "GhosTree",
           "mate": "Snapper"
         }
-      ]
+      ],
+      "skills": [
+        "StopSpell",
+        "CallHelp",
+        "RainSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 11,
+      "hp": 17,
+      "mp": 14,
+      "attack": 20,
+      "defence": 13,
+      "agility": 10,
+      "intelligence": 16,
+      "locations": [],
+      "cobiLocations": [
+        "Elf"
+      ],
+      "taraLocations": []
     },
     {
       "name": "BeanMan",
@@ -15132,7 +18609,23 @@
           "base": "DevilFamily",
           "mate": "BeanMan"
         }
-      ]
+      ],
+      "skills": [
+        "TwinHits",
+        "RobMagic",
+        "MapMagic"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 14,
+      "mp": 15,
+      "attack": 12,
+      "defence": 14,
+      "agility": 15,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "FishRider",
@@ -15166,7 +18659,25 @@
           "base": "PlantFamily",
           "mate": "FishRider"
         }
-      ]
+      ],
+      "skills": [
+        "BoltSlash",
+        "RainSlash",
+        "Dodge"
+      ],
+      "maxLevel": 50,
+      "experience": 13,
+      "hp": 18,
+      "mp": 19,
+      "attack": 16,
+      "defence": 22,
+      "agility": 13,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Eggplaton",
@@ -15200,7 +18711,25 @@
           "mate": "ZombieFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Mpass",
+        "OddDance",
+        "CureDance"
+      ],
+      "maxLevel": 30,
+      "experience": 3,
+      "hp": 8,
+      "mp": 14,
+      "attack": 13,
+      "defence": 19,
+      "agility": 7,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "EvilSeed",
@@ -15295,7 +18824,25 @@
           "base": "Goopi",
           "mate": "EvilSeed"
         }
-      ]
+      ],
+      "skills": [
+        "CleanCut",
+        "Paralyze",
+        "Radiant"
+      ],
+      "maxLevel": 30,
+      "experience": 6,
+      "hp": 8,
+      "mp": 11,
+      "attack": 8,
+      "defence": 5,
+      "agility": 1,
+      "intelligence": 3,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ButterFly",
@@ -15345,7 +18892,19 @@
           "base": "Catapila",
           "mate": "ButterFly"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Eyeder",
@@ -15395,7 +18954,25 @@
           "base": "Eyeder",
           "mate": "Eyeder"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Heal",
+        "MapMagic"
+      ],
+      "maxLevel": 45,
+      "experience": 4,
+      "hp": 9,
+      "mp": 11,
+      "attack": 6,
+      "defence": 3,
+      "agility": 10,
+      "intelligence": 9,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadMirror",
@@ -15450,7 +19027,25 @@
           "base": "PlantFamily",
           "mate": "MadMirror"
         }
-      ]
+      ],
+      "skills": [
+        "MagicBack",
+        "Transform",
+        "Outside"
+      ],
+      "maxLevel": 45,
+      "experience": 14,
+      "hp": 15,
+      "mp": 11,
+      "attack": 8,
+      "defence": 6,
+      "agility": 11,
+      "intelligence": 19,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Gamanian",
@@ -15500,7 +19095,25 @@
           "base": "ZombieFamily",
           "mate": "Gamanian"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "NapAttack",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 14,
+      "hp": 11,
+      "mp": 10,
+      "attack": 21,
+      "defence": 17,
+      "agility": 22,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "ManEater",
@@ -15530,6 +19143,26 @@
           "base": "ManEater",
           "mate": "ManEater"
         }
+      ],
+      "skills": [
+        "DrakSlash",
+        "PsycheUp",
+        "SleepAir"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 14,
+      "mp": 12,
+      "attack": 19,
+      "defence": 7,
+      "agility": 10,
+      "intelligence": 6,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -15565,7 +19198,25 @@
           "base": "Stubsuck",
           "mate": "Puppetor"
         }
-      ]
+      ],
+      "skills": [
+        "OddDance",
+        "CureDance",
+        "Pheromone"
+      ],
+      "maxLevel": 35,
+      "experience": 6,
+      "hp": 13,
+      "mp": 9,
+      "attack": 7,
+      "defence": 4,
+      "agility": 7,
+      "intelligence": 11,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RoseVine",
@@ -15605,7 +19256,19 @@
           "base": "Jamirus",
           "mate": "RoseVine"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Egdracil",
@@ -15618,7 +19281,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Vivify",
+        "SleepAir",
+        "SealAll"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 25,
+      "mp": 18,
+      "attack": 21,
+      "defence": 24,
+      "agility": 15,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Watabou",
@@ -15644,7 +19323,23 @@
           "base": "DeathMore3",
           "mate": "Watabou"
         }
-      ]
+      ],
+      "skills": [
+        "Chance",
+        "Imitate",
+        "Whistle"
+      ],
+      "maxLevel": 80,
+      "experience": 0,
+      "hp": 10,
+      "mp": 27,
+      "attack": 11,
+      "defence": 14,
+      "agility": 24,
+      "intelligence": 30,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Warubou",
@@ -15658,7 +19353,23 @@
           "req": "Link"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Mpass",
+        "DeMagic",
+        "Pheromone"
+      ],
+      "maxLevel": 80,
+      "experience": 15,
+      "hp": 22,
+      "mp": 7,
+      "attack": 12,
+      "defence": 13,
+      "agility": 24,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Aquarella",
@@ -15713,6 +19424,24 @@
           "base": "DarkEye",
           "mate": "Aquarella"
         }
+      ],
+      "skills": [
+        "Barrier",
+        "SquallHit",
+        "Geyser"
+      ],
+      "maxLevel": 45,
+      "experience": 6,
+      "hp": 11,
+      "mp": 8,
+      "attack": 17,
+      "defence": 14,
+      "agility": 6,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -15738,7 +19467,23 @@
           "base": "ZombieFamily",
           "mate": "GiantSlug"
         }
-      ]
+      ],
+      "skills": [
+        "LushLicks",
+        "Dodge",
+        "Whistle"
+      ],
+      "maxLevel": 35,
+      "experience": 2,
+      "hp": 11,
+      "mp": 8,
+      "attack": 14,
+      "defence": 9,
+      "agility": 11,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Catapila",
@@ -15773,6 +19518,24 @@
           "base": "Catapila",
           "mate": "Catapila"
         }
+      ],
+      "skills": [
+        "Upper",
+        "PoisonHit",
+        "ThickFog"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 13,
+      "mp": 5,
+      "attack": 11,
+      "defence": 14,
+      "agility": 11,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Oasis"
       ]
     },
     {
@@ -15803,7 +19566,25 @@
           "base": "ZombieFamily",
           "mate": "WeedBug"
         }
-      ]
+      ],
+      "skills": [
+        "RobMagic",
+        "Barrier",
+        "MagicWall"
+      ],
+      "maxLevel": 40,
+      "experience": 4,
+      "hp": 17,
+      "mp": 13,
+      "attack": 10,
+      "defence": 12,
+      "agility": 5,
+      "intelligence": 19,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GiantWorm",
@@ -15828,7 +19609,25 @@
           "base": "MaterialFamily",
           "mate": "GiantWorm"
         }
-      ]
+      ],
+      "skills": [
+        "BeastCut",
+        "OddDance",
+        "StepGuard"
+      ],
+      "maxLevel": 35,
+      "experience": 6,
+      "hp": 13,
+      "mp": 8,
+      "attack": 16,
+      "defence": 8,
+      "agility": 13,
+      "intelligence": 14,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "StagBug",
@@ -15853,7 +19652,25 @@
           "base": "StagBug",
           "mate": "StagBug"
         }
-      ]
+      ],
+      "skills": [
+        "Sleep",
+        "FireAir",
+        "LegSweep"
+      ],
+      "maxLevel": 45,
+      "experience": 3,
+      "hp": 13,
+      "mp": 7,
+      "attack": 16,
+      "defence": 20,
+      "agility": 9,
+      "intelligence": 7,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ArmyAnt",
@@ -15866,7 +19683,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "NapAttack",
+        "Kamikaze"
+      ],
+      "maxLevel": 35,
+      "experience": 2,
+      "hp": 8,
+      "mp": 4,
+      "attack": 11,
+      "defence": 17,
+      "agility": 13,
+      "intelligence": 1,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "TailEater",
@@ -15906,7 +19741,25 @@
           "base": "TailEater",
           "mate": "TailEater"
         }
-      ]
+      ],
+      "skills": [
+        "IceSlash",
+        "PoisonGas",
+        "Radiant"
+      ],
+      "maxLevel": 45,
+      "experience": 5,
+      "hp": 12,
+      "mp": 10,
+      "attack": 16,
+      "defence": 11,
+      "agility": 14,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [
+        "Oasis"
+      ],
+      "taraLocations": []
     },
     {
       "name": "ArmorPede",
@@ -15956,7 +19809,25 @@
           "base": "DevilFamily",
           "mate": "ArmorPede"
         }
-      ]
+      ],
+      "skills": [
+        "Upper",
+        "TwinHits",
+        "TwinSlash"
+      ],
+      "maxLevel": 35,
+      "experience": 6,
+      "hp": 15,
+      "mp": 10,
+      "attack": 17,
+      "defence": 20,
+      "agility": 11,
+      "intelligence": 2,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MultiEyes",
@@ -16000,7 +19871,25 @@
           "mate": "Pyuro"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Sap",
+        "TwinHits",
+        "PalsyAir"
+      ],
+      "maxLevel": 35,
+      "experience": 4,
+      "hp": 14,
+      "mp": 15,
+      "attack": 19,
+      "defence": 13,
+      "agility": 2,
+      "intelligence": 3,
+      "locations": [],
+      "cobiLocations": [
+        "Elf"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Octoreach",
@@ -16052,6 +19941,24 @@
           "mate": "Octoreach",
           "req": "PlusFive"
         }
+      ],
+      "skills": [
+        "OddDance",
+        "PaniDance",
+        "Geyser"
+      ],
+      "maxLevel": 40,
+      "experience": 14,
+      "hp": 23,
+      "mp": 21,
+      "attack": 24,
+      "defence": 20,
+      "agility": 8,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -16071,7 +19978,25 @@
           "base": "BugFamily",
           "mate": "RayGigas"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "MouthShut",
+        "AquaWall"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 22,
+      "mp": 9,
+      "attack": 24,
+      "defence": 19,
+      "agility": 9,
+      "intelligence": 7,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Octokid",
@@ -16090,6 +20015,26 @@
           "base": "Lipsy",
           "mate": "Octokid"
         }
+      ],
+      "skills": [
+        "Heal",
+        "Mpass",
+        "CureDance"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 7,
+      "mp": 15,
+      "attack": 7,
+      "defence": 13,
+      "agility": 17,
+      "intelligence": 21,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
       ]
     },
     {
@@ -16145,7 +20090,23 @@
           "base": "Lipsy",
           "mate": "Angleron"
         }
-      ]
+      ],
+      "skills": [
+        "Bolt",
+        "Surround",
+        "SleepAir"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 17,
+      "mp": 16,
+      "attack": 23,
+      "defence": 20,
+      "agility": 9,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Spooky",
@@ -16169,7 +20130,25 @@
           "base": "BugFamily",
           "mate": "Spooky"
         }
-      ]
+      ],
+      "skills": [
+        "Radiant",
+        "MouthShut",
+        "Outside"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 11,
+      "mp": 12,
+      "attack": 13,
+      "defence": 8,
+      "agility": 18,
+      "intelligence": 15,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DarkCrab",
@@ -16209,7 +20188,23 @@
           "base": "BugFamily",
           "mate": "DarkCrab"
         }
-      ]
+      ],
+      "skills": [
+        "Ironize",
+        "MagicWall",
+        "StepGuard"
+      ],
+      "maxLevel": 30,
+      "experience": 8,
+      "hp": 12,
+      "mp": 8,
+      "attack": 15,
+      "defence": 20,
+      "agility": 1,
+      "intelligence": 11,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CancerMan",
@@ -16269,7 +20264,23 @@
           "base": "Goopi",
           "mate": "CancerMan"
         }
-      ]
+      ],
+      "skills": [
+        "BoltSlash",
+        "BeastCut",
+        "RainSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 15,
+      "hp": 23,
+      "mp": 13,
+      "attack": 24,
+      "defence": 21,
+      "agility": 14,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadHornet",
@@ -16313,7 +20324,25 @@
           "mate": "ZombieFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "PoisonHit",
+        "Paralyze",
+        "TailWind"
+      ],
+      "maxLevel": 40,
+      "experience": 7,
+      "hp": 20,
+      "mp": 5,
+      "attack": 19,
+      "defence": 13,
+      "agility": 20,
+      "intelligence": 4,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Belzebub",
@@ -16341,7 +20370,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Firebal",
+        "Farewell",
+        "Ramming"
+      ],
+      "maxLevel": 35,
+      "experience": 12,
+      "hp": 23,
+      "mp": 19,
+      "attack": 8,
+      "defence": 7,
+      "agility": 14,
+      "intelligence": 3,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "WarMantis",
@@ -16380,7 +20427,25 @@
           "mate": "Octoraid"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "VacuSlash",
+        "Shears",
+        "GigaSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 18,
+      "hp": 23,
+      "mp": 16,
+      "attack": 12,
+      "defence": 9,
+      "agility": 11,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [
+        "Sky"
+      ],
+      "taraLocations": []
     },
     {
       "name": "HornBeet",
@@ -16430,7 +20495,23 @@
           "base": "MaterialFamily",
           "mate": "HornBeet"
         }
-      ]
+      ],
+      "skills": [
+        "RockThrow",
+        "BoltSlash",
+        "DevilCut"
+      ],
+      "maxLevel": 50,
+      "experience": 7,
+      "hp": 21,
+      "mp": 19,
+      "attack": 23,
+      "defence": 20,
+      "agility": 12,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Armorpion",
@@ -16465,7 +20546,23 @@
           "base": "DeathMore1",
           "mate": "Armorpion"
         }
-      ]
+      ],
+      "skills": [
+        "ZombieCut",
+        "RainSlash",
+        "EvilSlash"
+      ],
+      "maxLevel": 55,
+      "experience": 24,
+      "hp": 22,
+      "mp": 20,
+      "attack": 24,
+      "defence": 23,
+      "agility": 15,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RogueNite",
@@ -16495,7 +20592,25 @@
           "base": "DevilFamily",
           "mate": "RogueNite"
         }
-      ]
+      ],
+      "skills": [
+        "Heal",
+        "MetalCut",
+        "EvilSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 12,
+      "hp": 14,
+      "mp": 4,
+      "attack": 20,
+      "defence": 21,
+      "agility": 10,
+      "intelligence": 13,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Clawster",
@@ -16540,7 +20655,25 @@
           "base": "Clawster",
           "mate": "Clawster"
         }
-      ]
+      ],
+      "skills": [
+        "DrakSlash",
+        "MetalCut",
+        "BiAttack"
+      ],
+      "maxLevel": 45,
+      "experience": 11,
+      "hp": 12,
+      "mp": 20,
+      "attack": 24,
+      "defence": 18,
+      "agility": 20,
+      "intelligence": 14,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Skularach",
@@ -16553,7 +20686,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Lightning",
+        "BiAttack",
+        "PoisonGas"
+      ],
+      "maxLevel": 65,
+      "experience": 25,
+      "hp": 18,
+      "mp": 23,
+      "attack": 25,
+      "defence": 24,
+      "agility": 30,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AgDevil",
@@ -16727,7 +20876,25 @@
           "mate": "AxeShark"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Firebal",
+        "Sacrifice",
+        "SleepAir"
+      ],
+      "maxLevel": 35,
+      "experience": 16,
+      "hp": 16,
+      "mp": 11,
+      "attack": 18,
+      "defence": 12,
+      "agility": 16,
+      "intelligence": 19,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Grendal",
@@ -16927,7 +21094,25 @@
           "base": "SabreMan",
           "mate": "Grendal"
         }
-      ]
+      ],
+      "skills": [
+        "FireSlash",
+        "DrakSlash",
+        "Cover"
+      ],
+      "maxLevel": 60,
+      "experience": 20,
+      "hp": 23,
+      "mp": 1,
+      "attack": 18,
+      "defence": 24,
+      "agility": 12,
+      "intelligence": 12,
+      "locations": [
+        "Elf"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SkulRider",
@@ -16967,7 +21152,25 @@
           "base": "Angleron",
           "mate": "SkulRider"
         }
-      ]
+      ],
+      "skills": [
+        "FireSlash",
+        "RainSlash",
+        "LegSweep"
+      ],
+      "maxLevel": 45,
+      "experience": 18,
+      "hp": 17,
+      "mp": 11,
+      "attack": 17,
+      "defence": 13,
+      "agility": 15,
+      "intelligence": 12,
+      "locations": [
+        "Lonely"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "EvilBeast",
@@ -17022,7 +21225,25 @@
           "base": "CaptDead",
           "mate": "EvilBeast"
         }
-      ]
+      ],
+      "skills": [
+        "Firebal",
+        "Ironize",
+        "FrigidAir"
+      ],
+      "maxLevel": 50,
+      "experience": 20,
+      "hp": 16,
+      "mp": 10,
+      "attack": 20,
+      "defence": 22,
+      "agility": 4,
+      "intelligence": 12,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AxeShark",
@@ -17056,7 +21277,23 @@
           "base": "Gigantes",
           "mate": "AxeShark"
         }
-      ]
+      ],
+      "skills": [
+        "Sap",
+        "RainSlash",
+        "Cover"
+      ],
+      "maxLevel": 50,
+      "experience": 25,
+      "hp": 25,
+      "mp": 20,
+      "attack": 28,
+      "defence": 21,
+      "agility": 14,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ChopClown",
@@ -17080,7 +21317,25 @@
           "base": "Octogon",
           "mate": "ChopClown"
         }
-      ]
+      ],
+      "skills": [
+        "TwinHits",
+        "VacuSlash",
+        "SquallHit"
+      ],
+      "maxLevel": 50,
+      "experience": 22,
+      "hp": 17,
+      "mp": 12,
+      "attack": 20,
+      "defence": 11,
+      "agility": 20,
+      "intelligence": 15,
+      "locations": [
+        "Limbo"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "EvilWell",
@@ -17098,7 +21353,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "ChargeUp",
+        "WarCry"
+      ],
+      "maxLevel": 50,
+      "experience": 15,
+      "hp": 23,
+      "mp": 14,
+      "attack": 10,
+      "defence": 15,
+      "agility": 6,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Durran",
@@ -17127,7 +21398,23 @@
           "mate": "Divinegon"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "WindBeast",
+        "DrakSlash",
+        "BirdBlow"
+      ],
+      "maxLevel": 70,
+      "experience": 28,
+      "hp": 25,
+      "mp": 24,
+      "attack": 23,
+      "defence": 15,
+      "agility": 17,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Titanis",
@@ -17151,7 +21438,23 @@
           "base": "DeathMore1",
           "mate": "Titanis"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "Beserker",
+        "UltraDown"
+      ],
+      "maxLevel": 75,
+      "experience": 27,
+      "hp": 25,
+      "mp": 24,
+      "attack": 25,
+      "defence": 22,
+      "agility": 23,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "LampGenie",
@@ -17170,7 +21473,23 @@
           "base": "Gismo",
           "mate": "LampGenie"
         }
-      ]
+      ],
+      "skills": [
+        "Heal",
+        "Sleep",
+        "TailWind"
+      ],
+      "maxLevel": 60,
+      "experience": 21,
+      "hp": 10,
+      "mp": 12,
+      "attack": 11,
+      "defence": 22,
+      "agility": 15,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "BoneSlave",
@@ -17310,7 +21629,23 @@
           "base": "BoneSlave",
           "mate": "BoneSlave"
         }
-      ]
+      ],
+      "skills": [
+        "Bang",
+        "BoltSlash",
+        "BiAttack"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 14,
+      "mp": 13,
+      "attack": 17,
+      "defence": 12,
+      "agility": 7,
+      "intelligence": 1,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Skulpent",
@@ -17329,7 +21664,23 @@
           "mate": "DragonFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Beat",
+        "PoisonHit",
+        "Dodge"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 17,
+      "mp": 19,
+      "attack": 23,
+      "defence": 9,
+      "agility": 12,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RotRaven",
@@ -17348,7 +21699,25 @@
           "mate": "BirdFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Lightning",
+        "BoltSlash",
+        "Kamikaze"
+      ],
+      "maxLevel": 35,
+      "experience": 5,
+      "hp": 14,
+      "mp": 8,
+      "attack": 12,
+      "defence": 11,
+      "agility": 18,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Mummy",
@@ -17442,7 +21811,25 @@
           "mate": "StoneMan"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "Paralyze",
+        "EvilSlash"
+      ],
+      "maxLevel": 50,
+      "experience": 10,
+      "hp": 15,
+      "mp": 17,
+      "attack": 12,
+      "defence": 9,
+      "agility": 4,
+      "intelligence": 8,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Hork",
@@ -17517,7 +21904,25 @@
           "base": "Hork",
           "mate": "Hork"
         }
-      ]
+      ],
+      "skills": [
+        "PoisonGas",
+        "EerieLite",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 17,
+      "mp": 13,
+      "attack": 16,
+      "defence": 8,
+      "agility": 11,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "MadSpirit",
@@ -17576,7 +21981,25 @@
           "mate": "DragonFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "SleepAir",
+        "Radiant",
+        "ThickFog"
+      ],
+      "maxLevel": 50,
+      "experience": 13,
+      "hp": 14,
+      "mp": 12,
+      "attack": 15,
+      "defence": 12,
+      "agility": 16,
+      "intelligence": 10,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "PomPomBom",
@@ -17605,7 +22028,23 @@
           "mate": "BirdFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Beat",
+        "ThickFog",
+        "LifeDance"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 5,
+      "mp": 21,
+      "attack": 13,
+      "defence": 11,
+      "agility": 14,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "WindMerge",
@@ -17623,7 +22062,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Infernos",
+        "CurseOff",
+        "BirdBlow"
+      ],
+      "maxLevel": 35,
+      "experience": 9,
+      "hp": 16,
+      "mp": 19,
+      "attack": 19,
+      "defence": 12,
+      "agility": 13,
+      "intelligence": 6,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Inverzon",
@@ -17636,7 +22091,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Surround",
+        "PoisonGas",
+        "SideStep"
+      ],
+      "maxLevel": 35,
+      "experience": 4,
+      "hp": 7,
+      "mp": 2,
+      "attack": 14,
+      "defence": 7,
+      "agility": 4,
+      "intelligence": 1,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
+      ]
     },
     {
       "name": "FoxFire",
@@ -17660,7 +22133,25 @@
           "mate": "BeastFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "Firebal",
+        "Outside"
+      ],
+      "maxLevel": 40,
+      "experience": 7,
+      "hp": 9,
+      "mp": 15,
+      "attack": 6,
+      "defence": 8,
+      "agility": 13,
+      "intelligence": 4,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CaptDead",
@@ -17754,7 +22245,23 @@
           "mate": "StoneMan"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "AquaCut",
+        "SquallHit"
+      ],
+      "maxLevel": 40,
+      "experience": 13,
+      "hp": 9,
+      "mp": 20,
+      "attack": 17,
+      "defence": 16,
+      "agility": 8,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Moray",
@@ -17773,6 +22280,26 @@
           "base": "NiteWhip",
           "mate": "Moray"
         }
+      ],
+      "skills": [
+        "Sleep",
+        "PsycheUp",
+        "PoisonGas"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 12,
+      "mp": 17,
+      "attack": 18,
+      "defence": 19,
+      "agility": 22,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -17817,7 +22344,23 @@
           "base": "CancerMan",
           "mate": "WhaleMage"
         }
-      ]
+      ],
+      "skills": [
+        "Antidote",
+        "Watershot",
+        "Geyser"
+      ],
+      "maxLevel": 45,
+      "experience": 30,
+      "hp": 29,
+      "mp": 21,
+      "attack": 23,
+      "defence": 18,
+      "agility": 3,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Grakos",
@@ -17847,7 +22390,23 @@
           "base": "Niterich",
           "mate": "Grakos"
         }
-      ]
+      ],
+      "skills": [
+        "TwinHits",
+        "HighJump",
+        "SandStorm"
+      ],
+      "maxLevel": 55,
+      "experience": 21,
+      "hp": 23,
+      "mp": 18,
+      "attack": 25,
+      "defence": 18,
+      "agility": 16,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Niterich",
@@ -17937,7 +22496,23 @@
           "base": "PsychoPiz",
           "mate": "Niterich"
         }
-      ]
+      ],
+      "skills": [
+        "Beat",
+        "ThickFog",
+        "BladeD"
+      ],
+      "maxLevel": 65,
+      "experience": 20,
+      "hp": 27,
+      "mp": 13,
+      "attack": 24,
+      "defence": 23,
+      "agility": 19,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Lazamanus",
@@ -17950,7 +22525,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "TakeMagic",
+        "K.O.",
+        "Dance"
+      ],
+      "maxLevel": 75,
+      "experience": 26,
+      "hp": 24,
+      "mp": 20,
+      "attack": 30,
+      "defence": 20,
+      "agility": 12,
+      "intelligence": 14,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DracoLord1",
@@ -17990,7 +22581,19 @@
           "base": "Gismo",
           "mate": "DracoLord1"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Roboster2",
@@ -18036,7 +22639,23 @@
           "base": "Skeletor",
           "mate": "Roboster2"
         }
-      ]
+      ],
+      "skills": [
+        "BoltSlash",
+        "MetalCut",
+        "GigaSlash"
+      ],
+      "maxLevel": 45,
+      "experience": 22,
+      "hp": 23,
+      "mp": 13,
+      "attack": 24,
+      "defence": 26,
+      "agility": 22,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MadCandle",
@@ -18085,7 +22704,26 @@
           "mate": "Anemon"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "PsycheUp",
+        "Whistle"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 12,
+      "mp": 10,
+      "attack": 14,
+      "defence": 6,
+      "agility": 17,
+      "intelligence": 12,
+      "locations": [
+        "Oasis",
+        "Lonely"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SpikyBoy",
@@ -18115,7 +22753,25 @@
           "base": "WaterFamily",
           "mate": "SpikyBoy"
         }
-      ]
+      ],
+      "skills": [
+        "Sacrifice",
+        "SlimeBlow",
+        "HighJump"
+      ],
+      "maxLevel": 30,
+      "experience": 8,
+      "hp": 9,
+      "mp": 13,
+      "attack": 14,
+      "defence": 17,
+      "agility": 7,
+      "intelligence": 11,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Goopi",
@@ -18180,7 +22836,25 @@
           "base": "Goopi",
           "mate": "Goopi"
         }
-      ]
+      ],
+      "skills": [
+        "CallHelp",
+        "LegSweep",
+        "Dodge"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 8,
+      "mp": 13,
+      "attack": 11,
+      "defence": 14,
+      "agility": 7,
+      "intelligence": 4,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CurseLamp",
@@ -18203,7 +22877,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Upper",
+        "Speed",
+        "TwinHits"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 12,
+      "mp": 18,
+      "attack": 9,
+      "defence": 19,
+      "agility": 13,
+      "intelligence": 15,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "EvilPot",
@@ -18226,7 +22918,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Beat",
+        "Massacre",
+        "Outside"
+      ],
+      "maxLevel": 40,
+      "experience": 11,
+      "hp": 18,
+      "mp": 19,
+      "attack": 15,
+      "defence": 18,
+      "agility": 9,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Scallopa",
@@ -18250,7 +22958,25 @@
           "base": "Mimic",
           "mate": "Scallopa"
         }
-      ]
+      ],
+      "skills": [
+        "Upper",
+        "MagicWall",
+        "Radiant"
+      ],
+      "maxLevel": 35,
+      "experience": 10,
+      "hp": 17,
+      "mp": 19,
+      "attack": 9,
+      "defence": 23,
+      "agility": 7,
+      "intelligence": 19,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RushFish",
@@ -18310,6 +23036,24 @@
           "base": "HoodSquid",
           "mate": "RushFish"
         }
+      ],
+      "skills": [
+        "Upper",
+        "Kamikaze",
+        "SandStorm"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 9,
+      "mp": 6,
+      "attack": 12,
+      "defence": 7,
+      "agility": 18,
+      "intelligence": 6,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Ice"
       ]
     },
     {
@@ -18323,7 +23067,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "TakeMagic",
+        "WindBeast",
+        "PaniDance"
+      ],
+      "maxLevel": 45,
+      "experience": 11,
+      "hp": 20,
+      "mp": 13,
+      "attack": 15,
+      "defence": 6,
+      "agility": 7,
+      "intelligence": 4,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "MudDoll",
@@ -18353,7 +23115,23 @@
           "base": "MudDoll",
           "mate": "MudDoll"
         }
-      ]
+      ],
+      "skills": [
+        "OddDance",
+        "Hustle",
+        "SideStep"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 12,
+      "mp": 3,
+      "attack": 13,
+      "defence": 14,
+      "agility": 1,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "ProtoMech",
@@ -18381,7 +23159,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "SlimeBlow",
+        "ChargeUp",
+        "Ramming"
+      ],
+      "maxLevel": 40,
+      "experience": 5,
+      "hp": 3,
+      "mp": 2,
+      "attack": 6,
+      "defence": 3,
+      "agility": 4,
+      "intelligence": 6,
+      "locations": [
+        "Lonely"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "CloudKing",
@@ -18429,7 +23225,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Infernos",
+        "Barrier",
+        "Surge"
+      ],
+      "maxLevel": 45,
+      "experience": 8,
+      "hp": 8,
+      "mp": 24,
+      "attack": 14,
+      "defence": 16,
+      "agility": 11,
+      "intelligence": 26,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "KingSquid",
@@ -18460,7 +23272,23 @@
           "base": "Gismo",
           "mate": "KingSquid"
         }
-      ]
+      ],
+      "skills": [
+        "Vivify",
+        "RainSlash",
+        "PsycheUp"
+      ],
+      "maxLevel": 55,
+      "experience": 24,
+      "hp": 25,
+      "mp": 14,
+      "attack": 26,
+      "defence": 23,
+      "agility": 12,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "PutreFish",
@@ -18473,7 +23301,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "PanicAll",
+        "Watershot",
+        "Ramming"
+      ],
+      "maxLevel": 35,
+      "experience": 4,
+      "hp": 5,
+      "mp": 4,
+      "attack": 8,
+      "defence": 3,
+      "agility": 14,
+      "intelligence": 7,
+      "locations": [],
+      "cobiLocations": [
+        "Pirate"
+      ],
+      "taraLocations": []
     },
     {
       "name": "Petiteel",
@@ -18501,7 +23347,25 @@
           "mate": "DevilFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Speed",
+        "TwinHits",
+        "Ramming"
+      ],
+      "maxLevel": 35,
+      "experience": 3,
+      "hp": 15,
+      "mp": 17,
+      "attack": 12,
+      "defence": 9,
+      "agility": 14,
+      "intelligence": 10,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "RogueWave",
@@ -18531,7 +23395,25 @@
           "base": "RushFish",
           "mate": "RogueWave"
         }
-      ]
+      ],
+      "skills": [
+        "Watershot",
+        "PoisonGas",
+        "AquaWall"
+      ],
+      "maxLevel": 40,
+      "experience": 9,
+      "hp": 11,
+      "mp": 7,
+      "attack": 18,
+      "defence": 9,
+      "agility": 24,
+      "intelligence": 19,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "SeaHorse",
@@ -18549,7 +23431,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "FrigidAir",
+        "Geyser",
+        "BladeD"
+      ],
+      "maxLevel": 40,
+      "experience": 12,
+      "hp": 21,
+      "mp": 9,
+      "attack": 17,
+      "defence": 14,
+      "agility": 15,
+      "intelligence": 8,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "HoodSquid",
@@ -18588,7 +23488,23 @@
           "mate": "SlimeFamily"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "BiAttack",
+        "CureDance"
+      ],
+      "maxLevel": 45,
+      "experience": 17,
+      "hp": 11,
+      "mp": 21,
+      "attack": 16,
+      "defence": 10,
+      "agility": 14,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Octogon",
@@ -18646,7 +23562,23 @@
           "mate": "Octogon",
           "req": "PlusFive"
         }
-      ]
+      ],
+      "skills": [
+        "Mpass",
+        "BiAttack",
+        "Hustle"
+      ],
+      "maxLevel": 45,
+      "experience": 19,
+      "hp": 24,
+      "mp": 9,
+      "attack": 25,
+      "defence": 18,
+      "agility": 9,
+      "intelligence": 20,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Digong",
@@ -18695,7 +23627,23 @@
           "mate": "Orligon"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "FireAir",
+        "Ramming",
+        "PoisonGas"
+      ],
+      "maxLevel": 55,
+      "experience": 21,
+      "hp": 18,
+      "mp": 23,
+      "attack": 25,
+      "defence": 11,
+      "agility": 10,
+      "intelligence": 10,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Aquadon",
@@ -18718,7 +23666,23 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "RobMagic",
+        "WindBeast",
+        "Beserker"
+      ],
+      "maxLevel": 50,
+      "experience": 24,
+      "hp": 24,
+      "mp": 20,
+      "attack": 26,
+      "defence": 10,
+      "agility": 17,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Poseidon",
@@ -18737,7 +23701,23 @@
           "base": "DeathMore2",
           "mate": "Poseidon"
         }
-      ]
+      ],
+      "skills": [
+        "Bolt",
+        "Focus",
+        "Dodge"
+      ],
+      "maxLevel": 65,
+      "experience": 30,
+      "hp": 28,
+      "mp": 22,
+      "attack": 23,
+      "defence": 24,
+      "agility": 13,
+      "intelligence": 9,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mudou",
@@ -18766,7 +23746,23 @@
           "base": "DeathMore2",
           "mate": "Mudou"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "FrigidAir",
+        "PoisonGas"
+      ],
+      "maxLevel": 60,
+      "experience": 28,
+      "hp": 21,
+      "mp": 30,
+      "attack": 26,
+      "defence": 24,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pumpoise",
@@ -18809,7 +23805,25 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "CallHelp",
+        "SuckAir",
+        "Dodge"
+      ],
+      "maxLevel": 35,
+      "experience": 12,
+      "hp": 17,
+      "mp": 8,
+      "attack": 13,
+      "defence": 22,
+      "agility": 7,
+      "intelligence": 8,
+      "locations": [
+        "Ice"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "StarFish",
@@ -18837,7 +23851,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DracoLord2",
@@ -18861,7 +23887,23 @@
           "mate": "Sidoh"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "FireAir",
+        "Massacre",
+        "Surge"
+      ],
+      "maxLevel": 70,
+      "experience": 25,
+      "hp": 21,
+      "mp": 30,
+      "attack": 24,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "LordDraco",
@@ -18880,7 +23922,23 @@
           "base": "Orgodemir",
           "mate": "LordDraco"
         }
-      ]
+      ],
+      "skills": [
+        "Bolt",
+        "HellBlast",
+        "Focus"
+      ],
+      "maxLevel": 80,
+      "experience": 27,
+      "hp": 22,
+      "mp": 31,
+      "attack": 24,
+      "defence": 22,
+      "agility": 24,
+      "intelligence": 22,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Hargon",
@@ -18899,7 +23957,23 @@
           "mate": "Orochi"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Firebal",
+        "Bang",
+        "TatsuCall"
+      ],
+      "maxLevel": 60,
+      "experience": 24,
+      "hp": 19,
+      "mp": 30,
+      "attack": 20,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Sidoh",
@@ -18929,7 +24003,23 @@
           "base": "DracoLord2",
           "mate": "Sidoh"
         }
-      ]
+      ],
+      "skills": [
+        "HellBlast",
+        "FireAir",
+        "FrigidAir"
+      ],
+      "maxLevel": 70,
+      "experience": 25,
+      "hp": 24,
+      "mp": 30,
+      "attack": 24,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "GenoSidoh",
@@ -18942,7 +24032,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Baramos",
@@ -18966,7 +24068,23 @@
           "mate": "DarkHorn"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Bang",
+        "HellBlast",
+        "RockThrow"
+      ],
+      "maxLevel": 60,
+      "experience": 24,
+      "hp": 20,
+      "mp": 30,
+      "attack": 20,
+      "defence": 20,
+      "agility": 22,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Zoma",
@@ -19011,7 +24129,23 @@
           "base": "Mirudraas2",
           "mate": "Zoma"
         }
-      ]
+      ],
+      "skills": [
+        "BigBang",
+        "FrigidAir",
+        "DeMagic"
+      ],
+      "maxLevel": 70,
+      "experience": 25,
+      "hp": 24,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "AsuraZoma",
@@ -19030,7 +24164,23 @@
           "base": "DeathMore3",
           "mate": "AsuraZoma"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "GigaSlash",
+        "Focus"
+      ],
+      "maxLevel": 80,
+      "experience": 29,
+      "hp": 26,
+      "mp": 30,
+      "attack": 29,
+      "defence": 22,
+      "agility": 23,
+      "intelligence": 12,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "PsychoPiz",
@@ -19055,7 +24205,23 @@
           "base": "Zoma",
           "mate": "PsychoPiz"
         }
-      ]
+      ],
+      "skills": [
+        "BigBang",
+        "FrigidAir",
+        "DeMagic"
+      ],
+      "maxLevel": 80,
+      "experience": 29,
+      "hp": 30,
+      "mp": 30,
+      "attack": 27,
+      "defence": 18,
+      "agility": 24,
+      "intelligence": 21,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Pizzaro",
@@ -19084,7 +24250,23 @@
           "mate": "KingLeo"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "HellBlast",
+        "FireAir",
+        "BiAttack"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 21,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Esterk",
@@ -19114,7 +24296,23 @@
           "base": "Pizzaro",
           "mate": "Esterk"
         }
-      ]
+      ],
+      "skills": [
+        "BiAttack",
+        "RainSlash",
+        "GigaSlash"
+      ],
+      "maxLevel": 80,
+      "experience": 31,
+      "hp": 29,
+      "mp": 30,
+      "attack": 26,
+      "defence": 24,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mirudraas1",
@@ -19149,7 +24347,19 @@
           "base": "Zoma",
           "mate": "Mirudraas1"
         }
-      ]
+      ],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Mirudraas2",
@@ -19179,7 +24389,23 @@
           "base": "Zoma",
           "mate": "Mirudraas2"
         }
-      ]
+      ],
+      "skills": [
+        "FireAir",
+        "DeMagic",
+        "SuckAir"
+      ],
+      "maxLevel": 80,
+      "experience": 31,
+      "hp": 29,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DeathMore2",
@@ -19213,7 +24439,23 @@
           "mate": "Poseidon"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "FireAir",
+        "Ramming",
+        "UltraDown"
+      ],
+      "maxLevel": 70,
+      "experience": 29,
+      "hp": 24,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DeathMore3",
@@ -19252,7 +24494,23 @@
           "mate": "Watabou"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "BigBang",
+        "DeMagic",
+        "Focus"
+      ],
+      "maxLevel": 80,
+      "experience": 31,
+      "hp": 29,
+      "mp": 30,
+      "attack": 30,
+      "defence": 24,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "DarkDrium",
@@ -19275,7 +24533,19 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Orgodemir",
@@ -19299,7 +24569,23 @@
           "mate": "GigaDraco"
         }
       ],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Bang",
+        "EvilSlash",
+        "Focus"
+      ],
+      "maxLevel": 65,
+      "experience": 30,
+      "hp": 24,
+      "mp": 25,
+      "attack": 26,
+      "defence": 23,
+      "agility": 22,
+      "intelligence": 31,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Orgodemir2",
@@ -19317,14 +24603,518 @@
         }
       ],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "MegaMagic",
+        "DeMagic",
+        "LifeSong"
+      ],
+      "maxLevel": 70,
+      "experience": 31,
+      "hp": 27,
+      "mp": 31,
+      "attack": 30,
+      "defence": 23,
+      "agility": 24,
+      "intelligence": 31,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
     },
     {
       "name": "Darck",
       "family": "BossFamily",
       "recipes": [],
       "asBase": [],
-      "asMate": []
+      "asMate": [],
+      "skills": [
+        "Firebal",
+        "Bang",
+        "ChargeUp"
+      ],
+      "maxLevel": 60,
+      "experience": 26,
+      "hp": 23,
+      "mp": 25,
+      "attack": 18,
+      "defence": 23,
+      "agility": 14,
+      "intelligence": 17,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "PearlGel",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Upper",
+        "ChargeUp",
+        "Radiant"
+      ],
+      "maxLevel": 40,
+      "experience": 10,
+      "hp": 10,
+      "mp": 16,
+      "attack": 8,
+      "defence": 22,
+      "agility": 14,
+      "intelligence": 9,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Rayburn",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "VacuSlash",
+        "DevilCut",
+        "PoisonHit"
+      ],
+      "maxLevel": 35,
+      "experience": 17,
+      "hp": 14,
+      "mp": 2,
+      "attack": 17,
+      "defence": 16,
+      "agility": 15,
+      "intelligence": 5,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Antbear",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "MetalCut",
+        "SquallHit",
+        "LushLicks"
+      ],
+      "maxLevel": 40,
+      "experience": 8,
+      "hp": 14,
+      "mp": 7,
+      "attack": 17,
+      "defence": 11,
+      "agility": 9,
+      "intelligence": 11,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Florajay",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Speed",
+        "BeastCut",
+        "LifeSong"
+      ],
+      "maxLevel": 50,
+      "experience": 5,
+      "hp": 6,
+      "mp": 18,
+      "attack": 12,
+      "defence": 3,
+      "agility": 21,
+      "intelligence": 19,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "CactiBall",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Paralyze",
+        "HighJump",
+        "OddDance"
+      ],
+      "maxLevel": 30,
+      "experience": 6,
+      "hp": 18,
+      "mp": 18,
+      "attack": 12,
+      "defence": 15,
+      "agility": 9,
+      "intelligence": 5,
+      "locations": [
+        "Oasis"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Toadstool",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "NapAttack",
+        "SleepAir",
+        "MouthShut"
+      ],
+      "maxLevel": 45,
+      "experience": 9,
+      "hp": 14,
+      "mp": 18,
+      "attack": 8,
+      "defence": 9,
+      "agility": 13,
+      "intelligence": 13,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
+      ]
+    },
+    {
+      "name": "Rosevine",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "BiAttack",
+        "UltraDown",
+        "BladeD"
+      ],
+      "maxLevel": 70,
+      "experience": 24,
+      "hp": 24,
+      "mp": 30,
+      "attack": 23,
+      "defence": 21,
+      "agility": 18,
+      "intelligence": 18,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Butterfly",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Surround",
+        "CallHelp",
+        "Curse"
+      ],
+      "maxLevel": 30,
+      "experience": 0,
+      "hp": 11,
+      "mp": 2,
+      "attack": 13,
+      "defence": 7,
+      "agility": 12,
+      "intelligence": 8,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Pirate"
+      ]
+    },
+    {
+      "name": "1EyeClown",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "Firebal",
+        "Icebolt"
+      ],
+      "maxLevel": 25,
+      "experience": 13,
+      "hp": 10,
+      "mp": 1,
+      "attack": 5,
+      "defence": 9,
+      "agility": 9,
+      "intelligence": 17,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "PutrePup",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Sap",
+        "Slow",
+        "MagicBack"
+      ],
+      "maxLevel": 35,
+      "experience": 6,
+      "hp": 17,
+      "mp": 13,
+      "attack": 17,
+      "defence": 8,
+      "agility": 11,
+      "intelligence": 4,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": [
+        "Sky"
+      ]
+    },
+    {
+      "name": "Copycat",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Transform",
+        "OddDance",
+        "Imitate"
+      ],
+      "maxLevel": 40,
+      "experience": 1,
+      "hp": 11,
+      "mp": 20,
+      "attack": 1,
+      "defence": 2,
+      "agility": 21,
+      "intelligence": 5,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Starfish",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Upper",
+        "PoisonHit",
+        "OddDance"
+      ],
+      "maxLevel": 30,
+      "experience": 5,
+      "hp": 7,
+      "mp": 19,
+      "attack": 5,
+      "defence": 9,
+      "agility": 9,
+      "intelligence": 15,
+      "locations": [],
+      "cobiLocations": [
+        "Ice"
+      ],
+      "taraLocations": []
+    },
+    {
+      "name": "DracoLord",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Firebal",
+        "BeDragon",
+        "Meditate"
+      ],
+      "maxLevel": 50,
+      "experience": 24,
+      "hp": 20,
+      "mp": 30,
+      "attack": 21,
+      "defence": 20,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Genosidoh",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Barrier",
+        "WindBeast",
+        "MultiCut"
+      ],
+      "maxLevel": 80,
+      "experience": 30,
+      "hp": 25,
+      "mp": 31,
+      "attack": 25,
+      "defence": 17,
+      "agility": 18,
+      "intelligence": 22,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Mirudraas",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Blaze",
+        "Bang",
+        "Bolt"
+      ],
+      "maxLevel": 70,
+      "experience": 30,
+      "hp": 21,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "DeathMore",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "BigBang",
+        "HellBlast",
+        "TatsuCall"
+      ],
+      "maxLevel": 60,
+      "experience": 27,
+      "hp": 21,
+      "mp": 30,
+      "attack": 26,
+      "defence": 21,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Darkdrium",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [
+        "Bolt",
+        "FireAir",
+        "FrigidAir"
+      ],
+      "maxLevel": 80,
+      "experience": 30,
+      "hp": 31,
+      "mp": 30,
+      "attack": 31,
+      "defence": 24,
+      "agility": 23,
+      "intelligence": 23,
+      "locations": [],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Brushhead",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [
+        "Pirate"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Bublemon",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [
+        "Sky"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
+    },
+    {
+      "name": "Skullpent",
+      "family": "",
+      "recipes": [],
+      "asBase": [],
+      "asMate": [],
+      "skills": [],
+      "maxLevel": 0,
+      "experience": 0,
+      "hp": 0,
+      "mp": 0,
+      "attack": 0,
+      "defence": 0,
+      "agility": 0,
+      "intelligence": 0,
+      "locations": [
+        "Traveler"
+      ],
+      "cobiLocations": [],
+      "taraLocations": []
     }
   ]
 }
