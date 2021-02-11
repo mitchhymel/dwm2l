@@ -7,11 +7,9 @@ import { RecipeListItem } from './RecipeListItem';
 
 const RecipeListContainer = styled.div`
   border-radius: 4px;
-  border-width: 4px;
   border-color: black;
   border-style: solid;
-  margin: -10px;
-  padding: 5px;
+  margin: 5px;
 `
 
 interface RecipeListProps {

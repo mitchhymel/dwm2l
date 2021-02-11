@@ -14,8 +14,6 @@ export const MonsterScreen = (props: MonsterScreenProps | any) => {
   }
   let monster = library.get(mon);
   return (
-    <div>
-      <MonsterCard monster={monster} />
-    </div>
+    <MonsterCard monster={monster} />
   );
 }

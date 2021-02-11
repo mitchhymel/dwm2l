@@ -6,6 +6,17 @@ export interface IMonster {
   recipes: (IRecipe)[];
   asBase: (IRecipe)[];
   asMate: (IRecipe)[];
+  cobiLocations: (RecruitLocation)[];
+  taraLocations: (RecruitLocation)[];
+  skills: String[];
+  maxLevel: Number;
+  experience: Number;
+  hp: Number;
+  mp: Number;
+  attack: Number;
+  defence: Number;
+  agility: Number;
+  intelligence: Number;
 }
 
 export interface IRecipe {
@@ -42,9 +53,6 @@ export enum RecruitLocation {
   Traveler,
   Elf,
   Lonely,
-  PowerTower,
-  BaffleTower,
-  SoulTower,
   ForeignMaster,
 }
 

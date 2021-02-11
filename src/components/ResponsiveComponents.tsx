@@ -12,7 +12,7 @@ export const Row = styled.div`
 export const Column = styled.div<{span: number}>`
   float: left;
   width: 100%;
-  padding: 15px;
+  // padding: 15px;
   @media only screen and (min-width: 768px) {
     width: ${props => (props.span ? props.span / 12 * 100 : 8.33)}%;
   }
