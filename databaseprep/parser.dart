@@ -247,8 +247,9 @@ class DWMLibrary {
           res = getByName(name);
         }
         else {
-          res = new Monster(name);
-          monsters.add(res);
+          throw new Exception('monster not found: $name');
+          // res = new Monster(name);
+          // monsters.add(res);
         }
 
         res.locations.add(loc);
@@ -259,8 +260,9 @@ class DWMLibrary {
           res = getByName(name);
         }
         else {
-          res = new Monster(name);
-          monsters.add(res);
+          throw new Exception('monster not found: $name');
+          // res = new Monster(name);
+          // monsters.add(res);
         }
 
         String version = parts[2];

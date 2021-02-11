@@ -14276,7 +14276,9 @@
       "defence": 0,
       "agility": 0,
       "intelligence": 0,
-      "locations": [],
+      "locations": [
+        "Pirate"
+      ],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -16362,7 +16364,9 @@
       "defence": 7,
       "agility": 7,
       "intelligence": 4,
-      "locations": [],
+      "locations": [
+        "Sky"
+      ],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -17718,7 +17722,9 @@
       "defence": 4,
       "agility": 4,
       "intelligence": 3,
-      "locations": [],
+      "locations": [
+        "Pirate"
+      ],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -21678,7 +21684,9 @@
       "defence": 9,
       "agility": 12,
       "intelligence": 10,
-      "locations": [],
+      "locations": [
+        "Traveler"
+      ],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -24711,9 +24719,7 @@
       "defence": 11,
       "agility": 9,
       "intelligence": 11,
-      "locations": [
-        "Pirate"
-      ],
+      "locations": [],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -25050,69 +25056,6 @@
       "agility": 23,
       "intelligence": 23,
       "locations": [],
-      "cobiLocations": [],
-      "taraLocations": []
-    },
-    {
-      "name": "Brushhead",
-      "family": "",
-      "recipes": [],
-      "asBase": [],
-      "asMate": [],
-      "skills": [],
-      "maxLevel": 0,
-      "experience": 0,
-      "hp": 0,
-      "mp": 0,
-      "attack": 0,
-      "defence": 0,
-      "agility": 0,
-      "intelligence": 0,
-      "locations": [
-        "Pirate"
-      ],
-      "cobiLocations": [],
-      "taraLocations": []
-    },
-    {
-      "name": "Bublemon",
-      "family": "",
-      "recipes": [],
-      "asBase": [],
-      "asMate": [],
-      "skills": [],
-      "maxLevel": 0,
-      "experience": 0,
-      "hp": 0,
-      "mp": 0,
-      "attack": 0,
-      "defence": 0,
-      "agility": 0,
-      "intelligence": 0,
-      "locations": [
-        "Sky"
-      ],
-      "cobiLocations": [],
-      "taraLocations": []
-    },
-    {
-      "name": "Skullpent",
-      "family": "",
-      "recipes": [],
-      "asBase": [],
-      "asMate": [],
-      "skills": [],
-      "maxLevel": 0,
-      "experience": 0,
-      "hp": 0,
-      "mp": 0,
-      "attack": 0,
-      "defence": 0,
-      "agility": 0,
-      "intelligence": 0,
-      "locations": [
-        "Traveler"
-      ],
       "cobiLocations": [],
       "taraLocations": []
     }

@@ -7,10 +7,10 @@ Catapila,Oasis,Tara
 GiantWorm,Oasis
 Spooky,Oasis
 MadCandle,Oasis
-Antbear,Pirate
+AntBear,Pirate
 ArmyAnt,Pirate
 ArrowDog,Pirate
-Brushhead,Pirate
+Brushead,Pirate
 Dracky,Pirate
 DragonKid,Pirate
 MadGopher,Pirate
@@ -119,7 +119,7 @@ Dragon,Sky
 EvilBeast,Sky
 FangSlime,Sky
 FloraJay,Sky
-Bublemon,Sky
+Bubblemon,Sky
 Emyu,Sky
 FairyRat,Sky
 FireWeed,Sky
@@ -217,7 +217,7 @@ Mimic,Traveler
 Ogre,Traveler
 Scallopa,Traveler
 Skullgon,Traveler
-Skullpent,Traveler
+Skulpent,Traveler
 Snaily,Traveler
 Spikerous,Traveler
 WeedBug,Traveler
