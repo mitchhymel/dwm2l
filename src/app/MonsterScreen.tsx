@@ -13,6 +13,7 @@ export const MonsterScreen = (props: MonsterScreenProps | any) => {
     mon = props.match.params.monster;
   }
   let monster = library.get(mon);
+  
   return (
     <MonsterCard monster={monster} />
   );

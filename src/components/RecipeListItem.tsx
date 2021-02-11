@@ -38,7 +38,6 @@ export const RecipeComponent = ({part}: RecipeComponentProps) => {
     const monster = part as Monsters;
     return <MonsterImage monster={monster}/>
   } else {
-    console.log(part);
     return <div>{part}</div>
   }
 };

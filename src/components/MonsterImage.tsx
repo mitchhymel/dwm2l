@@ -19,7 +19,7 @@ export const MonsterImage = ({monster, isPsx=true}: MonsterImageProps) => {
   return (
     <div>
       <Image alt={monster.toString()} src={`/dwm2l/assets/${isPsx ? 'psx' : 'gbc'}/${monster.toString().toLowerCase()}.${isPsx ? 'gif' : 'png'}`}
-        //onClick={() => history.push(`/monster/${monster.toString()}`)}
+        onClick={() => history.push(`/monster/${monster.toString()}`)}
       />
     </div>
   )

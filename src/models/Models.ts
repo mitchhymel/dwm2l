@@ -9,14 +9,14 @@ export interface IMonster {
   cobiLocations: (RecruitLocation)[];
   taraLocations: (RecruitLocation)[];
   skills: String[];
-  maxLevel: Number;
-  experience: Number;
-  hp: Number;
-  mp: Number;
-  attack: Number;
-  defence: Number;
-  agility: Number;
-  intelligence: Number;
+  maxLevel: number;
+  experience: number;
+  hp: number;
+  mp: number;
+  attack: number;
+  defence: number;
+  agility: number;
+  intelligence: number;
 }
 
 export interface IRecipe {
@@ -26,8 +26,12 @@ export interface IRecipe {
   req: Requirement | null;
 }
 
-export function isMonster(object: any): object is IMonster {
-  return (object as Monsters) !== undefined;
+export function isMonster(object: any): object is Monsters {
+  return !isFamily(object);//(object as Monsters) !== undefined;
+}
+
+export function isFamily(object: any): boolean {
+  return JSON.stringify(object).includes('Family');
 }
 
 export enum Family {

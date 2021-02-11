@@ -7,12 +7,14 @@ import {
 } from "react-router-dom";
 import { MonsterScreen } from './MonsterScreen';
 import ScrollToTop from './ScrollToTop';
+import { AppBar } from './AppBar';
 
 function App() {
   return (
     <Router>
       <div>
         <ScrollToTop />
+        <AppBar />
         <Switch>
           <Route path='/monster/:monster' component={MonsterScreen} />
           <Route path="/" component={MainScreen} />

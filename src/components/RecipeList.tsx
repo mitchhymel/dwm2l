@@ -2,15 +2,8 @@
 import styled from "styled-components";
 import { IRecipe, RecipeComponentType } from "../models/Models";
 import { RecipeListItem } from './RecipeListItem';
+import { BorderedContainer } from './GenericComponents';
 
-
-
-const RecipeListContainer = styled.div`
-  border-radius: 4px;
-  border-color: black;
-  border-style: solid;
-  margin: 5px;
-`
 
 interface RecipeListProps {
   recipes: IRecipe[];
@@ -23,11 +16,11 @@ export const RecipeList = ({recipes, as}: RecipeListProps) => {
   ));
 
   return (
-    <RecipeListContainer>
+    <BorderedContainer>
       <h3>{as}</h3>
       <ul>
         {items}
       </ul>
-    </RecipeListContainer>
+    </BorderedContainer>
   );  
 }
