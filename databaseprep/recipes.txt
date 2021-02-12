@@ -407,7 +407,7 @@ Yeti,MadCat,BattleRex
 Yeti,MadCat,SkyDragon
 Yeti,BeastFamily,Orc
 Yeti,Dumbira,Blizzardy
-ArrowDog,BeastFamily,Putrepup
+ArrowDog,BeastFamily,PutrePup
 NoctoKing,ArrowDog,Dracky
 NoctoKing,ArrowDog,Shadow
 BeastNite,BeastFamily,EvilArmor
@@ -884,7 +884,7 @@ Skullgon,ZombieFamily,GreatDrak
 Skullgon,ZombieFamily,Orochi
 Skullgon,ZombieFamily,BattleRex
 Skullgon,ZombieFamily,Divinegon
-Putrepup,ZombieFamily,BeastFamily
+PutrePup,ZombieFamily,BeastFamily
 RotRaven,ZombieFamily,BirdFamily
 Mummy,ZombieFamily,PlantFamily
 DarkCrab,ZombieFamily,BugFamily
@@ -923,7 +923,7 @@ Reaper,Hork,DevilFamily
 Reaper,ZombieFamily,WeedBug
 Inverzon,Hork,Hork
 FoxFire,NiteWhip,BeastFamily
-FoxFire,Putrepup,MistyWing
+FoxFire,PutrePup,MistyWing
 CaptDead,BoneSlave,WaterFamily
 CaptDead,NiteWhip,Moray
 DeadNoble,Mudron,Lionex
@@ -1236,10 +1236,10 @@ Pumpoise,WaterFamily,MadGoose
 Pumpoise,WaterFamily,CragDevil
 Pumpoise,WaterFamily,SpikyBoy
 Pumpoise,WaterFamily,BombCrag
-StarFish,HoodSquid,SlimeFamily
-StarFish,Octoreach,SlimeFamily
-StarFish,Octogon,SlimeFamily
-StarFish,KingSquid,SlimeFamily
+Starfish,HoodSquid,SlimeFamily
+Starfish,Octoreach,SlimeFamily
+Starfish,Octogon,SlimeFamily
+Starfish,KingSquid,SlimeFamily
 
 DracoLord1,Servant,Andreal
 DracoLord1,Servant,GreatDrak
@@ -1274,6 +1274,6 @@ DeathMore3,DeathMore2,Poseidon
 DarkDrium,DeathMore3,GranSlime
 DarkDrium,DeathMore3,AsuraZoma
 DarkDrium,DeathMore3,Watabou
-Orgodemir,PsychoPiz,Niterich
-Orgodemir2,Orgodemir,LordDraco
-Orgodemir2,Orgodemir,GigaDraco
+Orgodemir1,PsychoPiz,Niterich
+Orgodemir2,Orgodemir1,LordDraco
+Orgodemir2,Orgodemir1,GigaDraco

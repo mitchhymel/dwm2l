@@ -8,7 +8,7 @@ interface LocationProps {
 export const LocationsComponent = ({monster}: LocationProps) => (
   <BorderedContainer>
     <h2>Locations</h2>
-    {monster.locations.length == 0 && monster.taraLocations.length == 0 && monster.cobiLocations.length == 0 &&
+    {monster.locations.length === 0 && monster.taraLocations.length === 0 && monster.cobiLocations.length === 0 &&
       <p>Not found in any of the story key worlds</p>
     }
     {monster.locations.length > 0 && <p>Both versions: {monster.locations.join(', ')}</p>}

@@ -37,7 +37,7 @@ Drygon,35,16,11,2,19,13,7,5,Sap,Ramming,WarCry
 Dragon,40,20,17,1,20,16,7,4,FireAir,FireSlash,SealAll
 MiniDrak,35,16,14,8,17,14,18,10,CallHelp,Ramming,SandStorm
 MadDragon,35,19,19,0,21,5,8,0,EvilSlash,Massacre,CureDance
-Rayburn,35,17,14,2,17,16,15,5,VacuSlash,DevilCut,PoisonHit
+RayBurn,35,17,14,2,17,16,15,5,VacuSlash,DevilCut,PoisonHit
 Chamelgon,40,19,17,18,11,6,8,13,PanicAll,Paralyze,PalsyAir
 LizardFly,30,16,11,11,17,17,13,5,Firebal,Sap,FireAir
 Andreal,50,22,21,15,19,17,19,12,Infernos,Surround,PoisonGas
@@ -66,7 +66,7 @@ GulpBeast,45,13,24,1,26,13,7,1,Massacre,Ramming,WarCry
 Skullroo,45,12,14,10,11,8,16,2,ChargeUp,PaniDance,EagleEye
 WindBeast,50,12,13,20,13,15,15,13,Infernos,Icebolt,VacuSlash
 Beavern,40,14,22,8,8,21,10,7,Icebolt,ChargeUp,Geyser
-Antbear,40,8,14,7,17,11,9,11,MetalCut,SquallHit,LushLicks
+AntBear,40,8,14,7,17,11,9,11,MetalCut,SquallHit,LushLicks
 SuperTen,45,9,18,7,13,12,11,7,K.O.,Dance,Hustle,Imitate
 IronTurt,45,10,18,5,17,23,2,11,MagicWall,StrongD,Cover
 Mommonja,35,9,14,11,16,14,20,8,CureDance,MouthShut,EagleEye
@@ -93,7 +93,7 @@ Dumbira,45,7,15,10,9,8,14,7,MetalCut,RainSlash,TwinSlash
 Picky,40,4,11,12,14,8,18,13,Sap,Surround,BugBlow
 Wyvern,45,6,17,13,19,11,16,20,Heal,Sleep,FrigidAir
 BullBird,35,5,14,8,17,9,6,4,Shears,ChargeUp,Ramming
-Florajay,50,5,6,18,12,3,21,19,Speed,BeastCut,LifeSong
+FloraJay,50,5,6,18,12,3,21,19,Speed,BeastCut,LifeSong
 DuckKite,30,3,11,11,9,12,18,7,Sleep,PanicAll,Curse
 MadPecker,40,4,9,7,20,14,23,13,Infernos,Sap,VacuSlash
 MadRaven,40,5,6,14,17,12,18,5,HighJump,TailWind,EagleEye
@@ -124,7 +124,7 @@ FloraMan,40,7,17,20,6,9,2,19,Firebal,Antidote,CurseOff
 WingTree,35,7,12,20,6,11,14,7,Farewell,ZombieCut,StepGuard
 CactiBall,30,6,18,18,12,15,9,5,Paralyze,HighJump,OddDance
 Gulpple,40,11,16,17,9,6,2,14,NapAttack,HighJump,SleepAir
-Toadstool,45,9,14,18,8,9,13,13,NapAttack,SleepAir,MouthShut
+ToadStool,45,9,14,18,8,9,13,13,NapAttack,SleepAir,MouthShut
 AmberWeed,50,12,12,24,8,17,12,10,TwinHits,Barrier,MagicWall
 Slurperon,40,3,8,5,7,2,7,2,Sleep,OddDance,LushLicks
 Stubsuck,40,8,17,11,4,2,9,14,Sleep,ZombieCut,StepGuard
@@ -139,7 +139,7 @@ EvilSeed,30,6,8,11,8,5,1,3,CleanCut,Paralyze,Radiant
 ManEater,45,9,14,12,19,7,10,6,DrakSlash,PsycheUp,SleepAir
 Snapper,50,11,17,14,20,13,10,16,StopSpell,CallHelp,RainSlash
 GhosTree,50,9,8,13,9,6,7,15,RobMagic,CureDance,EerieLite
-Rosevine,70,24,24,30,23,21,18,18,BiAttack,UltraDown,BladeD
+RoseVine,70,24,24,30,23,21,18,18,BiAttack,UltraDown,BladeD
 Egdracil,70,24,25,18,21,24,15,23,Vivify,SleepAir,SealAll
 Warubou,80,15,22,7,12,13,24,4,Mpass,DeMagic,Pheromone
 Watabou,80,0,10,27,11,14,24,30,Chance,Imitate,Whistle
@@ -182,7 +182,7 @@ EyeBall,35,16,16,17,14,14,13,8,MagicBack,WarCry,Outside
 SkulRider,45,18,17,11,17,13,15,12,FireSlash,RainSlash,LegSweep
 EvilBeast,50,20,16,10,20,22,4,12,Firebal,Ironize,FrigidAir
 Bubblemon,45,12,14,13,15,7,7,4,Watershot,IceSlash,BladeD
-1EyeClown,25,13,10,1,5,9,9,17,Blaze,Firebal,Icebolt
+OneEyeClown,25,13,10,1,5,9,9,17,Blaze,Firebal,Icebolt
 Gremlin,25,13,13,7,8,4,2,18,Firebal,Heal,StopSpell
 ArcDemon,45,20,14,13,17,12,7,21,Bang,VacuSlash,BoltSlash
 Lionex,45,21,15,11,14,15,12,19,Infernos,HealUs,VacuSlash
@@ -227,7 +227,7 @@ BoneSlave,40,10,14,13,17,12,7,1,Bang,BoltSlash,BiAttack
 Skeletor,55,12,16,11,18,12,16,19,Sap,BirdBlow,BiAttack
 Servant,70,20,23,21,25,18,15,20,Blaze,Icebolt,Focus
 Lazamanus,75,26,24,20,30,20,12,14,TakeMagic,K.O.,Dance,LifeDance
-Copycat,40,1,11,20,1,2,21,5,Transform,OddDance,Imitate
+CopyCat,40,1,11,20,1,2,21,5,Transform,OddDance,Imitate
 MadSpirit,50,13,14,12,15,12,16,10,SleepAir,Radiant,ThickFog
 PomPomBom,40,8,5,21,13,11,14,21,Beat,ThickFog,LifeDance
 Niterich,65,20,27,13,24,23,19,21,Beat,ThickFog,BladeD
@@ -298,25 +298,25 @@ Poseidon,65,30,28,22,23,24,13,9,Bolt,Focus,Dodge
 Pumpoise,35,12,17,8,13,22,7,8,CallHelp,SuckAir,Dodge
 Starfish,30,5,7,19,5,9,9,15,Upper,PoisonHit,OddDance
 
-DracoLord,50,24,20,30,21,20,23,23,Firebal,BeDragon,Meditate
+DracoLord1,50,24,20,30,21,20,23,23,Firebal,BeDragon,Meditate
 DracoLord2,70,25,21,30,24,21,23,21,FireAir,Massacre,Surge
 LordDraco,80,27,22,31,24,22,24,22,Bolt,HellBlast,Focus
 Hargon,60,24,19,30,20,21,23,23,Firebal,Bang,TatsuCall
 Sidoh,70,25,24,30,24,21,23,23,HellBlast,FireAir,FrigidAir
-Genosidoh,80,30,25,31,25,17,18,22,Barrier,WindBeast,MultiCut
+GenoSidoh,80,30,25,31,25,17,18,22,Barrier,WindBeast,MultiCut
 Baramos,60,24,20,30,20,20,22,21,Bang,HellBlast,RockThrow
 Zoma,70,25,24,30,26,21,23,23,BigBang,FrigidAir,DeMagic
 AsuraZoma,80,29,26,30,29,22,23,12,FireAir,GigaSlash,Focus
 Pizzaro,70,24,21,30,26,21,23,23,HellBlast,FireAir,BiAttack
 PsychoPiz,80,29,30,30,27,18,24,21,BigBang,FrigidAir,DeMagic
 Esterk,80,31,29,30,26,24,23,23,BiAttack,RainSlash,GigaSlash
-Mirudraas,70,30,21,30,26,21,23,23,Blaze,Bang,Bolt
+Mirudraas1,70,30,21,30,26,21,23,23,Blaze,Bang,Bolt
 Mirudraas2,80,31,29,30,26,21,23,23,FireAir,DeMagic,SuckAir
 Mudou,60,28,21,30,26,24,23,23,FireAir,FrigidAir,PoisonGas
-DeathMore,60,27,21,30,26,21,23,23,BigBang,HellBlast,TatsuCall
+DeathMore1,60,27,21,30,26,21,23,23,BigBang,HellBlast,TatsuCall
 DeathMore2,70,29,24,30,26,21,23,23,FireAir,Ramming,UltraDown
 DeathMore3,80,31,29,30,30,24,23,23,BigBang,DeMagic,Focus
-Darkdrium,80,30,31,30,31,24,23,23,Bolt,FireAir,FrigidAir
-Orgodemir,65,30,24,25,26,23,22,31,Bang,EvilSlash,Focus
+DarkDrium,80,30,31,30,31,24,23,23,Bolt,FireAir,FrigidAir
+Orgodemir1,65,30,24,25,26,23,22,31,Bang,EvilSlash,Focus
 Orgodemir2,70,31,27,31,30,23,24,31,MegaMagic,DeMagic,LifeSong
 Darck,60,26,23,25,18,23,14,17,Firebal,Bang,ChargeUp

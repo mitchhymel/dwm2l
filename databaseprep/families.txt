@@ -199,7 +199,7 @@ Titanis,DemonFamily
 LampGenie,DemonFamily
 Spooky,ZombieFamily
 Skullgon,ZombieFamily
-Putrepup,ZombieFamily
+PutrePup,ZombieFamily
 RotRaven,ZombieFamily
 Mummy,ZombieFamily
 DarkCrab,ZombieFamily
@@ -287,7 +287,7 @@ Octoraid,WaterFamily
 Grakos,WaterFamily
 Poseidon,WaterFamily
 Pumpoise,WaterFamily
-StarFish,WaterFamily
+Starfish,WaterFamily
 DracoLord1,BossFamily
 DracoLord2,BossFamily
 LordDraco,BossFamily
@@ -307,6 +307,6 @@ DeathMore1,BossFamily
 DeathMore2,BossFamily
 DeathMore3,BossFamily
 DarkDrium,BossFamily
-Orgodemir,BossFamily
+Orgodemir1,BossFamily
 Orgodemir2,BossFamily
 Darck,BossFamily

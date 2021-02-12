@@ -288,7 +288,7 @@ export enum Monsters {
   // Zombie
   Spooky,
   Skullgon,
-  Putrepup,
+  PutrePup,
   RotRaven,
   Mummy,
   DarkCrab,
@@ -402,7 +402,7 @@ export enum Monsters {
   DeathMore2,
   DeathMore3,
   DarkDrium,
-  Orgodemir,
+  Orgodemir1,
   Orgodemir2,
   Darck
 }

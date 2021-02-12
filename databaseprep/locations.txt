@@ -38,7 +38,7 @@ Facer,Pirate,Tara
 Octoreach,Pirate,Tara
 Picky,Pirate,Tara
 Pixy,Pirate,Tara
-Toadstool,Pirate,Tara
+ToadStool,Pirate,Tara
 PearlGel,Pirate
 Aquarella,Pirate,Tara
 Healer,Pirate,Tara
@@ -166,7 +166,7 @@ EyeBall,Sky
 FooHero,Sky,Cobi
 Gremlin,Sky,Tara
 Babble,Sky
-Copycat,Sky
+CopyCat,Sky
 GateGuard,Sky
 GhosTree,Sky
 MadSpirit,Sky
@@ -221,3 +221,4 @@ Skulpent,Traveler
 Snaily,Traveler
 Spikerous,Traveler
 WeedBug,Traveler
+Warubou,Quest
