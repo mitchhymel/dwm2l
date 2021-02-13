@@ -9,10 +9,11 @@ const Input = styled.input`
   z-index: 3;
   background-color: #263238;
   color: white;
-  width: 99%;
+  width: 100%;
   bottom: 0;
-  height: 40px;
+  height: 50px;
   text-align: center;
+  border: 0;
 `
 
 export const MainScreen= () => {
