@@ -1,5 +1,5 @@
 import React from 'react';
-import { Family, IMonster, RecipeComponentType } from '../models/Models';
+import { Family, getColorFromFamily, IMonster, RecipeComponentType } from '../models/Models';
 import styled from 'styled-components';
 import { MonsterImage } from './MonsterImage';
 import { RecipeList } from './RecipeList';
@@ -8,9 +8,14 @@ import { StatsComponent } from './StatsComponent';
 import { LocationsComponent } from './LocationsComponent';
 import { SkillsComponent } from './SkillsComponent';
 
-const Container = styled.div`
+const Container = styled.div<{family: Family}>`
   text-align: center;
   justify-content: center;
+  background-color: ${props => getColorFromFamily(props.family)};
+`
+
+const Title = styled.h1`
+  margin:0;
 `
 
 interface MonsterCardProps {
@@ -20,8 +25,8 @@ interface MonsterCardProps {
 
 
 export const MonsterCard = ({monster}: MonsterCardProps) => (
-  <Container>
-    <h1>{monster.name} - {monster.family}</h1>
+  <Container family={monster.family}>
+    <Title>{monster.name} - {monster.family}</Title>
     <MonsterImage monster={monster.name} />
     <StatsComponent monster={monster} />
     <LocationsComponent monster={monster} />
@@ -37,5 +42,6 @@ export const MonsterCard = ({monster}: MonsterCardProps) => (
         <RecipeList recipes={monster.asMate} as={RecipeComponentType.Mate}/>
       </Column>
     </Row>
+
   </Container>
 );

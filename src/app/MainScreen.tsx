@@ -7,7 +7,7 @@ import { IMonster } from '../models/Models';
 const Input = styled.input`
   position: fixed;
   z-index: 3;
-  background-color: black;
+  background-color: #263238;
   color: white;
   width: 99%;
   bottom: 0;

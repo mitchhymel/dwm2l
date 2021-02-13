@@ -53,12 +53,12 @@ export function getColorFromFamily(family: Family) {
     case Family.SlimeFamily: return '#00B0FF';
     case Family.DragonFamily: return '#E53935';
     case Family.BeastFamily: return '#795548';
-    case Family.BirdFamily: return '#B3E5FC';
+    case Family.BirdFamily: return '#80DEEA';
     case Family.PlantFamily: return '#33691E';
-    case Family.BugFamily: return '#D4E157';
+    case Family.BugFamily: return '#CDDC39';
     case Family.DemonFamily: return '#424242';
     case Family.ZombieFamily: return '#9E9E9E';
-    case Family.MaterialFamily: return '#FFEB3B';
+    case Family.MaterialFamily: return '#FFCA28';
     case Family.WaterFamily: return '#01579B';
     case Family.BossFamily: return '#7E57C2';
     default:
