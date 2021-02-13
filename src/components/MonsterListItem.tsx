@@ -46,7 +46,7 @@ interface MonsterListItemProps {
 export const MonsterListItem = ({monster}: MonsterListItemProps) => {
   let history = useHistory();
   return (
-    <Card family={monster.family} onClick={() => history.push(`/monster/${monster.name.toString()}`)}>
+    <Card family={monster.family} onClick={() => history.push(`/dwm2l/monster/${monster.name.toString()}`)}>
       <MonsterImage monster={monster.name} />
       <Name>{monster.name}</Name>
     </Card>

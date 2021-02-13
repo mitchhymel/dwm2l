@@ -16,7 +16,7 @@ function App() {
         <ScrollToTop />
         <AppBar />
         <Switch>
-          <Route path='/monster/:monster' component={MonsterScreen} />
+          <Route path='/dwm2l/monster/:monster' component={MonsterScreen} />
           <Route path="/" component={MainScreen} />
         </Switch>
       </div>

@@ -25,7 +25,7 @@ export const MonsterImage = ({monster, isPsx=true, clickNav=true}: MonsterImageP
   return (
     <div>
       <Image clickNav={clickNav} isPsx={isPsx} alt={monster.toString()} src={`/dwm2l/assets/${isPsx ? 'psx' : 'gbc'}/${monster.toString().toLowerCase()}.${isPsx ? 'gif' : 'png'}`}
-        onClick={() => {if (clickNav) history.push(`/monster/${monster.toString()}`)}}
+        onClick={() => {if (clickNav) history.push(`/dwm2l/monster/${monster.toString()}`)}}
       />
     </div>
   )
