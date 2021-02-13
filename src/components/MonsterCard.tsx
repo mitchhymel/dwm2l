@@ -7,6 +7,7 @@ import { Row, Column } from './ResponsiveComponents';
 import { StatsComponent } from './StatsComponent';
 import { LocationsComponent } from './LocationsComponent';
 import { SkillsComponent } from './SkillsComponent';
+import { RecipeTree } from './RecipeTree';
 
 const Container = styled.div<{family: Family}>`
   text-align: center;
@@ -49,6 +50,7 @@ export const MonsterCard = ({monster}: MonsterCardProps) => (
         <RecipeList recipes={monster.asMate} as={RecipeComponentType.Mate}/>
       </Column>
     </Row>
+    <RecipeTree monster={monster} />
 
   </Container>
 );

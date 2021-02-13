@@ -62,7 +62,7 @@ export function getColorFromFamily(family: Family) {
     case Family.WaterFamily: return '#01579B';
     case Family.BossFamily: return '#7E57C2';
     default:
-      return 0xffffff;
+      return '#ffffff';
   }
 }
 

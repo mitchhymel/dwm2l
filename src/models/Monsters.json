@@ -258,7 +258,7 @@
         {
           "result": "SlimeNite",
           "base": "SlimeFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -395,7 +395,7 @@
         {
           "result": "GiantMoth",
           "base": "Butterfly",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "GiantMoth",
@@ -1476,7 +1476,7 @@
         {
           "result": "GulpBeast",
           "base": "Grizzly",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -2171,7 +2171,7 @@
         },
         {
           "result": "GoatHorn",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "DarkHorn"
         },
         {
@@ -2433,7 +2433,7 @@
         {
           "result": "DeadNite",
           "base": "ZombieFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -4951,7 +4951,7 @@
         {
           "result": "MadCondor",
           "base": "LandOwl",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "MadCondor",
@@ -5771,7 +5771,7 @@
         },
         {
           "result": "Gigantes",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BigEye"
         }
       ],
@@ -6499,7 +6499,7 @@
         {
           "result": "Servant",
           "base": "WhiteKing",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Lazamanus",
@@ -6967,7 +6967,7 @@
         {
           "result": "MimeSlime",
           "base": "WonderEgg",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "HaloSlime",
@@ -7294,7 +7294,7 @@
         {
           "result": "MimeSlime",
           "base": "WonderEgg",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -7628,7 +7628,7 @@
       "recipes": [
         {
           "result": "Pixy",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "SlimeFamily"
         }
       ],
@@ -8461,7 +8461,7 @@
         {
           "result": "LizardMan",
           "base": "DragonFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -8544,7 +8544,7 @@
         },
         {
           "result": "Lionex",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "LizardMan"
         }
       ],
@@ -9069,7 +9069,7 @@
         },
         {
           "result": "Grendal",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "MadDragon"
         }
       ],
@@ -9245,7 +9245,7 @@
         },
         {
           "result": "Lionex",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "LizardMan"
         }
       ],
@@ -9363,7 +9363,7 @@
         },
         {
           "result": "GoatHorn",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "DarkHorn"
         }
       ],
@@ -9759,7 +9759,7 @@
         {
           "result": "Voodoll",
           "base": "Puppetor",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -10198,7 +10198,7 @@
         {
           "result": "Gulpple",
           "base": "PlantFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [],
@@ -10562,7 +10562,7 @@
         },
         {
           "result": "ArcDemon",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BossFamily"
         }
       ],
@@ -10773,7 +10773,7 @@
         },
         {
           "result": "Ogre",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "HammerMan"
         }
       ],
@@ -11608,7 +11608,7 @@
       "recipes": [
         {
           "result": "MadKnight",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "RogueNite"
         }
       ],
@@ -11798,7 +11798,7 @@
         },
         {
           "result": "MedusaEye",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "DragonFamily"
         }
       ],
@@ -11874,7 +11874,7 @@
         },
         {
           "result": "EvilArmor",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "ArmorPede"
         }
       ],
@@ -13083,7 +13083,7 @@
         {
           "result": "Grizzly",
           "base": "BeastFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Grizzly",
@@ -13180,7 +13180,7 @@
         {
           "result": "GulpBeast",
           "base": "Grizzly",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Unicorn",
@@ -13309,7 +13309,7 @@
         {
           "result": "Balzak",
           "base": "LavaMan",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "GoldGolem",
@@ -13430,7 +13430,7 @@
         {
           "result": "Balzak",
           "base": "IceMan",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "GoldGolem",
@@ -14189,7 +14189,7 @@
         },
         {
           "result": "Gigantes",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BigEye"
         }
       ],
@@ -14595,7 +14595,7 @@
       "recipes": [
         {
           "result": "Demonite",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BirdFamily"
         }
       ],
@@ -14663,7 +14663,7 @@
       "recipes": [
         {
           "result": "Gremlin",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BeastFamily"
         }
       ],
@@ -15099,7 +15099,7 @@
         },
         {
           "result": "Ogre",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "HammerMan"
         }
       ],
@@ -15183,7 +15183,7 @@
       "recipes": [
         {
           "result": "Orc",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BeanMan"
         }
       ],
@@ -15548,7 +15548,7 @@
         {
           "result": "BeastNite",
           "base": "CatMage",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "BeastNite",
@@ -15570,7 +15570,7 @@
         },
         {
           "result": "Grendal",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BeastNite"
         }
       ],
@@ -15632,7 +15632,7 @@
         {
           "result": "BeastNite",
           "base": "CatMage",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "MadCat",
@@ -15912,7 +15912,7 @@
         {
           "result": "MadPecker",
           "base": "BirdFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -15968,7 +15968,7 @@
         {
           "result": "LandOwl",
           "base": "BullBird",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "LandOwl",
@@ -15995,7 +15995,7 @@
         {
           "result": "MadCondor",
           "base": "LandOwl",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "WhipBird",
@@ -16111,12 +16111,12 @@
         {
           "result": "Balzak",
           "base": "LavaMan",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Balzak",
           "base": "IceMan",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Balzak",
@@ -16170,7 +16170,7 @@
       "recipes": [
         {
           "result": "EyeBall",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BugFamily"
         }
       ],
@@ -16281,7 +16281,7 @@
         {
           "result": "WarMantis",
           "base": "Sickler",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -16317,12 +16317,12 @@
         {
           "result": "Reaper",
           "base": "Spooky",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Reaper",
           "base": "Hork",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Reaper",
@@ -16373,7 +16373,7 @@
       "recipes": [
         {
           "result": "Bubblemon",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "WaterFamily"
         }
       ],
@@ -16595,7 +16595,7 @@
         {
           "result": "LandOwl",
           "base": "BullBird",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "LandOwl",
@@ -17241,7 +17241,7 @@
       "recipes": [
         {
           "result": "DarkEye",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "PlantFamily"
         }
       ],
@@ -17310,7 +17310,7 @@
         {
           "result": "Servant",
           "base": "WhiteKing",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -17463,7 +17463,7 @@
         {
           "result": "EvilPot",
           "base": "Gismo",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "CloudKing",
@@ -17605,7 +17605,7 @@
         {
           "result": "Merman",
           "base": "WaterFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -17685,7 +17685,7 @@
         {
           "result": "HerbMan",
           "base": "DanceVegi",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -18508,7 +18508,7 @@
         {
           "result": "HerbMan",
           "base": "DanceVegi",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "HerbMan",
@@ -18550,12 +18550,12 @@
         {
           "result": "NiteWhip",
           "base": "DarkCrab",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "NiteWhip",
           "base": "MadSpirit",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "NiteWhip",
@@ -18655,14 +18655,14 @@
         {
           "result": "BeanMan",
           "base": "Eggplaton",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [],
       "asMate": [
         {
           "result": "Orc",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BeanMan"
         }
       ],
@@ -18759,7 +18759,7 @@
         {
           "result": "BeanMan",
           "base": "Eggplaton",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "EvilSeed",
@@ -18914,7 +18914,7 @@
         {
           "result": "GiantMoth",
           "base": "Butterfly",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Droll",
@@ -19045,7 +19045,7 @@
         {
           "result": "MadMirror",
           "base": "MaterialFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -19140,7 +19140,7 @@
         {
           "result": "Clawster",
           "base": "Gamanian",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -19243,7 +19243,7 @@
         {
           "result": "Voodoll",
           "base": "Puppetor",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Brushead",
@@ -19663,7 +19663,7 @@
         {
           "result": "GiantWorm",
           "base": "BugFamily",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -19802,7 +19802,7 @@
         {
           "result": "MultiEyes",
           "base": "TailEater",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -19870,13 +19870,13 @@
         {
           "result": "HornBeet",
           "base": "ArmorPede",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
         {
           "result": "EvilArmor",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "ArmorPede"
         }
       ],
@@ -19906,7 +19906,7 @@
         {
           "result": "MultiEyes",
           "base": "TailEater",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "MultiEyes",
@@ -20191,7 +20191,7 @@
         {
           "result": "Reaper",
           "base": "Spooky",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -20249,7 +20249,7 @@
         {
           "result": "NiteWhip",
           "base": "DarkCrab",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -20288,7 +20288,7 @@
         {
           "result": "CancerMan",
           "base": "Clawster",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -20467,14 +20467,14 @@
         {
           "result": "WarMantis",
           "base": "Sickler",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
         {
           "result": "HornBeet",
           "base": "WarMantis",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Sickler",
@@ -20529,12 +20529,12 @@
         {
           "result": "HornBeet",
           "base": "ArmorPede",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "HornBeet",
           "base": "WarMantis",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -20648,7 +20648,7 @@
         {
           "result": "ProtoMech",
           "base": "RogueNite",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -20659,7 +20659,7 @@
         },
         {
           "result": "MadKnight",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "RogueNite"
         }
       ],
@@ -20694,7 +20694,7 @@
         {
           "result": "Clawster",
           "base": "Gamanian",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [
@@ -20706,7 +20706,7 @@
         {
           "result": "CancerMan",
           "base": "Clawster",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [
@@ -20992,12 +20992,12 @@
         },
         {
           "result": "Grendal",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "BeastNite"
         },
         {
           "result": "Grendal",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "MadDragon"
         }
       ],
@@ -21190,7 +21190,7 @@
       "recipes": [
         {
           "result": "SkulRider",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "ZombieFamily"
         }
       ],
@@ -21248,7 +21248,7 @@
       "recipes": [
         {
           "result": "EvilBeast",
-          "base": "DevilFamily",
+          "base": "DemonFamily",
           "mate": "MaterialFamily"
         }
       ],
@@ -21917,7 +21917,7 @@
         {
           "result": "Reaper",
           "base": "Hork",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Inverzon",
@@ -22045,7 +22045,7 @@
         {
           "result": "NiteWhip",
           "base": "MadSpirit",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Skeletor",
@@ -22980,7 +22980,7 @@
         {
           "result": "EvilPot",
           "base": "Gismo",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "EvilPot",
@@ -23019,7 +23019,7 @@
         {
           "result": "Scallopa",
           "base": "RogueWave",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Scallopa",
@@ -23231,7 +23231,7 @@
         {
           "result": "ProtoMech",
           "base": "RogueNite",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [],
@@ -23420,7 +23420,7 @@
         {
           "result": "SeaHorse",
           "base": "Petiteel",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asMate": [],
@@ -23457,7 +23457,7 @@
         {
           "result": "Scallopa",
           "base": "RogueWave",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         },
         {
           "result": "Scallopa",
@@ -23503,7 +23503,7 @@
         {
           "result": "SeaHorse",
           "base": "Petiteel",
-          "mate": "DevilFamily"
+          "mate": "DemonFamily"
         }
       ],
       "asBase": [],
