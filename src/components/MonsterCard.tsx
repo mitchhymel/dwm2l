@@ -11,7 +11,6 @@ import { SkillsComponent } from './SkillsComponent';
 const Container = styled.div<{family: Family}>`
   text-align: center;
   justify-content: center;
-  background-color: ${props => getColorFromFamily(props.family)};
 `
 
 const Title = styled.h1`
@@ -28,9 +27,17 @@ export const MonsterCard = ({monster}: MonsterCardProps) => (
   <Container family={monster.family}>
     <Title>{monster.name} - {monster.family}</Title>
     <MonsterImage monster={monster.name} />
-    <StatsComponent monster={monster} />
-    <LocationsComponent monster={monster} />
-    <SkillsComponent monster={monster} />
+    <Row>
+      <Column span={4}>
+        <StatsComponent monster={monster} />
+      </Column>
+      <Column span={4}>
+        <LocationsComponent monster={monster} />
+      </Column>
+      <Column span={4}>
+        <SkillsComponent monster={monster} />
+      </Column>
+    </Row>
     <Row>
       <Column span={4}>
         <RecipeList recipes={monster.recipes} as={RecipeComponentType.Result}/>

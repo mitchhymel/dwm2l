@@ -53,9 +53,9 @@ export function getColorFromFamily(family: Family) {
     case Family.SlimeFamily: return '#00B0FF';
     case Family.DragonFamily: return '#E53935';
     case Family.BeastFamily: return '#795548';
-    case Family.BirdFamily: return '#80DEEA';
+    case Family.BirdFamily: return '#26C6DA';
     case Family.PlantFamily: return '#33691E';
-    case Family.BugFamily: return '#CDDC39';
+    case Family.BugFamily: return '#C0CA33';
     case Family.DemonFamily: return '#424242';
     case Family.ZombieFamily: return '#9E9E9E';
     case Family.MaterialFamily: return '#FFCA28';
