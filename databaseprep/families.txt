@@ -119,7 +119,7 @@ MadPlant,PlantFamily
 FireWeed,PlantFamily
 FloraMan,PlantFamily
 WingTree,PlantFamily
-Cactiball,PlantFamily
+CactiBall,PlantFamily
 Gulpple,PlantFamily
 ToadStool,PlantFamily
 AmberWeed,PlantFamily
@@ -145,13 +145,14 @@ FooHero,PlantFamily
 GiantSlug,BugFamily
 Catapila,BugFamily
 Gophecada,BugFamily
-ButterFly,BugFamily
+Butterfly,BugFamily
 WeedBug,BugFamily
 GiantWorm,BugFamily
 Lipsy,BugFamily
 StagBug,BugFamily
 Pyuro,BugFamily
 ArmyAnt,BugFamily
+GoHopper,BugFamily
 TailEater,BugFamily
 ArmorPede,BugFamily
 Eyeder,BugFamily

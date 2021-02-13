@@ -1,5 +1,5 @@
 import React from 'react';
-import { IMonster, RecipeComponentType } from '../models/Models';
+import { Family, IMonster, RecipeComponentType } from '../models/Models';
 import styled from 'styled-components';
 import { MonsterImage } from './MonsterImage';
 import { RecipeList } from './RecipeList';

@@ -48,6 +48,24 @@ export enum Family {
   BossFamily='BossFamily'
 }
 
+export function getColorFromFamily(family: Family) {
+  switch (family) {
+    case Family.SlimeFamily: return '#00B0FF';
+    case Family.DragonFamily: return '#E53935';
+    case Family.BeastFamily: return '#795548';
+    case Family.BirdFamily: return '#B3E5FC';
+    case Family.PlantFamily: return '#33691E';
+    case Family.BugFamily: return '#D4E157';
+    case Family.DemonFamily: return '#424242';
+    case Family.ZombieFamily: return '#9E9E9E';
+    case Family.MaterialFamily: return '#FFEB3B';
+    case Family.WaterFamily: return '#01579B';
+    case Family.BossFamily: return '#7E57C2';
+    default:
+      return 0xffffff;
+  }
+}
+
 export enum RecruitLocation {
   Oasis,
   Pirate,
@@ -202,7 +220,7 @@ export enum Monsters {
   FireWeed,
   FloraMan,
   WingTree,
-  Cactiball,
+  CactiBall,
   Gulpple,
   ToadStool,
   AmberWeed,
@@ -230,7 +248,7 @@ export enum Monsters {
   GiantSlug,
   Catapila,
   Gophecada,
-  ButterFly,
+  Butterfly,
   WeedBug,
   GiantWorm,
   Lipsy,

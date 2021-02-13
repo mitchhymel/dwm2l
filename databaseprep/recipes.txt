@@ -597,7 +597,7 @@ CragDevil,Emyu,BeastFamily
 FireWeed,PlantFamily,SlimeFamily
 FloraMan,PlantFamily,BeastFamily
 WingTree,PlantFamily,BirdFamily
-Cactiball,PlantFamily,BirdFamily
+CactiBall,PlantFamily,BirdFamily
 Gulpple,PlantFamily,DevilFamily
 ToadStool,PlantFamily,ZombieFamily
 AmberWeed,PlantFamily,MaterialFamily
@@ -622,7 +622,7 @@ BeanMan,Eggplaton,DevilFamily
 EvilSeed,PlantFamily,RockSlime
 EvilSeed,PlantFamily,BigEye
 EvilSeed,PlantFamily,DuckKite
-EvilSeed,PlantFamily,ButterFly
+EvilSeed,PlantFamily,Butterfly
 EvilSeed,PlantFamily,Eyeder
 EvilSeed,PlantFamily,DarkEye
 EvilSeed,PlantFamily,EyeBall
@@ -648,7 +648,7 @@ FooHero,TreeBoy,HammerMan
 GiantSlug,BugFamily,SlimeFamily
 Catapila,BugFamily,DragonFamily
 Gophecada,BugFamily,BeastFamily
-ButterFly,BugFamily,BirdFamily
+Butterfly,BugFamily,BirdFamily
 WeedBug,BugFamily,PlantFamily
 GiantWorm,BugFamily,DevilFamily
 Lipsy,BugFamily,ZombieFamily
@@ -667,10 +667,10 @@ Eyeder,Catapila,BeastFamily
 Eyeder,BugFamily,Gamanian
 Eyeder,BugFamily,AmberWeed
 Eyeder,BugFamily,Octoreach
-GiantMoth,ButterFly,DevilFamily
+GiantMoth,Butterfly,DevilFamily
 GiantMoth,BugFamily,Saccer
 GiantMoth,BugFamily,RayGigas
-Droll,ButterFly,ButterFly
+Droll,Butterfly,Butterfly
 Droll,TailEater,TailEater
 Droll,Eyeder,Eyeder
 Droll,Lipsy,SlimeFamily
@@ -684,10 +684,10 @@ MadHornet,Eyeder,ZombieFamily
 MadHornet,Droll,ZombieFamily
 MadHornet,Pyuro,ZombieFamily
 MadHornet,BugFamily,FairyRat
-MadHornet,ButterFly,Pyuro
+MadHornet,Butterfly,Pyuro
 Belzebub,MadHornet,GoHopper
 Belzebub,MadHornet,ZombieFamily
-Belzebub,MultiEyes,ButterFly
+Belzebub,MultiEyes,Butterfly
 Belzebub,MultiEyes,Pyuro
 WarMantis,Sickler,DevilFamily
 HornBeet,StagBug,StagBug,
@@ -705,7 +705,7 @@ Digster,ArmyCrab,Clawster
 Skularach,Armorpion,WhiteKing
 MultiEyes,TailEater,DevilFamily
 MultiEyes,Catapila,Catapila
-MultiEyes,Catapila,ButterFly
+MultiEyes,Catapila,Butterfly
 
 Pixy,DevilFamily,SlimeFamily
 ArcDemon,AgDevil,SpotKing

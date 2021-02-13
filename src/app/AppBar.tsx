@@ -6,11 +6,17 @@ const Bar = styled.div`
   position: fixed;
   z-index: 2;
   background-color: black;
-  color: white;
   width: 100%;
-  top: 0;
-  height: 40px;
+  top: 0px;
   text-align: center;
+  padding: 8px;
+`
+
+const Icon = styled.svg`
+  margin: auto;
+  :hover {
+    cursor: pointer;
+  }
 `
 
 export const AppBar = () => {
@@ -18,9 +24,9 @@ export const AppBar = () => {
   return (
     <div>
       <Bar onClick={() => history.push(`/`)}>
-        Back to Home screen
+        <Icon xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill='#ffffff'/></Icon>
       </Bar>
-      <div style={{height: '40px'}}/>
+      <div style={{height: '50px'}}/>
     </div>
   );
 }

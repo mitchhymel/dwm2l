@@ -394,7 +394,7 @@
       "recipes": [
         {
           "result": "GiantMoth",
-          "base": "ButterFly",
+          "base": "Butterfly",
           "mate": "DevilFamily"
         },
         {
@@ -9847,7 +9847,7 @@
     },
     {
       "name": "GoHopper",
-      "family": "",
+      "family": "BugFamily",
       "recipes": [],
       "asBase": [],
       "asMate": [
@@ -16991,8 +16991,8 @@
       "recipes": [
         {
           "result": "Droll",
-          "base": "ButterFly",
-          "mate": "ButterFly"
+          "base": "Butterfly",
+          "mate": "Butterfly"
         },
         {
           "result": "Droll",
@@ -17791,7 +17791,7 @@
         },
         {
           "result": "MadHornet",
-          "base": "ButterFly",
+          "base": "Butterfly",
           "mate": "Pyuro"
         },
         {
@@ -18103,27 +18103,33 @@
       "taraLocations": []
     },
     {
-      "name": "Cactiball",
+      "name": "CactiBall",
       "family": "PlantFamily",
       "recipes": [
         {
-          "result": "Cactiball",
+          "result": "CactiBall",
           "base": "PlantFamily",
           "mate": "BirdFamily"
         }
       ],
       "asBase": [],
       "asMate": [],
-      "skills": [],
-      "maxLevel": 0,
-      "experience": 0,
-      "hp": 0,
-      "mp": 0,
-      "attack": 0,
-      "defence": 0,
-      "agility": 0,
-      "intelligence": 0,
-      "locations": [],
+      "skills": [
+        "Paralyze",
+        "HighJump",
+        "OddDance"
+      ],
+      "maxLevel": 30,
+      "experience": 6,
+      "hp": 18,
+      "mp": 18,
+      "attack": 12,
+      "defence": 15,
+      "agility": 9,
+      "intelligence": 5,
+      "locations": [
+        "Oasis"
+      ],
       "cobiLocations": [],
       "taraLocations": []
     },
@@ -18803,7 +18809,7 @@
         {
           "result": "EvilSeed",
           "base": "PlantFamily",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         },
         {
           "result": "EvilSeed",
@@ -18895,11 +18901,11 @@
       "taraLocations": []
     },
     {
-      "name": "ButterFly",
+      "name": "Butterfly",
       "family": "BugFamily",
       "recipes": [
         {
-          "result": "ButterFly",
+          "result": "Butterfly",
           "base": "BugFamily",
           "mate": "BirdFamily"
         }
@@ -18907,17 +18913,17 @@
       "asBase": [
         {
           "result": "GiantMoth",
-          "base": "ButterFly",
+          "base": "Butterfly",
           "mate": "DevilFamily"
         },
         {
           "result": "Droll",
-          "base": "ButterFly",
-          "mate": "ButterFly"
+          "base": "Butterfly",
+          "mate": "Butterfly"
         },
         {
           "result": "MadHornet",
-          "base": "ButterFly",
+          "base": "Butterfly",
           "mate": "Pyuro"
         }
       ],
@@ -18925,36 +18931,44 @@
         {
           "result": "EvilSeed",
           "base": "PlantFamily",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         },
         {
           "result": "Droll",
-          "base": "ButterFly",
-          "mate": "ButterFly"
+          "base": "Butterfly",
+          "mate": "Butterfly"
         },
         {
           "result": "Belzebub",
           "base": "MultiEyes",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         },
         {
           "result": "MultiEyes",
           "base": "Catapila",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         }
       ],
-      "skills": [],
-      "maxLevel": 0,
+      "skills": [
+        "Surround",
+        "CallHelp",
+        "Curse"
+      ],
+      "maxLevel": 30,
       "experience": 0,
-      "hp": 0,
-      "mp": 0,
-      "attack": 0,
-      "defence": 0,
-      "agility": 0,
-      "intelligence": 0,
-      "locations": [],
+      "hp": 11,
+      "mp": 2,
+      "attack": 13,
+      "defence": 7,
+      "agility": 12,
+      "intelligence": 8,
+      "locations": [
+        "Traveler"
+      ],
       "cobiLocations": [],
-      "taraLocations": []
+      "taraLocations": [
+        "Pirate"
+      ]
     },
     {
       "name": "Eyeder",
@@ -19565,7 +19579,7 @@
         {
           "result": "MultiEyes",
           "base": "Catapila",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         }
       ],
       "asMate": [
@@ -19902,7 +19916,7 @@
         {
           "result": "MultiEyes",
           "base": "Catapila",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         }
       ],
       "asBase": [
@@ -19919,7 +19933,7 @@
         {
           "result": "Belzebub",
           "base": "MultiEyes",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         },
         {
           "result": "Belzebub",
@@ -20364,7 +20378,7 @@
         },
         {
           "result": "MadHornet",
-          "base": "ButterFly",
+          "base": "Butterfly",
           "mate": "Pyuro"
         }
       ],
@@ -20417,7 +20431,7 @@
         {
           "result": "Belzebub",
           "base": "MultiEyes",
-          "mate": "ButterFly"
+          "mate": "Butterfly"
         },
         {
           "result": "Belzebub",
@@ -24723,58 +24737,6 @@
       "locations": [],
       "cobiLocations": [],
       "taraLocations": []
-    },
-    {
-      "name": "CactiBall",
-      "family": "",
-      "recipes": [],
-      "asBase": [],
-      "asMate": [],
-      "skills": [
-        "Paralyze",
-        "HighJump",
-        "OddDance"
-      ],
-      "maxLevel": 30,
-      "experience": 6,
-      "hp": 18,
-      "mp": 18,
-      "attack": 12,
-      "defence": 15,
-      "agility": 9,
-      "intelligence": 5,
-      "locations": [
-        "Oasis"
-      ],
-      "cobiLocations": [],
-      "taraLocations": []
-    },
-    {
-      "name": "Butterfly",
-      "family": "",
-      "recipes": [],
-      "asBase": [],
-      "asMate": [],
-      "skills": [
-        "Surround",
-        "CallHelp",
-        "Curse"
-      ],
-      "maxLevel": 30,
-      "experience": 0,
-      "hp": 11,
-      "mp": 2,
-      "attack": 13,
-      "defence": 7,
-      "agility": 12,
-      "intelligence": 8,
-      "locations": [
-        "Traveler"
-      ],
-      "cobiLocations": [],
-      "taraLocations": [
-        "Pirate"
-      ]
     }
   ],
   "monstersFoundInCobiVersion": [
