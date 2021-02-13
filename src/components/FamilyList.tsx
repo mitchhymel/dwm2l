@@ -3,8 +3,6 @@ import styled from 'styled-components';
 import { library } from '../models/Library';
 import { Family, IMonster, Monsters } from '../models/Models';
 import { MonsterImage } from './MonsterImage';
-import { MonsterList } from './MonsterList';
-import { useHistory } from "react-router-dom";
 
 const Wrapper = styled.div`
   display: grid;
@@ -41,10 +39,9 @@ const Name = styled.div`
 
 interface FamilyListProps {
   family: Family;
-  simplified?: boolean;
 }
 
-export const FamilyList = ({family, simplified}: FamilyListProps) => {
+export const FamilyList = ({family}: FamilyListProps) => {
   let items: IMonster[] = [];
   for (let x of library.monsters.values()) {
     if (x.family === family) {
@@ -57,27 +54,16 @@ export const FamilyList = ({family, simplified}: FamilyListProps) => {
     return order.indexOf(a.name) - order.indexOf(b.name);
   });
 
-  let history = useHistory();
-
-  if (simplified) {
-    return (
-      <Wrapper>
-        {items.map(x => (
-          <Card onClick={() => history.push(`/monster/${x.name}`)}>
-            <MonsterImage monster={x.name} />
-            <Name>{x.name}</Name>
-          </Card>
-        ))}
-      </Wrapper>
-    )
-  }
-
   return (
-    <div>
-      <h1>{family}</h1>
-      <MonsterList monsters={items} />
-    </div>
-  );
+    <Wrapper>
+      {items.map(x => (
+        <Card>
+          <MonsterImage monster={x.name} />
+          <Name>{x.name}</Name>
+        </Card>
+      ))}
+    </Wrapper>
+  )
 }
 
 export default FamilyList;

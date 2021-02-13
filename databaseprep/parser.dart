@@ -11,7 +11,7 @@ Future<void> main() async {
 
 Future<void> getMonsterBreedingData() async {
   var lib = DWMLibrary();
-  print(lib.taraRecipeTrees['DarkDrium']!.printTree());
+  //print(lib.taraRecipeTrees['DarkDrium']!.printTree());
   String str = new JsonEncoder.withIndent('  ').convert(lib);
   File output = new File('output.json');
   output.writeAsStringSync(str);
@@ -117,6 +117,69 @@ class Recipe {
   }
 }
 
+class Resistance {
+  int Blaze= 0;
+  int BigBang= 0;
+  int FireSlash= 0;
+  int Firebal= 0;
+  int WindBeast= 0;
+  int Infernos= 0;
+  int MultiCut= 0;
+  int VacuSlash= 0;
+  int Lightning= 0;
+  int Bolt= 0;
+  int HellBlast= 0;
+  int BoltSlash= 0;
+  int IceBolt= 0;
+  int IceSlash= 0;
+  int Radiant= 0;
+  int Surround= 0;
+  int SandStorm= 0;
+  int Sleep= 0;
+  int NapAttack= 0;
+  int SleepAir= 0;
+  int SleepAll= 0;
+  int EerieLite= 0;
+  int UltraDown= 0;
+  int Beat= 0;
+  int KODance= 0;
+  int OddDance= 0;
+  int RobDance= 0;
+  int RobMagic= 0;
+  int StopSpell= 0;
+  int PaniDance= 0;
+  int PanicAll= 0;
+  int Sap= 0;
+  int SickLick= 0;
+  int Slow= 0;
+  int Sacrifice= 0;
+  int Kamikaze= 0;
+  int Ramming= 0;
+  int MegaMagic= 0;
+  int FireAir= 0;
+  int FrigidAir= 0;
+  int PoisonHit= 0;
+  int PoisonGas= 0;
+  int PoisonAir= 0;
+  int Paralyze= 0;
+  int PalsyAir= 0;
+  int Curse= 0;
+  int LegSweep= 0;
+  int LushLicks= 0;
+  int Ahhh= 0;
+  int BigTrip= 0;
+  int WarCry= 0;
+  int LureDance= 0;
+  int DanceShut= 0;
+  int MouthShut= 0;
+  int RockThrow= 0;
+  int CallHelp= 0;
+  int GigaSlash= 0;
+  int Geyser= 0;
+  int Watershot= 0;
+  int TidalWave= 0;
+  Resistance();
+}
 
 class RecipeTreeNode {
   final String name;
@@ -173,7 +236,7 @@ class DWMLibrary {
 
     _augmentLocations();
 
-    _augmentRecipeTree();
+    //_augmentRecipeTree();
   }
 
   Map<String, dynamic> toJson() => this.toMap();
@@ -280,7 +343,12 @@ class DWMLibrary {
   }
 
   void _augmentResistances() {
+    // File file = new File('resistances.txt');
+    // List<String> lines = file.readAsLinesSync();
 
+    // for (String line in lines) {
+
+    // }
   }
 
   void _augmentLocations() {
@@ -407,6 +475,8 @@ class DWMLibrary {
     List<Recipe> betterRecipe = [];
     List<Recipe> fallbackRecipe = [];
     for (var recipe in monster.recipes) {
+
+      // TODO: if it is boss family maybe we don't wnat to short circuit unless we have to
       // if this monster has a recipe where both can be found in worlds,
       // that is preferred
       bool isFamilyOrFoundInTaraBase = (_monsterIsFamily(recipe.base) || monstersFoundInTaraVersion.contains(recipe.base));

@@ -8,7 +8,7 @@ Babble,SlimeFamily,Poisongon
 Babble,SlimeFamily,GiantMoth
 Babble,SlimeFamily,ZombieFamily
 BoxSlime,SlimeFamily,MaterialFamily
-Pearlgel,SlimeFamily,WaterFamily
+PearlGel,SlimeFamily,WaterFamily
 Healer,SlimeFamily,PillowRat
 Healer,SlimeFamily,MadPlant
 Healer,SlimeFamily,CopyCat

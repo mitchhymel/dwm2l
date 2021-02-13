@@ -7,7 +7,7 @@ export const MainScreen= () => {
   return (
     <div>
       {Object.keys(Family).map(x => (
-        <FamilyList family={x as Family} simplified/>
+        <FamilyList family={x as Family}/>
       ))}
     </div>
   );

@@ -6,7 +6,7 @@ Snaily,SlimeFamily
 SlimeNite,SlimeFamily
 Babble,SlimeFamily
 BoxSlime,SlimeFamily
-Pearlgel,SlimeFamily
+PearlGel,SlimeFamily
 Slime,SlimeFamily
 Healer,SlimeFamily
 FangSlime,SlimeFamily
